@@ -1,4 +1,4 @@
-/* Headers */
+/* Heading CSS */
 h1 {
 
 }
@@ -15,7 +15,11 @@ h4 {
 
 }
 
-/*  */
+/* Paragraph CSS */
+
+p {
+    font-size: 16px;
+}
 
 /* List CSS */
 
