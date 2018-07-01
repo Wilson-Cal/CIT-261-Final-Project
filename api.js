@@ -6,6 +6,14 @@ function setFooter(html) {
 	document.getElementById('footer').appendChild(html);
 }
 
+function getContent() {
+    return document.getElementById('content');
+}
+
+function setContent(html) {
+    document.getElementById('content').appendChild(html)
+}
+
 function createH1Tag(text) {
 	var h1 = document.createElement('h1');
 	text = document.createTextNode(text);
@@ -43,4 +51,29 @@ function createPTag(text) {
 
 function createDiv() {
 	return document.createElement('div');
+}
+
+function writeLocal(key, data) {
+    localStorage.setItem(key, JSON.stringify(data));
+}
+
+function readLocal(key) {
+    return JSON.parse(localStorage.getItem(key))
+}
+
+async function getProducts() {
+    function getJSON() {
+        return new Promise(resolve => {
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200) {
+                    resolve(JSON.parse(this.responseText));
+                }
+            };
+            xhttp.open('GET', 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/store.json', true);
+            xhttp.send();
+        });
+    }
+    var data = await getJSON();
+    return(data);
 }
