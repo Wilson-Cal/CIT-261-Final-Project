@@ -2,7 +2,7 @@
 {
     "products" :
         {
-            "Clothing" : [
+            "clothing" : [
                 {
                     "name" : "Shirt",
                     "item_number" : 1,
