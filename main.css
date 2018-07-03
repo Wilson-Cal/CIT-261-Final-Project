@@ -25,6 +25,15 @@ p {
 
 /* NavBar CSS */
 
+.navBar {
+    width: 100%;
+    height: 40px;
+}
+
+.navBar>li {
+    display: inline-block;
+}
+
 /* Table CSS */
 
 /* Input Form CSS */
