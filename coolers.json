@@ -1,1 +1,4421 @@
-[{"name":"Cooler Master Hyper 212 EVO","price":27.89,"noise":"9.0 - 36.0 ","rpm":"600 - 2000"},{"name":"Corsair H100i v2","price":104.99,"noise":"37.7 ","rpm":"2435"},{"name":"CRYORIG H7","price":34.99,"noise":"1.0 - 25.0 ","rpm":"330 - 1600"},{"name":"NZXT Kraken X62 Rev 2","price":145.89,"noise":"21.0 - 38.0 ","rpm":"500 - 1800"},{"name":"Cooler Master MasterLiquid ML240L RGB","price":59.99,"noise":"6.0 - 30.0 ","rpm":"650 - 2000"},{"name":"Corsair H60","price":59.99,"noise":"30.9 ","rpm":"2000"},{"name":"be quiet! Pure Rock Slim","price":21.29,"noise":"13.1 - 25.4 ","rpm":"2000"},{"name":"Corsair H150i PRO","price":159.89,"noise":"25.0 ","rpm":"1600"},{"name":"Noctua NH-D15","price":83.61,"noise":"19.2 - 24.6 ","rpm":"300 - 1500"},{"name":"CRYORIG C7","price":29.99,"noise":"30.0 ","rpm":"600 - 2500"},{"name":"NZXT Kraken X72","price":181.99,"noise":"21.0 - 36.0 ","rpm":"500 - 2000"},{"name":"Corsair H115i PRO","price":129.99,"noise":"20.4 ","rpm":"1200"},{"name":"be quiet! Dark Rock 4","price":67.99,"noise":"n/a","rpm":"1400"},{"name":"Corsair H60 (2018)","price":59.99,"noise":"28.3 ","rpm":"1700"},{"name":"Cooler Master Hyper T2","price":16.19,"noise":"17.0 - 35.0 ","rpm":"2800"},{"name":"NZXT Kraken X52 Rev 2","price":130.39,"noise":"21.0 - 36.0 ","rpm":"500 - 2000"},{"name":"NZXT Kraken M22","price":79.99,"noise":"21.0 - 36.0 ","rpm":"500 - 2000"},{"name":"Corsair H100i","price":104.99,"noise":"37.7 ","rpm":""},{"name":"be quiet! Dark Rock Pro 4","price":84.99,"noise":"16.4 ","rpm":"1500"},{"name":"Noctua NH-L9i","price":38.79,"noise":"14.8 - 23.6 ","rpm":"2500 - 2999"},{"name":"Cooler Master MasterLiquid Lite 120","price":49.89,"noise":"6.0 - 30.0 ","rpm":"650 - 2000"},{"name":"Cooler Master Hyper 212 LED","price":19.99,"noise":"9.0 - 31.0 ","rpm":"600 - 1600"},{"name":"Cooler Master MasterLiquid Pro 240","price":238.41,"noise":"6.0 - 30.0 ","rpm":"500 - 2000"},{"name":"Thermaltake Floe Riing RGB 360 TT Premium Edition","price":175.12,"noise":"19.8 - 24.7 ","rpm":"500 - 1400"},{"name":"Cooler Master MasterLiquid 240","price":59.99,"noise":"6.0 - 30.0 ","rpm":"650 - 2000"},{"name":"Cooler Master Hyper 212X","price":19.99,"noise":"9.0 - 36.0 ","rpm":"600 - 2000"},{"name":"CRYORIG M9i","price":19.99,"noise":"26.4 ","rpm":"600 - 2200"},{"name":"NZXT Kraken X62","price":145.89,"noise":"21.0 - 38.0 ","rpm":""},{"name":"Noctua NH-U9S","price":57.19,"noise":"16.3 - 22.8 ","rpm":"400 - 2000"},{"name":"NZXT Kraken X31","price":246.99,"noise":"18.0 - 34.0 ","rpm":"800 - 2000"},{"name":"Corsair H115i","price":129.99,"noise":"20.4 ","rpm":""},{"name":"AMD Wraith Max","price":59,"noise":"39.0 ","rpm":"700 - 3000"},{"name":"Deepcool CAPTAIN 240EX WHITE","price":79.89,"noise":"17.6 - 31.3 ","rpm":"500 - 1800"},{"name":"Cooler Master MasterLiquid ML240R RGB","price":117.92,"noise":"6.0 - 30.0 ","rpm":"650 - 2000"},{"name":"ARCTIC Alpine 11 GT Rev. 2","price":6.49,"noise":"n/a","rpm":"500 - 2000"},{"name":"Cooler Master MasterAir G100M RGB","price":35.79,"noise":"30.0 ","rpm":"600 - 2400"},{"name":"Cooler Master \tMasterLiquid Lite 240","price":44.99,"noise":"6.0 - 30.0 ","rpm":"650 - 2000"},{"name":"Noctua NH-U12S","price":57.99,"noise":"18.6 - 22.4 ","rpm":"300 - 1500"},{"name":"Corsair H80i v2","price":94.89,"noise":"37.7 ","rpm":"2435"},{"name":"Fractal Design Celsius S36","price":116.99,"noise":"32.2 ","rpm":"500 - 2000"},{"name":"Deepcool GAMMAXX 400 White","price":37.99,"noise":"17.8 - 30.0 ","rpm":"900 - 1500"},{"name":"CRYORIG H7 Quad Lumi","price":59.95,"noise":"10.0 - 25.0 ","rpm":"330 - 1600"},{"name":"Cooler Master MasterLiquid ML120L RGB","price":49.79,"noise":"6.0 - 30.0 ","rpm":"650 - 2000"},{"name":"Noctua NH-D15S","price":79.9,"noise":"19.2 - 24.6 ","rpm":"300 - 1500"},{"name":"Corsair H55","price":49.99,"noise":"30.3 ","rpm":"1700"},{"name":"Noctua NH-D14","price":74.95,"noise":"12.6 - 19.8 ","rpm":"900 - 1200"},{"name":"Corsair H110i","price":112.89,"noise":"43.0 ","rpm":"2100"},{"name":"Noctua NH-D15 SE-AM4","price":89.9,"noise":"19.2 - 24.6 ","rpm":"1200 - 1500"},{"name":"EVGA CLC 280","price":109.99,"noise":"16.0 - 39.5 ","rpm":"600 - 2200"},{"name":"be quiet! Dark Rock Pro 3","price":82.39,"noise":"13.2 - 26.1 ","rpm":"1400 - 1700"},{"name":"Noctua NH-L9a-AM4","price":39.9,"noise":"14.8 - 23.6 ","rpm":"600 - 2500"},{"name":"NZXT Kraken X52","price":130.39,"noise":"21.0 - 36.0 ","rpm":""},{"name":"Deepcool CAPTAIN 240EX RGB","price":97.49,"noise":"17.6 - 31.3 ","rpm":"500 - 1800"},{"name":"ARCTIC Freezer 33 eSports ONE (Black/Red)","price":29.99,"noise":"24.4 ","rpm":"200 - 1800"},{"name":"Fractal Design Celsius S24","price":96.57,"noise":"32.2 ","rpm":"500 - 2000"},{"name":"Cooler Master MasterAir MA610P","price":44.65,"noise":"35.0 ","rpm":"1800"},{"name":"ARCTIC Freezer 7 Pro Rev.2","price":18.29,"noise":"n/a","rpm":"900 - 2500"},{"name":"Corsair H105","price":94.99,"noise":"37.7 ","rpm":"800 - 2700"},{"name":"be quiet! Dark Rock 3","price":68.9,"noise":"8.4 - 21.1 ","rpm":"400 - 1400"},{"name":"Noctua NH-U12P SE2","price":369.99,"noise":"12.6 - 19.8 ","rpm":"900 - 1300"},{"name":"Deepcool NEPTWIN V2.0","price":29.99,"noise":"26.6 ","rpm":"1300"},{"name":"Cooler Master MasterLiquid 120","price":59.99,"noise":"6.0 - 30.0 ","rpm":"650 - 2000"},{"name":"Cooler Master Hyper 212X Dual Fan","price":34.99,"noise":"9.0 - 36.0 ","rpm":"2000"},{"name":"CRYORIG H5 Ultimate","price":46.89,"noise":"19.0 - 23.0 ","rpm":"700 - 1300"},{"name":"Noctua NH-U14S TR4-SP3","price":79.9,"noise":"19.2 - 24.6 ","rpm":"300 - 1500"},{"name":"RAIJINTEK JUNO-X","price":10.99,"noise":"26.0 ","rpm":"1200 - 2500"},{"name":"EVGA CLC 240","price":89.49,"noise":"16.0 - 39.9 ","rpm":"500 - 2400"},{"name":"Cooler Master Hyper T4","price":14.99,"noise":"15.1 - 31.6 ","rpm":"1800"},{"name":"CRYORIG M9a","price":19.99,"noise":"26.4 ","rpm":"600 - 2200"},{"name":"Noctua NH-L9x65","price":48.88,"noise":"14.8 - 23.6 ","rpm":"600 - 2500"},{"name":"ARCTIC Freezer 33 eSports ONE (Black/White)","price":29.98,"noise":"24.4 ","rpm":"200 - 1800"},{"name":"ARCTIC Alpine 64 Pro Rev 2","price":8.89,"noise":"n/a","rpm":"500 - 2000"},{"name":"Noctua NH-U14S","price":79.9,"noise":"19.2 - 24.6 ","rpm":""},{"name":"MSI CORE FROZR L","price":52.79,"noise":"17.2 - 33.6 ","rpm":"500 - 1800"},{"name":"Thermaltake Floe Riing RGB 240 TT Premium Edition","price":137.49,"noise":"19.8 - 24.7 ","rpm":"500 - 1400"},{"name":"Thermaltake CL-P0497","price":6.29,"noise":"27.0 ","rpm":"2500"},{"name":"be quiet! PURE ROCK","price":35.39,"noise":"19.1 - 26.8 ","rpm":"1500"},{"name":"Deepcool CAPTAIN 240EX RGB WH","price":112.5,"noise":"17.6 - 31.3 ","rpm":"500 - 1800"},{"name":"Enermax LiqTech TR4 360","price":131.96,"noise":"14.0 - 28.0 ","rpm":"500 - 2300"},{"name":"Thermaltake CLP0556-B","price":8.49,"noise":"22.0 ","rpm":"1900 - 2300"},{"name":"Deepcool GAMMAXX GT","price":39.99,"noise":"17.8 - 29.5 ","rpm":"500 - 1500"},{"name":"Corsair H75","price":71.68,"noise":"31.4 ","rpm":"2000"},{"name":"Thermaltake Water 3.0 Riing RGB 360","price":139.99,"noise":"26.4 ","rpm":"800 - 1500"},{"name":"Intel BXTS15A","price":29.3,"noise":"n/a","rpm":"1000 - 3850"},{"name":"Thermaltake Contac Silent 12","price":21.37,"noise":"22.1 - 28.8 ","rpm":"400 - 1500"},{"name":"Noctua NH-D9L","price":51.82,"noise":"16.3 - 22.8 ","rpm":"400 - 2000"},{"name":"Cooler Master Hyper TX3","price":26.99,"noise":"17.0 - 35.0 ","rpm":"800 - 2800"},{"name":"Deepcool CAPTAIN 120EX RGB","price":65.99,"noise":"17.6 - 31.3 ","rpm":"500 - 1800"},{"name":"NZXT Kraken X42 Rev 2","price":115.89,"noise":"21.0 - 38.0 ","rpm":"500 - 1800"},{"name":"Scythe FUMA Rev.B","price":46.99,"noise":"13.0 - 28.0 ","rpm":"300 - 1400"},{"name":"Thermaltake Water 3.0 Riing RGB 240","price":109.99,"noise":"26.4 ","rpm":"800 - 1500"},{"name":"Noctua NH-U12S TR4-SP3","price":69.9,"noise":"18.6 - 22.4 ","rpm":"300 - 1500"},{"name":"CRYORIG R1 Ultimate","price":89.95,"noise":"23.0 ","rpm":"700 - 1300"},{"name":"Rosewill RCX-Z775-LP","price":11.99,"noise":"16.0 - 24.5 ","rpm":"600 - 2600"},{"name":"CRYORIG C7 Cu","price":49.95,"noise":"30.0 ","rpm":"600 - 2500"},{"name":"Cooler Master Hyper 212 LED Turbo (Red)","price":26.99,"noise":"9.0 - 31.0 ","rpm":"300 - 1600"},{"name":"Deepcool CAPTAIN 360EX WHITE RGB","price":159.99,"noise":"17.6 - 31.3 ","rpm":"500 - 1800"},{"name":"Thermaltake CL-P0503","price":5.29,"noise":"29.6 ","rpm":"2900"},{"name":"Cooler Master Nepton 280L","price":"N/A","noise":"21.0 - 39.0 ","rpm":"2000"},{"name":"ARCTIC Alpine 11 Plus","price":9.79,"noise":"14.0 ","rpm":"600 - 2000"},{"name":"CRYORIG H5 Universal","price":46.99,"noise":"20.0 - 24.0 ","rpm":"700 - 1300"},{"name":"Cooler Master MasterLiquid ML120R RGB","price":89.99,"noise":"6.0 - 30.0 ","rpm":"650 - 2000"},{"name":"NZXT Kraken X61","price":114.98,"noise":"20.0 - 37.0 ","rpm":"800 - 2000"},{"name":"be quiet! DARK ROCK TF","price":78.89,"noise":"11.9 - 26.7 ","rpm":"1400"},{"name":"Enermax LIQTECH TR4 280","price":122.05,"noise":"14.0 - 25.0 ","rpm":"500 - 1500"},{"name":"ARCTIC Alpine 11 GT Rev 2","price":10.03,"noise":"22.5 ","rpm":"2000"},{"name":"Corsair H100i GTX","price":148.98,"noise":"37.7 ","rpm":"2435"},{"name":"Noctua NH-L12S","price":49.9,"noise":"16.8 - 23.9 ","rpm":"450 - 1850"},{"name":"Scythe Mugen 5 Rev. B","price":47.99,"noise":"4.0 - 24.9 ","rpm":"300 - 1200"},{"name":"Cooler Master MasterAir MA410P","price":34.99,"noise":"6.0 - 30.0 ","rpm":"650 - 2000"},{"name":"Deepcool CAPTAIN 120 EX","price":62.56,"noise":"17.6 - 31.3 ","rpm":"500 - 1800"},{"name":"Deepcool CAPTAIN 240 EX","price":80.99,"noise":"17.6 - 31.3 ","rpm":"500 - 1800"},{"name":"Deepcool GAMMAXX 400","price":21.89,"noise":"21.4 - 32.1 ","rpm":"900 - 1500"},{"name":"Thermaltake Water 3.0 Ultimate","price":117.49,"noise":"20.0 ","rpm":"1000 - 2000"},{"name":"RAIJINTEK JUNO-X","price":9.49,"noise":"26.0 ","rpm":"1200 - 2500"},{"name":"be quiet! SHADOW ROCK LP","price":41.39,"noise":"14.8 - 25.5 ","rpm":"1500"},{"name":"Enermax Liqfusion","price":113.99,"noise":"14.0 - 28.0 ","rpm":"500 - 2000"},{"name":"Cooler Master MasterAir Maker 8","price":105,"noise":"8.0 - 24.0 ","rpm":"600 - 1800"},{"name":"MSI Core Frozr XL","price":109.99,"noise":"17.2 - 33.6 ","rpm":"500 - 1800"},{"name":"Corsair H80i","price":152.78,"noise":"37.7 ","rpm":"2700"},{"name":"EVGA CLC 120","price":59.89,"noise":"16.0 - 39.9 ","rpm":"500 - 2400"},{"name":"Cooler Master GeminII M4","price":33.83,"noise":"8.0 - 30.0 ","rpm":"500 - 1600"},{"name":"Noctua NH-U12S SE-AM4","price":59.9,"noise":"18.6 - 22.4 ","rpm":"300 - 1500"},{"name":"Cooler Master Hyper TX3 Evo","price":67.35,"noise":"n/a","rpm":"800 - 2200"},{"name":"NZXT Kraken X42","price":129.89,"noise":"21.0 - 38.0 ","rpm":"500 - 1800"},{"name":"Deepcool GAMMAXX 300 R","price":18.28,"noise":"17.8 - 21.0 ","rpm":"900 - 1600"},{"name":"Noctua NH-U9B SE2","price":59.99,"noise":"7.9 - 17.6 ","rpm":"1000 - 1600"},{"name":"ARCTIC Liquid Freezer 360","price":115.72,"noise":"22.5 ","rpm":"500 - 1350"},{"name":"Cooler Master V8 GTS","price":88.19,"noise":"36.0 ","rpm":"1600"},{"name":"Deepcool CAPTAIN 360","price":169.99,"noise":"17.6 - 39.3 ","rpm":"600 - 2200"},{"name":"Thermalright Macho Rev.B","price":49.9,"noise":"15.0 - 21.0 ","rpm":"300 - 1300"},{"name":"CRYORIG R1 Universal","price":89.95,"noise":"20.0 - 25.0 ","rpm":"700 - 1300"},{"name":"Gelid Solutions CC-Siberian-01","price":9.93,"noise":"10.0 - 22.5 ","rpm":"900 - 2200"},{"name":"Corsair H110i GTX","price":"N/A","noise":"40.0 ","rpm":"2000"},{"name":"Cooler Master Hyper 212 LED Turbo (Black)","price":34.99,"noise":"9.0 - 31.0 ","rpm":"600 - 1600"},{"name":"Enermax Liqmax II 240","price":79.68,"noise":"16.0 - 35.0 ","rpm":"500 - 2000"},{"name":"Thermalright Le Grand Macho RT","price":79.99,"noise":"14.0 - 20.0 ","rpm":"300 - 1300"},{"name":"ARCTIC Freezer 13 CO","price":28.99,"noise":"24.4 ","rpm":"600 - 2000"},{"name":"ARCTIC Freezer 33 eSports Edition (Black/White)","price":44.89,"noise":"24.4 ","rpm":"200 - 1800"},{"name":"Corsair H50","price":49.99,"noise":"30.3 ","rpm":"1700"},{"name":"Noctua NH-U9 TR4-SP3","price":69.9,"noise":"16.3 - 22.8 ","rpm":"400 - 2000"},{"name":"Gigabyte AORUS ATC700","price":79.99,"noise":"12.0 - 31.0 ","rpm":"500 - 1700"},{"name":"Corsair H90","price":"N/A","noise":"35.0 ","rpm":"1500"},{"name":"Deepcool CAPTAIN 120EX WHITE","price":71.99,"noise":"17.6 - 31.3 ","rpm":"500 - 1800"},{"name":"Thermaltake Floe Riing RGB 280 TT Premium Edition","price":145.99,"noise":"19.8 - 27.2 ","rpm":"500 - 1400"},{"name":"ARCTIC Freezer 33 TR (Black/White)","price":38.05,"noise":"24.4 ","rpm":"200 - 1800"},{"name":"Intel BXTS13X","price":79.99,"noise":"21.0 - 35.0 ","rpm":"800 - 2200"},{"name":"be quiet! Silent Loop 360","price":"N/A","noise":"16.1 - 36.9 ","rpm":"2000"},{"name":"be quiet! Silent Loop 120","price":185.5,"noise":"16.1 - 36.9 ","rpm":"2000"},{"name":"Enermax Liqmax II 120","price":59.98,"noise":"16.0 - 35.0 ","rpm":"500 - 2000"},{"name":"Deepcool GAMMAXX 200T","price":15.49,"noise":"17.8 - 26.1 ","rpm":"900 - 1600"},{"name":"Deepcool Maelstrom 120T","price":"N/A","noise":"17.8 - 34.1 ","rpm":"600 - 1800"},{"name":"Cooler Master DP6-9EDSA-0L-GP","price":10.89,"noise":"24.5 ","rpm":"2600"},{"name":"Deepcool ICE BLADE 200M","price":20.89,"noise":"17.8 - 30.1 ","rpm":"2200"},{"name":"ID-COOLING DK-03","price":"N/A","noise":"26.4 ","rpm":"1600"},{"name":"RAIJINTEK JUNO-X","price":9.49,"noise":"26.0 ","rpm":"1200 - 2500"},{"name":"Noctua NH-U9DO A3","price":101.36,"noise":"7.9 - 17.6 ","rpm":"1000 - 1600"},{"name":"Intel BXXTS100H","price":"N/A","noise":"20.0 - 35.0 ","rpm":"800 - 1800"},{"name":"Reeven Brontes","price":"N/A","noise":"10.5 - 31.7 ","rpm":"650 - 2200"},{"name":"Zalman CNPS80F","price":11.81,"noise":"23.8 ","rpm":"2500"},{"name":"Scythe BIG Shuriken 2 Rev. B","price":34.29,"noise":"9.3 - 33.7 ","rpm":"500 - 2000"},{"name":"Cooler Master MasterLiquid Pro 280","price":167.59,"noise":"6.0 - 30.0 ","rpm":"650 - 2200"},{"name":"LEPA AquaChanger 240","price":49.31,"noise":"14.0 - 35.0 ","rpm":"500 - 2300"},{"name":"Cooler Master Vortex Plus","price":26.99,"noise":"17.0 - 35.0 ","rpm":"800 - 2800"},{"name":"Cooler Master Hyper 212 Plus","price":43.25,"noise":"13.0 - 32.0 ","rpm":"600 - 2000"},{"name":"Thermaltake Water 3.0 Performer C + LNC","price":62.29,"noise":"27.4 ","rpm":"1200 - 2000"},{"name":"Rosewill RCX-Z300","price":12.99,"noise":"n/a","rpm":"N/A"},{"name":"RAIJINTEK LETO B","price":36.99,"noise":"29.0 ","rpm":"800 - 1800"},{"name":"RAIJINTEK THEMIS","price":14.99,"noise":"24.5 ","rpm":"1000 - 1500"},{"name":"Cooler Master Seidon 120V","price":"N/A","noise":"19.0 - 40.0 ","rpm":"2400"},{"name":"Noctua NH-L12","price":49.9,"noise":"16.8 - 23.9 ","rpm":"450 - 1850"},{"name":"Thermaltake Water 3.0 Extreme S","price":79.89,"noise":"20.0 ","rpm":"1000 - 2000"},{"name":"Enermax LiqTech TR4 240","price":117.24,"noise":"14.0 - 28.0 ","rpm":"500 - 2300"},{"name":"Cooler Master MasterAir MA410M","price":59.99,"noise":"6.0 - 31.0 ","rpm":"650 - 1800"},{"name":"Corsair H50","price":49.99,"noise":"30.3 ","rpm":"1700"},{"name":"Cooler Master DK9-7G52A-0L-GP","price":20.88,"noise":"35.0 ","rpm":"4500"},{"name":"Noctua NH-D14 SE2011","price":79.89,"noise":"12.6 - 19.8 ","rpm":"900 - 1300"},{"name":"Enermax Liqtech 240","price":179.99,"noise":"30.0 ","rpm":"2500"},{"name":"SilentiumPC Fera 3 HE1224 v2","price":"N/A","noise":"n/a","rpm":"500 - 1600"},{"name":"ID-COOLING FROSTFLOW+ 240","price":"N/A","noise":"18.0 - 35.2 ","rpm":"700 - 1800"},{"name":"ARCTIC Alpine 64 GT","price":9.89,"noise":"n/a","rpm":"500 - 2000"},{"name":"Cooler Master MasterAir MA410M TUF Gaming Edition","price":59.99,"noise":"6.0 - 31.0 ","rpm":"600 - 1800"},{"name":"CRYORIG C1","price":59.99,"noise":"24.0 ","rpm":"700 - 1300"},{"name":"Cooler Master MasterLiquid Pro 140","price":99.79,"noise":"6.0 - 30.0 ","rpm":"650 - 2000"},{"name":"RAIJINTEK LETO R","price":36.99,"noise":"29.0 ","rpm":"800 - 1800"},{"name":"Corsair H110","price":"N/A","noise":"40.0 ","rpm":""},{"name":"Cooler Master MasterAir Pro 3","price":31.79,"noise":"6.0 - 30.0 ","rpm":"650 - 3000"},{"name":"ARCTIC Freezer 12","price":19.39,"noise":"-","rpm":"-"},{"name":"ARCTIC Freezer 33 TR (Black/Red)","price":39.03,"noise":"24.4 ","rpm":"200 - 1800"},{"name":"ID-COOLING FROSTFLOW+ 280","price":"N/A","noise":"16.8 - 32.6 ","rpm":"800 - 1600"},{"name":"ARCTIC Alpine 11","price":10.03,"noise":"22.5 ","rpm":""},{"name":"Enermax Liqtech 120X","price":196.71,"noise":"15.0 - 30.0 ","rpm":"600 - 2500"},{"name":"Alpenföhn BEN NEVIS","price":"N/A","noise":"8.0 - 20.2 ","rpm":"400 - 1600"},{"name":"NoFan CR-80EH","price":"N/A","noise":"-","rpm":"-"},{"name":"ARCTIC Alpine 11 Pro Rev. 2","price":9.99,"noise":"n/a","rpm":"500 - 2000"},{"name":"Noctua NH-L9x65 SE-AM4","price":49.9,"noise":"14.8 - 23.6 ","rpm":"600 - 2500"},{"name":"be quiet! Shadow Rock 2","price":48.9,"noise":"15.3 - 25.4 ","rpm":"1600"},{"name":"Noctua NH-C14S","price":74.88,"noise":"19.2 - 24.6 ","rpm":"300 - 1500"},{"name":"ARCTIC Freezer 13","price":28.99,"noise":"24.4 ","rpm":""},{"name":"Noctua NH-U9DXi4","price":59.95,"noise":"13.1 - 17.6 ","rpm":"300 - 1600"},{"name":"ARCTIC Liquid Freezer 120","price":"N/A","noise":"n/a","rpm":"500 - 1350"},{"name":"Silverstone AR05","price":36.99,"noise":"20.0 - 28.3 ","rpm":"2500"},{"name":"RAIJINTEK LETO W","price":36.99,"noise":"29.0 ","rpm":"800 - 1800"},{"name":"Thermaltake Water 3.0 Extreme","price":"N/A","noise":"20.0 ","rpm":"1000 - 2000"},{"name":"Phanteks PH-TC12DX_BK","price":55.85,"noise":"21.9 - 27.6 ","rpm":"600 - 1800"},{"name":"be quiet! Shadow Rock Slim","price":39.99,"noise":"11.5 - 23.7 ","rpm":"400 - 1400"},{"name":"Cooler Master MA621P TR4","price":50,"noise":"31.0 ","rpm":"600 - 1800"},{"name":"Cooler Master GeminII S524 Ver 2","price":41.18,"noise":"22.0 ","rpm":"2000"},{"name":"Cooler Master MasterAir MA620P TUF Gaming Edition","price":59.99,"noise":"6.0 - 31.0 ","rpm":"600 - 1800"},{"name":"Cooler Master Hyper 103","price":38.32,"noise":"17.0 - 30.0 ","rpm":"800 - 2200"},{"name":"Cooler Master MasterAir Pro 4","price":92.43,"noise":"6.0 - 30.0 ","rpm":"650 - 2000"},{"name":"Enermax ETS-N30R-HE","price":24.99,"noise":"12.0 - 28.0 ","rpm":"600 - 2800"},{"name":"Alphacool Eisbaer 360","price":152.29,"noise":"29.0 ","rpm":"550 - 1700"},{"name":"CRYORIG A40","price":104.35,"noise":"13.0 - 37.0 ","rpm":"600 - 2200"},{"name":"Thermaltake CLP0556","price":13.44,"noise":"22.0 ","rpm":"1900 - 2300"},{"name":"Noctua NH-U12DXi4","price":64.17,"noise":"18.6 - 22.4 ","rpm":"300 - 1500"},{"name":"Noctua NH-D9DX i4 3U","price":54.95,"noise":"16.3 - 22.8 ","rpm":"400 - 2000"},{"name":"Thermaltake NiC C5","price":47.49,"noise":"20.0 - 39.9 ","rpm":"1000 - 2000"},{"name":"ARCTIC Alpine 64 PLUS","price":13.5,"noise":"n/a","rpm":"600 - 2000"},{"name":"ARCTIC Alpine 11 - Passive","price":12.31,"noise":"-","rpm":"-"},{"name":"Deepcool CAPTAIN360EX","price":149.99,"noise":"17.6 - 31.3 ","rpm":"500 - 1800"},{"name":"ARCTIC Liquid Freezer 240","price":"N/A","noise":"n/a","rpm":"500 - 1350"},{"name":"Deepcool GAMMAXX 300","price":19.64,"noise":"17.8 - 21.0 ","rpm":"900 - 1600"},{"name":"Cooler Master Hyper 612 Ver.2","price":27.99,"noise":"11.0 - 20.0 ","rpm":"800 - 1300"},{"name":"Enermax ETS-T40F-W","price":48.83,"noise":"27.0 ","rpm":"2200"},{"name":"ID-COOLING IS-60","price":44.98,"noise":"13.8 - 30.2 ","rpm":"600 - 1600"},{"name":"Dynatron K129","price":33.95,"noise":"-","rpm":"-"},{"name":"Thermalright TRUE Spirit 140 POWER","price":49.9,"noise":"17.0 - 21.0 ","rpm":"900 - 1300"},{"name":"Deepcool FROSTWIN V2.0","price":39.89,"noise":"17.8 - 21.0 ","rpm":"1600"},{"name":"be quiet! Silent Loop 240","price":"N/A","noise":"16.1 - 36.9 ","rpm":"2000"},{"name":"Cooler Master MasterLiquid Pro 120","price":"N/A","noise":"6.0 - 30.0 ","rpm":"500 - 2000"},{"name":"Antec KUHLER H2O 650","price":63.32,"noise":"n/a","rpm":"600 - 2400"},{"name":"Deepcool Maelstrom 240T","price":92.21,"noise":"17.8 - 34.1 ","rpm":"600 - 1800"},{"name":"Thermaltake Riing Silent 12 Blue","price":39.99,"noise":"13.0 - 18.0 ","rpm":"300 - 1400"},{"name":"Dynatron T450","price":14.56,"noise":"16.0 - 27.3 ","rpm":"800 - 2500"},{"name":"Deepcool CAPTAIN 120 WHITE","price":74.99,"noise":"17.6 - 39.3 ","rpm":"600 - 2200"},{"name":"Alpenföhn Silvretta","price":"N/A","noise":"n/a","rpm":"800 - 2800"},{"name":"Zalman Reserator 3 MAX","price":124.19,"noise":"18.9 - 36.7 ","rpm":"1000 - 2200"},{"name":"Noctua NH-U9DX 1366","price":64.95,"noise":"7.9 - 17.6 ","rpm":"1000 - 1600"},{"name":"ARCTIC Alpine 20 PLUS CO","price":18.9,"noise":"n/a","rpm":"600 - 2200"},{"name":"Fractal Design Kelvin S36","price":"N/A","noise":"26.9 ","rpm":"800 - 1700"},{"name":"Cooler Master Eisberg 120L Prestige","price":"N/A","noise":"20.5 ","rpm":"1600"},{"name":"Cooler Master Seidon 240P","price":"N/A","noise":"12.0 - 35.0 ","rpm":"800 - 2400"},{"name":"Deepcool CAPTAIN 120","price":74.99,"noise":"17.6 - 39.3 ","rpm":""},{"name":"ID-COOLING SE-214","price":"N/A","noise":"16.2 - 29.2 ","rpm":"1800"},{"name":"Corsair H40","price":"N/A","noise":"n/a","rpm":"2000"},{"name":"Prolimatech PRO-SAM17","price":63.95,"noise":"n/a","rpm":"N/A"},{"name":"Cooler Master Hyper D92","price":34.22,"noise":"18.0 - 33.0 ","rpm":"800 - 2800"},{"name":"Cooler Master MasterAir MA620P","price":59.99,"noise":"6.0 - 31.0 ","rpm":""},{"name":"Noctua NH-L9a","price":49.99,"noise":"n/a","rpm":"2500"},{"name":"RAIJINTEK RHEA","price":15.99,"noise":"27.9 ","rpm":"800 - 2200"},{"name":"Silverstone AR06","price":39.78,"noise":"20.0 - 28.3 ","rpm":"2500"},{"name":"Phanteks PH-TC12DX","price":55.85,"noise":"21.9 - 27.6 ","rpm":""},{"name":"Enermax ETS-N30R-TAA","price":30.13,"noise":"16.0 - 27.0 ","rpm":"800 - 2800"},{"name":"ARCTIC Freezer 33 eSports Edition (Black/Red)","price":47.65,"noise":"24.4 ","rpm":"200 - 1800"},{"name":"Thermaltake Riing Silent 12 Red","price":35.49,"noise":"13.0 - 18.0 ","rpm":"300 - 1400"},{"name":"Scythe Kotetsu","price":35.89,"noise":"5.3 - 28.0 ","rpm":"400 - 1400"},{"name":"Silverstone TD02-LITE","price":74.67,"noise":"18.0 - 35.0 ","rpm":"1500 - 2500"},{"name":"Deepcool GABRIEL","price":29.72,"noise":"18.2 - 32.4 ","rpm":"900 - 1800"},{"name":"CRYORIG A40 ULTIMATE","price":114.35,"noise":"13.0 - 37.0 ","rpm":"600 - 2200"},{"name":"Thermaltake Engine 27","price":42.99,"noise":"13.0 - 25.0 ","rpm":"1500 - 2500"},{"name":"Cooler Master Seidon 120V VER.2","price":103.91,"noise":"6.5 - 27.0 ","rpm":"800 - 2400"},{"name":"be quiet! Dark Rock Advanced C1","price":102.4,"noise":"6.6 - 18.8 ","rpm":"1500"},{"name":"Scythe SCNJ-4000","price":39.99,"noise":"4.0 - 29.5 ","rpm":"300 - 1500"},{"name":"ARCTIC Freezer 33 eSports ONE (Black/Green)","price":29.99,"noise":"24.4 ","rpm":"200 - 1800"},{"name":"Scythe Mugen 5 PCGH Edition","price":101.24,"noise":"4.0 - 14.5 ","rpm":"300 - 800"},{"name":"LEPA AquaChanger 120","price":59.89,"noise":"14.0 - 35.0 ","rpm":"500 - 2300"},{"name":"Deepcool CAPTAIN 240 WHITE","price":109.99,"noise":"17.6 - 39.3 ","rpm":"600 - 2200"},{"name":"SilenX EFZ-120HA5","price":39.89,"noise":"8.0 - 24.0 ","rpm":"1600"},{"name":"SilenX EFZ-80HA3","price":25.89,"noise":"8.0 - 24.0 ","rpm":"2200"},{"name":"Cooler Master DK9-7E52A-0L-GP","price":20.88,"noise":"25.2 ","rpm":"3200"},{"name":"Enermax ETS-T40-BK","price":79.99,"noise":"16.0 - 26.0 ","rpm":"800 - 1800"},{"name":"Cooler Master Nepton 120XL","price":"N/A","noise":"6.5 - 27.0 ","rpm":"2400"},{"name":"Silverstone NT08-115X","price":20.99,"noise":"21.6 - 62.9 ","rpm":"1200 - 3500"},{"name":"EVGA ACX","price":"N/A","noise":"42.5 ","rpm":"2800"},{"name":"Silverstone TD03-SLIM","price":"N/A","noise":"16.5 - 27.4 ","rpm":"800 - 2200"},{"name":"ID-COOLING FROSTFLOW 240L-R","price":"N/A","noise":"20.0 - 38.2 ","rpm":"800 - 2000"},{"name":"Intel BXRTS2011AC","price":"N/A","noise":"n/a","rpm":"1000 - 3000"},{"name":"Thermalright Silver Arrow","price":"N/A","noise":"17.0 - 21.0 ","rpm":"500 - 1300"},{"name":"Corsair H80","price":"N/A","noise":"22.0 - 39.0 ","rpm":"1300 - 2500"},{"name":"Deepcool NEPTWIN","price":"N/A","noise":"17.8 - 30.0 ","rpm":"900 - 1500"},{"name":"Intel BXRTS2011LC","price":"N/A","noise":"n/a","rpm":"2200"},{"name":"Thermalright AXP-100","price":"N/A","noise":"22.0 - 30.0 ","rpm":"900 - 2500"},{"name":"Thermaltake Water 2.0 Extreme","price":"N/A","noise":"27.4 ","rpm":"1200 - 2000"},{"name":"Thermaltake Gravity i2","price":11.89,"noise":"21.3 ","rpm":"1800"},{"name":"Phanteks PH-TC14PE","price":82.85,"noise":"13.4 - 19.0 ","rpm":"700 - 1200"},{"name":"ARCTIC Freezer 33","price":47.65,"noise":"24.4 ","rpm":""},{"name":"ID-COOLING AURAFLOW 120","price":66.99,"noise":"18.0 - 35.2 ","rpm":"700 - 1800"},{"name":"Phanteks PH-TC12LS_BK","price":37.81,"noise":"25.0 ","rpm":"500 - 1800"},{"name":"CRYORIG A80","price":124.45,"noise":"13.0 - 38.0 ","rpm":"600 - 1850"},{"name":"Scythe Shuriken Rev. B 3","price":32.99,"noise":"10.5 - 31.7 ","rpm":"650 - 2200"},{"name":"ARCTIC Freezer 33 CO","price":33.84,"noise":"-","rpm":"-"},{"name":"Alphacool Eisbaer 240","price":120.75,"noise":"29.0 ","rpm":"550 - 1700"},{"name":"Scythe SCKZT-1000","price":29.69,"noise":"8.2 - 32.5 ","rpm":"800 - 3300"},{"name":"Zalman CNPS8X Optima","price":14.99,"noise":"18.2 - 30.0 ","rpm":"1200 - 2100"},{"name":"Scythe SCBYK-1000","price":22.95,"noise":"7.2 - 28.3 ","rpm":"300 - 2300"},{"name":"Enermax ETS-T50 AXE (Black)","price":57.98,"noise":"18.9 - 25.0 ","rpm":"800 - 1800"},{"name":"RAIJINTEK JUNO-X RGB","price":"N/A","noise":"28.0 ","rpm":"1000 - 2000"},{"name":"Prolimatech PRO-GNSS-BK","price":78.52,"noise":"-","rpm":"-"},{"name":"Thermaltake Frio Silent 12","price":31.19,"noise":"12.0 - 19.2 ","rpm":"1400"},{"name":"Alphacool Eisbaer LT360","price":"N/A","noise":"29.0 ","rpm":"550 - 1700"},{"name":"Thermaltake Riing Silent 12 Pro Blue","price":55.51,"noise":"12.0 - 19.0 ","rpm":"300 - 1400"},{"name":"Akasa Venom Voodoo","price":105.74,"noise":"6.9 - 28.9 ","rpm":"600 - 1900"},{"name":"ID-COOLING Auraflow 240 RGB","price":"N/A","noise":"18.0 - 35.2 ","rpm":"700 - 1800"},{"name":"Zalman CNPS9900MAX-B","price":59.89,"noise":"18.0 - 30.0 ","rpm":"900 - 1700"},{"name":"NZXT Kraken X41","price":"N/A","noise":"20.0 - 37.0 ","rpm":"800 - 2000"},{"name":"LEPA EXllusion 240","price":109.81,"noise":"14.0 - 30.0 ","rpm":"500 - 1800"},{"name":"ARCTIC Freezer A11","price":17.53,"noise":"22.5 ","rpm":"500 - 2000"},{"name":"Scythe FUMA","price":"N/A","noise":"13.0 - 28.0 ","rpm":"300 - 1400"},{"name":"Thermaltake Riing Silent 12 Pro Red","price":52.99,"noise":"12.0 - 19.0 ","rpm":"300 - 1400"},{"name":"ID-COOLING IS-25i","price":17.99,"noise":"14.0 - 23.0 ","rpm":"800 - 2700"},{"name":"Thermaltake Contac 16","price":77.85,"noise":"30.0 ","rpm":"2400"},{"name":"RAIJINTEK TISIS","price":"N/A","noise":"23.0 ","rpm":"600 - 1000"},{"name":"Scythe SCIOR-1000","price":28.89,"noise":"4.5 - 26.7 ","rpm":"300 - 1800"},{"name":"ARCTIC Freezer 12 CO","price":22,"noise":"-","rpm":"-"},{"name":"RIOTORO BIFROST 120TI","price":89.99,"noise":"n/a","rpm":"N/A"},{"name":"Zalman CNPS12X","price":179.95,"noise":"22.0 - 24.0 ","rpm":"850 - 1200"},{"name":"Cooler Master Hyper 412S","price":74.21,"noise":"16.1 - 22.5 ","rpm":"900 - 1300"},{"name":"Phanteks PH-TC14CS_BL","price":99.99,"noise":"13.4 - 19.0 ","rpm":"700"},{"name":"Dynatron R16","price":29.79,"noise":"21.5 - 55.8 ","rpm":"1000 - 6000"},{"name":"SilenX EFZ-92HA3","price":26.37,"noise":"8.0 - 24.0 ","rpm":"2000"},{"name":"Thermalright HR-02 Rev.A(BW)","price":44.85,"noise":"17.0 - 21.0 ","rpm":"900 - 1300"},{"name":"Titan TTC-NC95TZ(RB)","price":42.3,"noise":"28.6 ","rpm":"150 - 1500"},{"name":"ARCTIC Freezer i32","price":"N/A","noise":"-","rpm":"-"},{"name":"Zalman CNPS9500A-LED","price":35.65,"noise":"18.0 - 27.5 ","rpm":"1350 - 2600"},{"name":"Prolimatech PRO-MGH-B","price":86.53,"noise":"n/a","rpm":"N/A"},{"name":"Zalman CNPS10X OPTIMA","price":38.99,"noise":"17.0 - 28.0 ","rpm":"1000 - 1700"},{"name":"Alpenföhn Brocken ECO","price":"N/A","noise":"4.6 - 27.3 ","rpm":"500 - 1500"},{"name":"Cooler Master V8 Ver.2","price":"N/A","noise":"36.0 ","rpm":"1600"},{"name":"Dynatron K17","price":29.89,"noise":"17.0 - 31.9 ","rpm":"1000 - 2500"},{"name":"Dynatron R25","price":33.43,"noise":"21.5 - 59.1 ","rpm":"1000 - 7000"},{"name":"Enermax ETS-T40F-RF","price":38.99,"noise":"10.0 - 19.0 ","rpm":"500 - 1200"},{"name":"Deepcool ICE BLADE PRO V2.0","price":"N/A","noise":"17.8 - 30.0 ","rpm":"900 - 1500"},{"name":"Zalman CNPS8000B","price":74.99,"noise":"20.0 - 32.0 ","rpm":"1400 - 2800"},{"name":"Zalman CNPS7X LED","price":42.99,"noise":"17.0 - 25.0 ","rpm":"1250 - 1950"},{"name":"Silverstone AR01","price":36.15,"noise":"16.4 - 33.5 ","rpm":"1000 - 2200"},{"name":"Fractal Design Kelvin T12","price":"N/A","noise":"26.9 ","rpm":"800 - 1700"},{"name":"ARCTIC Freezer 33 PENTA","price":"N/A","noise":"22.5 ","rpm":"120 - 1350"},{"name":"Antec Kühler H600 Pro","price":131.11,"noise":"16.0 - 35.0 ","rpm":"600 - 2400"},{"name":"Dynatron R14","price":29.99,"noise":"16.0 - 47.5 ","rpm":"1500 - 7000"},{"name":"Thermalright Silver Arrow Extreme","price":"N/A","noise":"21.0 - 45.0 ","rpm":"600 - 2500"},{"name":"Alpenföhn ATLAS","price":"N/A","noise":"8.0 - 24.3 ","rpm":"400 - 1800"},{"name":"Alpenföhn Olymp","price":"N/A","noise":"8.0 - 26.8 ","rpm":"300 - 1400"},{"name":"Dynatron K5","price":16.79,"noise":"14.7 - 29.8 ","rpm":"1000 - 2500"},{"name":"ID-COOLING FROSTFLOW 240L-W","price":"N/A","noise":"20.0 - 38.2 ","rpm":"800 - 2000"},{"name":"Scythe SCBSK-2000","price":"N/A","noise":"-","rpm":"-"},{"name":"RAIJINTEK TRITON GREEN","price":"N/A","noise":"21.6 - 36.6 ","rpm":"1000 - 2600"},{"name":"Swiftech H240-X","price":"N/A","noise":"8.3 - 28.8 ","rpm":"700 - 1800"},{"name":"ARCTIC Freezer 13 Pro","price":"N/A","noise":"n/a","rpm":"300 - 1350"},{"name":"Akasa Nero 3","price":"N/A","noise":"24.6 ","rpm":"500 - 1500"},{"name":"Cooltek LP53","price":"N/A","noise":"16.0 - 27.1 ","rpm":"1000 - 2100"},{"name":"Phanteks PH-TC14PE_OR","price":119.99,"noise":"13.4 - 19.0 ","rpm":"700 - 1200"},{"name":"ID-COOLING SE-214X","price":"N/A","noise":"16.2 - 29.2 ","rpm":"1800"},{"name":"Cooler Master RR-T812-24PK-R2","price":99.89,"noise":"19.0 - 40.0 ","rpm":"600 - 2400"},{"name":"EVGA ACX mITX","price":"N/A","noise":"33.4 ","rpm":"800 - 2800"},{"name":"Corsair H70","price":"N/A","noise":"26.0 - 31.5 ","rpm":"1600 - 2000"},{"name":"Swiftech H220-X","price":"N/A","noise":"16.0 - 33.0 ","rpm":"800 - 1800"},{"name":"OcUK 240mm Extreme","price":"N/A","noise":"n/a","rpm":"N/A"},{"name":"Deepcool GAMMAXX 200","price":"N/A","noise":"17.8 - 34.6 ","rpm":"900 - 2200"},{"name":"Alpenföhn Brocken 2","price":"N/A","noise":"19.0 ","rpm":"1100"},{"name":"Prolimatech Basic 81","price":"N/A","noise":"n/a","rpm":"600 - 1600"},{"name":"be quiet! Dark Rock Pro 2","price":"N/A","noise":"13.5 - 26.4 ","rpm":"1500 - 1700"},{"name":"Thermalright TS-120M","price":"N/A","noise":"17.0 - 28.5 ","rpm":"700 - 1500"},{"name":"NZXT Kraken X60","price":"N/A","noise":"21.0 - 37.0 ","rpm":"800 - 2000"},{"name":"ID-COOLING SE-902","price":"N/A","noise":"14.0 - 23.8 ","rpm":"600 - 2200"},{"name":"Noctua NH-C14","price":"N/A","noise":"10.1 - 19.6 ","rpm":"750 - 1200"},{"name":"Thermalright SILVER ARROW IB-E","price":"N/A","noise":"21.0 - 25.0 ","rpm":"900 - 1300"},{"name":"Cooler Master Gemin II S524","price":"N/A","noise":"15.1 - 31.6 ","rpm":"800 - 1800"},{"name":"Xigmatek Janus LD1266","price":"N/A","noise":"19.2 - 22.4 ","rpm":"1200"},{"name":"Thermaltake Water 2.0 Performer","price":"N/A","noise":"10.0 - 27.4 ","rpm":"1200 - 2000"},{"name":"Scythe SCKC-2000","price":"N/A","noise":"9.6 - 24.7 ","rpm":"500 - 1300"},{"name":"Corsair H80i GT","price":"N/A","noise":"37.7 ","rpm":"2435"},{"name":"Swiftech H320","price":"N/A","noise":"16.0 - 33.0 ","rpm":"800 - 1800"},{"name":"SilentiumPC Spartan LT HE922","price":"N/A","noise":"9.9 - 21.9 ","rpm":"800 - 2000"},{"name":"ID-COOLING IS-40","price":"N/A","noise":"14.0 - 33.0 ","rpm":"300 - 2500"},{"name":"Antec Kuhler H2O 620","price":"N/A","noise":"n/a","rpm":"1450 - 2000"},{"name":"Enermax ETS-T40-TA","price":"N/A","noise":"16.0 - 21.0 ","rpm":"800 - 1800"},{"name":"Thermaltake CLP0532","price":"N/A","noise":"34.0 ","rpm":"2500"},{"name":"Cooler Master RR-V6SV-22PR-R1","price":"N/A","noise":"15.0 - 38.0 ","rpm":"800 - 2200"},{"name":"Thermaltake Frio","price":"N/A","noise":"20.0 - 43.0 ","rpm":"1200 - 2500"},{"name":"Cooler Master Seidon 120M","price":"N/A","noise":"19.0 - 40.0 ","rpm":"600 - 2400"},{"name":"Deepcool ICE BLADE 100","price":"N/A","noise":"31.6 ","rpm":"2200"},{"name":"Zalman CNPS7000-AlCu","price":"N/A","noise":"0.2 - 0.2 ","rpm":"1350 - 2400"},{"name":"RAIJINTEK AIDOS BLACK","price":18.89,"noise":"28.9 ","rpm":"1000 - 2200"},{"name":"RAIJINTEK ZELOS","price":9.99,"noise":"20.0 ","rpm":"800 - 1400"},{"name":"Zalman CNPS8900 Quiet","price":19.99,"noise":"19.0 - 25.0 ","rpm":"1000 - 1500"},{"name":"ARCTIC Freezer 11 LP","price":16.65,"noise":"n/a","rpm":"900 - 2000"},{"name":"be quiet! Silent Loop 280","price":"N/A","noise":"16.1 - 37.3 ","rpm":"1600"},{"name":"Antec KUHLER H2O 1250","price":74.99,"noise":"16.0 - 38.0 ","rpm":"600 - 2400"},{"name":"Enermax ETS-T50 AXE (White)","price":33.45,"noise":"18.9 - 25.0 ","rpm":"800 - 1800"},{"name":"Deepcool LUCIFER V2","price":29.99,"noise":"12.6 - 31.1 ","rpm":"300 - 1400"},{"name":"Zalman FX100","price":29.99,"noise":"-","rpm":"-"},{"name":"Scythe Mugen 5","price":"N/A","noise":"4.0 - 24.9 ","rpm":"300 - 1200"},{"name":"Thermalright TRUE Spirit 140 Direct","price":39.99,"noise":"15.0 - 21.0 ","rpm":"300 - 1300"},{"name":"Titan DC-155A915Z/RPW","price":12.56,"noise":"24.8 - 33.4 ","rpm":"1000 - 2600"},{"name":"ID-COOLING ICEKIMO 120W","price":65.99,"noise":"18.0 - 26.4 ","rpm":"2500"},{"name":"Zalman CNPS9900ALED","price":27.99,"noise":"18.0 - 38.0 ","rpm":"800 - 2000"},{"name":"Reeven Chrono Guard","price":16.99,"noise":"7.2 - 31.1 ","rpm":"300 - 2500"},{"name":"SilenX EFZ-92HA2","price":12.19,"noise":"8.0 - 24.0 ","rpm":"2400"},{"name":"Rosewill RCX-Z1","price":14.99,"noise":"18.0 - 33.4 ","rpm":"1700 - 3100"},{"name":"Thermalright Macho Direct","price":39.99,"noise":"15.0 - 21.0 ","rpm":"300 - 1300"},{"name":"Scythe Mugen MAX","price":42.99,"noise":"13.0 - 30.7 ","rpm":"500 - 1300"},{"name":"Scythe SCKTN-4000","price":29.99,"noise":"7.2 - 31.1 ","rpm":"300 - 2500"},{"name":"Silverstone NT07-115X","price":18.99,"noise":"18.0 - 26.0 ","rpm":"1200 - 3400"},{"name":"Deepcool ASSASSIN II","price":73.13,"noise":"17.8 - 27.3 ","rpm":"300 - 1400"},{"name":"Akasa K32","price":54.55,"noise":"17.2 - 30.5 ","rpm":"600 - 3000"},{"name":"Antec A40PRO","price":"N/A","noise":"16.0 - 23.0 ","rpm":"800 - 2200"},{"name":"Thermalright Silver Arrow IB-E Extreme","price":89.95,"noise":"21.0 - 45.0 ","rpm":"600 - 2500"},{"name":"Enermax ETS-T40F-TB","price":33.38,"noise":"11.0 - 21.0 ","rpm":"900 - 1800"},{"name":"FSP Group Windale 6","price":45.98,"noise":"32.0 ","rpm":"600 - 1600"},{"name":"Phanteks PH-TC14S_BK","price":45.14,"noise":"25.3 ","rpm":"500 - 1600"},{"name":"RAIJINTEK JUNO-X","price":10.99,"noise":"26.0 ","rpm":"1200 - 2500"},{"name":"Akasa Venom Medusa","price":128.51,"noise":"6.9 - 28.9 ","rpm":"500 - 1600"},{"name":"ARCTIC Freezer 33 eSports Edition (Black/Green)","price":44.99,"noise":"24.4 ","rpm":"200 - 1800"},{"name":"Zalman CNPS2X","price":29.46,"noise":"17.4 - 22.7 ","rpm":"1500 - 2600"},{"name":"Dynatron R15","price":32.5,"noise":"n/a","rpm":"N/A"},{"name":"be quiet! Dark Rock 2","price":72.64,"noise":"8.7 - 21.2 ","rpm":"1300"},{"name":"RIOTORO BIFROST 240","price":99.99,"noise":"n/a","rpm":"N/A"},{"name":"Logisys IC221PWM","price":"N/A","noise":"17.8 - 26.4 ","rpm":"900 - 2400"},{"name":"Corsair H60","price":"N/A","noise":"-","rpm":"-"},{"name":"Deepcool LUCIFER","price":58.04,"noise":"17.8 - 31.1 ","rpm":"700 - 1400"},{"name":"Thermalright Macho X2 Limited Edition","price":53.99,"noise":"15.0 ","rpm":"800"},{"name":"ARCTIC Freezer 33 eSports Edition (Black/Yellow)","price":46.61,"noise":"24.4 ","rpm":"200 - 1800"},{"name":"Deepcool LUCIFER K2","price":36.79,"noise":"18.2 - 32.4 ","rpm":"600 - 1800"},{"name":"StarTech FAN1156PWM","price":23.02,"noise":"33.0 ","rpm":"1000 - 3000"},{"name":"Silverstone AR04","price":29.89,"noise":"18.0 - 26.0 ","rpm":"1500 - 3400"},{"name":"Thermalright TRUE Spirit 120M(BW) Rev.A","price":68.78,"noise":"25.4 ","rpm":"600 - 1300"},{"name":"Scythe Ashura","price":48.79,"noise":"13.0 - 30.7 ","rpm":"500 - 1300"},{"name":"Reeven Hans","price":37.95,"noise":"4.0 - 29.8 ","rpm":"300 - 1500"},{"name":"Zalman CNPS7000V(AL)-1-PWM","price":14.63,"noise":"20.0 - 32.0 ","rpm":"800 - 2600"},{"name":"Zalman CNPS10X Performa","price":32.29,"noise":"17.0 - 24.0 ","rpm":"900 - 2000"},{"name":"Dynatron K199","price":26.99,"noise":"20.7 - 51.7 ","rpm":"1000 - 5000"},{"name":"Silverstone SST-AR07","price":41.41,"noise":"16.5 - 30.8 ","rpm":"800 - 1500"},{"name":"Thermalright AXP-100H MUSCLE","price":39.95,"noise":"22.0 - 30.0 ","rpm":"900 - 2500"},{"name":"ARCTIC Alpine M1 - Passive","price":13.48,"noise":"-","rpm":"-"},{"name":"Scythe SCKDT-1000","price":"N/A","noise":"8.2 - 32.5 ","rpm":"800 - 3300"},{"name":"Masscool 5T568S1H3","price":13.44,"noise":"31.8 ","rpm":"4200"},{"name":"Phanteks PH-TC14PE_BL","price":119.99,"noise":"13.4 - 19.0 ","rpm":"700 - 1200"},{"name":"Thermaltake CLP0587","price":79.48,"noise":"39.0 ","rpm":"1200 - 1800"},{"name":"Cooler Master RR-H101-22FK-RI","price":49.99,"noise":"22.0 ","rpm":"2200"},{"name":"Zalman CNPS9900MAX-R","price":"N/A","noise":"18.0 - 30.0 ","rpm":"900 - 1700"},{"name":"Reeven Justice","price":42.49,"noise":"4.0 - 29.8 ","rpm":"300 - 1500"},{"name":"Scythe Kotetsu Mark II","price":"N/A","noise":"4.0 - 24.9 ","rpm":"300 - 1200"},{"name":"Alpenföhn Matterhorn Pure","price":"N/A","noise":"8.0 - 24.8 ","rpm":"500 - 1500"},{"name":"ID-COOLING AURAFLOW 240 SNOW","price":"N/A","noise":"18.0 - 35.2 ","rpm":"700 - 1800"},{"name":"RAIJINTEK EreBoss","price":"N/A","noise":"28.0 ","rpm":"600 - 1400"},{"name":"Gelid Solutions Slimhero","price":37.89,"noise":"12.0 - 25.4 ","rpm":"750 - 1600"},{"name":"Thermaltake Frio OCK","price":"N/A","noise":"21.0 - 48.0 ","rpm":"1200 - 2100"},{"name":"Alpenföhn Panorama rev.B","price":"N/A","noise":"14.0 - 22.1 ","rpm":"900 - 2000"},{"name":"Silverstone SST-HE01","price":77.99,"noise":"18.0 - 41.0 ","rpm":"500 - 2000"},{"name":"Dynatron R13","price":23.79,"noise":"19.1 - 53.8 ","rpm":"1100 - 6000"},{"name":"ID-COOLING AURAFLOW 120 SNOW","price":"N/A","noise":"18.0 - 35.2 ","rpm":"700 - 1800"},{"name":"RAIJINTEK PALLAS Black","price":32.99,"noise":"28.0 ","rpm":"650 - 1400"},{"name":"Phanteks PH-TC14CS_BK","price":"N/A","noise":"13.4 - 19.0 ","rpm":"700"},{"name":"Evercool NI01-9525EP","price":14.98,"noise":"33.0 ","rpm":"2600"},{"name":"Scythe SCKC-3000","price":41.47,"noise":"13.0 - 30.7 ","rpm":"500 - 1300"},{"name":"ARCTIC Freezer i32 CO","price":"N/A","noise":"-","rpm":"-"},{"name":"Alpenföhn Sella","price":"N/A","noise":"14.0 - 29.8 ","rpm":"850 - 2200"},{"name":"Alpenföhn Matterhorn Rev. C – Black Edition","price":"N/A","noise":"18.2 ","rpm":"500 - 1500"},{"name":"Evercool HPL-815EP","price":26.74,"noise":"12.0 - 40.0 ","rpm":"1000 - 4000"},{"name":"Titan TTC-NK85TZ/CS2","price":"N/A","noise":"15.0 - 35.0 ","rpm":"800 - 2200"},{"name":"Dynatron R8","price":30.36,"noise":"n/a","rpm":"N/A"},{"name":"Thermaltake CLP0600","price":"N/A","noise":"19.3 - 30.0 ","rpm":"1000 - 2400"},{"name":"Titan TTC-NC85TZ(RB)","price":"N/A","noise":"28.8 ","rpm":"210 - 2100"},{"name":"Scythe SCSMZ-2100","price":28.99,"noise":"7.2 - 31.1 ","rpm":"300 - 2500"},{"name":"Reeven Okeanos","price":74.99,"noise":"4.0 - 23.6 ","rpm":"300 - 1800"},{"name":"Dynatron T318","price":34.89,"noise":"-","rpm":"-"},{"name":"Silverstone Argon AR10-115XS","price":34.99,"noise":"18.1 - 39.0 ","rpm":"500 - 4000"},{"name":"Enermax ETS-T40-TB","price":74.49,"noise":"10.0 - 21.0 ","rpm":"800 - 1800"},{"name":"Cooler Master RR-H101-22FK-RA","price":104.99,"noise":"22.0 ","rpm":"2200"},{"name":"Silverstone NT01-E","price":31.99,"noise":"-","rpm":"-"},{"name":"Thermaltake CLP0607","price":"N/A","noise":"20.0 - 39.9 ","rpm":"1000 - 2000"},{"name":"RAIJINTEK TRITON BLUE","price":"N/A","noise":"21.6 - 36.6 ","rpm":"1000 - 2600"},{"name":"Evercool HPKC-10025EA","price":24.99,"noise":"23.0 ","rpm":"1800"},{"name":"Logisys MC106","price":"N/A","noise":"19.0 ","rpm":"1500"},{"name":"Zalman CNPS9900 D/F","price":"N/A","noise":"19.0 - 27.0 ","rpm":"900 - 1400"},{"name":"Zalman CNPS11X Extreme","price":"N/A","noise":"17.0 - 33.0 ","rpm":"1000 - 1950"},{"name":"Zalman CNPS9700 LED","price":98.88,"noise":"19.5 - 35.0 ","rpm":"1250 - 2800"},{"name":"Scythe SCMG-3000","price":"N/A","noise":"0.0 - 26.5 ","rpm":"300 - 1600"},{"name":"ARCTIC Freezer i30 Extreme","price":"N/A","noise":"n/a","rpm":"400 - 1350"},{"name":"Phanteks PH-TC14PE_RD","price":119.89,"noise":"13.4 - 19.0 ","rpm":"700 - 1200"},{"name":"Silverstone Argon AR09-115XS","price":32.54,"noise":"18.0 - 42.5 ","rpm":"1200 - 5000"},{"name":"Dynatron T459","price":32.95,"noise":"n/a","rpm":"N/A"},{"name":"Thermaltake Water 3.0 Performer","price":"N/A","noise":"20.0 ","rpm":"1000 - 2000"},{"name":"Silverstone Argon AR09-115XP","price":30.8,"noise":"18.0 - 42.5 ","rpm":"1200 - 5000"},{"name":"Silverstone Argon AR10-115XP","price":31.97,"noise":"18.1 - 39.0 ","rpm":"500 - 4000"},{"name":"Cooler Master Blizzard T2","price":"N/A","noise":"30.0 ","rpm":"2200"},{"name":"Corsair H110i GT","price":"N/A","noise":"43.0 ","rpm":"2100"},{"name":"Antec C400","price":"N/A","noise":"20.3 - 34.5 ","rpm":"800 - 1900"},{"name":"Zalman CNPS7000C-AlCu","price":"N/A","noise":"17.0 - 24.0 ","rpm":"1350 - 2400"},{"name":"Zalman CNPS10X QUIET","price":76.4,"noise":"26.0 ","rpm":"700 - 1400"},{"name":"Titan TTC-NC55TZ/RB","price":"N/A","noise":"28.8 - 38.0 ","rpm":"1800 - 2200"},{"name":"Xigmatek Dark Knight SD1483 Frostbourne","price":"N/A","noise":"18.0 ","rpm":"800 - 1200"},{"name":"Thermaltake CLP0574","price":"N/A","noise":"16.0 ","rpm":"800 - 1300"},{"name":"NZXT HAVIK 120","price":"N/A","noise":"18.0 - 22.0 ","rpm":"1200 - 1500"},{"name":"Scythe SCMG-3100","price":"N/A","noise":"9.6 - 32.1 ","rpm":"300 - 1600"},{"name":"Thermaltake CLW0214","price":"N/A","noise":"20.0 - 43.0 ","rpm":"1200 - 2500"},{"name":"RAIJINTEK TRITON RED","price":"N/A","noise":"21.6 - 36.6 ","rpm":"1000 - 2600"},{"name":"Silverstone AR03","price":58.07,"noise":"16.4 - 33.5 ","rpm":"1000 - 2200"},{"name":"Masscool 7WA868","price":39.99,"noise":"19.0 - 27.0 ","rpm":"800 - 2800"},{"name":"Deepcool CAPTAIN 240","price":"N/A","noise":"17.6 - 39.3 ","rpm":"600 - 2200"},{"name":"Thermaltake CLP0596","price":"N/A","noise":"21.0 - 44.0 ","rpm":"800 - 2000"},{"name":"Phanteks PH-TC12DX_BL","price":"N/A","noise":"21.9 - 27.6 ","rpm":"600 - 1800"},{"name":"Cooler Master Seidon 240M","price":"N/A","noise":"19.0 - 40.0 ","rpm":"600 - 2400"},{"name":"Evercool HPQ-12025","price":29.88,"noise":"38.1 ","rpm":"800 - 2200"},{"name":"Dynatron R27","price":34.39,"noise":"16.0 - 43.4 ","rpm":"1000 - 3800"},{"name":"Deepcool Maelstrom 240T RF","price":"N/A","noise":"17.8 - 34.1 ","rpm":"600 - 1800"},{"name":"Thermaltake Contac 39","price":"N/A","noise":"15.0 - 33.2 ","rpm":"800 - 2000"},{"name":"Titan TTC-NK54TZ","price":24.3,"noise":"30.6 ","rpm":"3500"},{"name":"Thermaltake CLP0554","price":"N/A","noise":"19.0 - 28.0 ","rpm":"1000 - 1600"},{"name":"Gelid Solutions ANTARCTICA","price":"N/A","noise":"27.8 ","rpm":"450 - 4500"},{"name":"Thermaltake NiC L31","price":"N/A","noise":"18.0 - 34.8 ","rpm":"500 - 1800"},{"name":"Masscool 8WA743","price":"N/A","noise":"20.0 - 34.0 ","rpm":"800 - 2800"},{"name":"Zalman LQ-320","price":"N/A","noise":"n/a","rpm":"900 - 2000"},{"name":"StarTech FAN7751U","price":"N/A","noise":"39.0 ","rpm":"4500"},{"name":"Xigmatek Dark Knight SD1483 Night Hawk","price":"N/A","noise":"18.0 ","rpm":"800 - 1200"},{"name":"Thermalright Macho Zero","price":"N/A","noise":"-","rpm":"-"},{"name":"Thermaltake CL-P0326","price":"N/A","noise":"44.0 ","rpm":"4200"},{"name":"Thermaltake A1964","price":"N/A","noise":"n/a","rpm":"5500"},{"name":"Dynatron R17","price":29.99,"noise":"17.0 - 31.9 ","rpm":"1000 - 2500"},{"name":"Silverstone TD03","price":"N/A","noise":"16.0 - 33.5 ","rpm":"1500 - 2500"},{"name":"Zalman CNPS7000C-Cu","price":"N/A","noise":"13.5 - 24.0 ","rpm":"1700 - 2400"},{"name":"Cooler Master Hyper 412 Slim","price":"N/A","noise":"8.0 - 30.0 ","rpm":"500 - 1600"},{"name":"Thermaltake Water 3.0 Pro","price":"N/A","noise":"20.0 ","rpm":"1000 - 2000"},{"name":"ID-COOLING FI-VC Twin","price":"N/A","noise":"16.2 - 32.6 ","rpm":"800 - 1800"},{"name":"Scythe SCKC-2100","price":"N/A","noise":"9.6 - 24.7 ","rpm":"500 - 1300"},{"name":"Masscool 8W2002F1M4","price":"N/A","noise":"20.0 - 34.0 ","rpm":"800 - 2800"},{"name":"ARCTIC Freezer A30","price":"N/A","noise":"n/a","rpm":"400 - 1350"},{"name":"Cooler Master TPC 812XS","price":"N/A","noise":"8.0 - 30.0 ","rpm":"500 - 1600"},{"name":"ZEROtherm ZT-1000D 775","price":"N/A","noise":"n/a","rpm":"2500"},{"name":"ZEROtherm ZT-1000D 1156","price":"N/A","noise":"n/a","rpm":"3000"},{"name":"Thermaltake CLP0606","price":"N/A","noise":"18.0 - 30.2 ","rpm":"800 - 1600"},{"name":"ARCTIC Freezer A32","price":42.4,"noise":"-","rpm":"-"},{"name":"Silverstone Tundra TD02-SLIM","price":"N/A","noise":"16.5 - 27.4 ","rpm":"800 - 2200"},{"name":"Xigmatek ld964","price":"N/A","noise":"22.0 ","rpm":"1000 - 2800"},{"name":"SilentiumPC Grandis XE1236","price":"N/A","noise":"21.0 ","rpm":"500 - 1500"},{"name":"Xigmatek Apache II","price":"N/A","noise":"28.0 ","rpm":"1200 - 2500"},{"name":"EVGA M020-00-000234","price":"N/A","noise":"13.2 - 41.5 ","rpm":"750 - 2500"},{"name":"Logisys IC4100AST","price":"N/A","noise":"30.1 ","rpm":"2200"},{"name":"Cooler Master GeminII S524","price":"N/A","noise":"15.1 - 31.6 ","rpm":"800 - 1800"},{"name":"be quiet! Shadow Rock Topflow SR1","price":"N/A","noise":"9.6 - 24.4 ","rpm":"1500"},{"name":"ZEROtherm ZT-10D Smart","price":"N/A","noise":"n/a","rpm":"N/A"},{"name":"ARCTIC Alpine 7 Pro","price":"N/A","noise":"n/a","rpm":"500 - 2000"},{"name":"Enzotech Extreme-X Rev.A","price":"N/A","noise":"15.8 - 43.3 ","rpm":"1000 - 2500"},{"name":"ID-COOLING IS-40PRO","price":"N/A","noise":"14.0 - 33.0 ","rpm":"300 - 2500"},{"name":"Thermalright TS-140","price":"N/A","noise":"17.0 - 21.0 ","rpm":"900 - 1300"},{"name":"Thermalright TS-120M(BW)","price":"N/A","noise":"24.5 ","rpm":"600 - 1300"},{"name":"Gelid Solutions Rev. 1 Tranquillo","price":"N/A","noise":"12.0 - 25.5 ","rpm":"750 - 1500"},{"name":"Thermalright U120eXtrem1366RT R-C","price":"N/A","noise":"28.0 ","rpm":"1600"},{"name":"Thermalright Venomous X - RT","price":"N/A","noise":"24.1 ","rpm":"1300"},{"name":"Nexus LOW-7000 R2","price":"N/A","noise":"15.0 - 24.0 ","rpm":"500 - 2000"},{"name":"ID-COOLING IS-40V3","price":"N/A","noise":"14.0 - 33.0 ","rpm":"600 - 2500"},{"name":"Reeven Steropes","price":"N/A","noise":"9.3 - 33.7 ","rpm":"500 - 2000"},{"name":"Zalman CNPS20LQ","price":"N/A","noise":"17.0 - 36.0 ","rpm":"900 - 2000"},{"name":"Cooler Master X6 Elite","price":"N/A","noise":"9.0 - 34.6 ","rpm":"600 - 1800"},{"name":"Noctua NH-C12P SE14","price":"N/A","noise":"10.1 - 19.6 ","rpm":"750 - 1200"},{"name":"Prolimatech Megahalems (No Fans)","price":"N/A","noise":"n/a","rpm":"N/A"},{"name":"Prolimatech Basic 45","price":"N/A","noise":"n/a","rpm":"1000 - 2000"},{"name":"Xigmatek Gaia II","price":"N/A","noise":"16.0 - 24.0 ","rpm":"800 - 1500"},{"name":"Thermaltake CLP0550","price":"N/A","noise":"21.0 - 40.0 ","rpm":"740 - 3700"},{"name":"NZXT Kraken X40","price":"N/A","noise":"21.0 - 37.0 ","rpm":"800 - 2000"},{"name":"ID-COOLING SE-203","price":"N/A","noise":"16.2 - 29.2 ","rpm":"800 - 1800"},{"name":"Gelid Solutions CC-Ssilence-APLUS","price":26.92,"noise":"15.0 - 27.2 ","rpm":"1200 - 2600"},{"name":"ID-COOLING SE-214i","price":"N/A","noise":"16.2 - 29.2 ","rpm":"800 - 1800"},{"name":"Evercool LGAL1156A-B715","price":"N/A","noise":"56.0 ","rpm":"1000 - 5500"},{"name":"NZXT Respire T40","price":"N/A","noise":"26.5 - 34.0 ","rpm":"1300 - 1800"},{"name":"Logisys MC4002IW","price":"N/A","noise":"17.8 - 27.6 ","rpm":"500 - 1500"},{"name":"ID-COOLING FI-VC","price":"N/A","noise":"16.2 - 32.6 ","rpm":""},{"name":"Thermalright HR-22","price":"N/A","noise":"n/a","rpm":"N/A"},{"name":"Xigmatek Dark Knight SD1283","price":"N/A","noise":"30.1 ","rpm":"1000 - 2200"},{"name":"Xigmatek HDT-S1284F","price":"N/A","noise":"16.0 - 24.0 ","rpm":"800 - 1500"},{"name":"Enermax ETS-N30-TAA","price":"N/A","noise":"16.0 - 27.0 ","rpm":"800 - 2800"},{"name":"Xigmatek Dark Knight II SD1283","price":"N/A","noise":"30.1 ","rpm":"1000 - 2200"},{"name":"SilenX EFZ-120HA4","price":"N/A","noise":"8.0 - 28.0 ","rpm":"800 - 2000"},{"name":"SilenX EFZ-120HA3","price":"N/A","noise":"n/a","rpm":"800 - 2000"},{"name":"Enermax ETD-T60-VD","price":"N/A","noise":"16.0 - 21.0 ","rpm":"800 - 1800"},{"name":"Enermax ETD-T60-TB","price":"N/A","noise":"10.0 - 21.0 ","rpm":"800 - 1800"},{"name":"Evercool TRANSFORMER S","price":"N/A","noise":"20.0 ","rpm":"2200"},{"name":"Deepcool Maelstrom 120T RF","price":"N/A","noise":"17.8 - 34.1 ","rpm":"600 - 1800"},{"name":"Evercool TTC-NK35TZ/RPW/V3","price":26.19,"noise":"12.0 - 31.0 ","rpm":"900 - 2800"},{"name":"Evercool TTC-NK85TZ/V2(RB)","price":35.67,"noise":"17.2 - 39.0 ","rpm":"800 - 2150"},{"name":"TUNIQ Tower 120 Extreme","price":"N/A","noise":"16.0 - 20.0 ","rpm":"1000 - 2000"},{"name":"Cooler Master Glacer 240L Ver. 2","price":"N/A","noise":"19.0 - 40.3 ","rpm":"2400"},{"name":"Xigmatek Loki II","price":"N/A","noise":"20.0 - 28.0 ","rpm":"1200 - 2800"},{"name":"Enermax ELC120-TB","price":"N/A","noise":"17.3 - 31.2 ","rpm":"800 - 2200"},{"name":"Cooler Master Blizzard T2 mini","price":"N/A","noise":"22.0 ","rpm":"2200"},{"name":"Akasa Nero LX","price":"N/A","noise":"11.5 - 31.5 ","rpm":"600 - 1900"},{"name":"Zero Infinity Shiva","price":"N/A","noise":"n/a","rpm":"2200"},{"name":"Silverstone TD02-E","price":"N/A","noise":"18.0 - 35.0 ","rpm":"1500 - 2500"},{"name":"Cooler Master Hyper 612","price":"N/A","noise":"9.0 - 36.0 ","rpm":"600 - 2000"},{"name":"Thermaltake CLP0555","price":"N/A","noise":"12.0 - 16.0 ","rpm":"300 - 2500"},{"name":"Cooler Master DI5-9HDSC-A1-GP","price":"N/A","noise":"23.8 ","rpm":"2200"},{"name":"Rosewill RCX-ZAIO-92","price":"N/A","noise":"14.5 - 25.0 ","rpm":"600 - 2500"},{"name":"Thermalright Macho Rev.A.","price":"N/A","noise":"17.0 - 21.0 ","rpm":"900 - 1300"},{"name":"Thermaltake CL-P0401","price":"N/A","noise":"16.0 - 24.0 ","rpm":"1300 - 2000"},{"name":"Cooler Master DI5-8E5PA-0L-GP","price":"N/A","noise":"22.0 ","rpm":"2800"},{"name":"Silverstone NT06-E","price":"N/A","noise":"-","rpm":"-"},{"name":"Cooler Master V6 GT","price":"N/A","noise":"15.0 - 38.0 ","rpm":"800 - 2200"},{"name":"Thermaltake A4021","price":"N/A","noise":"18.0 ","rpm":"2200"},{"name":"Cooler Master V8","price":"N/A","noise":"17.0 - 21.0 ","rpm":"800 - 1800"},{"name":"Zalman CNPS8000A","price":"N/A","noise":"20.0 - 30.0 ","rpm":"1400 - 2600"},{"name":"Zalman CNPS9900NT","price":"N/A","noise":"19.5 - 38.0 ","rpm":"1000 - 2000"},{"name":"Antec KUHLER Flow","price":"N/A","noise":"n/a","rpm":"N/A"},{"name":"Thermaltake CLP0552","price":"N/A","noise":"22.0 ","rpm":"800 - 1700"},{"name":"ID-COOLING IS-25","price":"N/A","noise":"14.0 - 23.0 ","rpm":"800 - 2700"},{"name":"Cooler Master V10 Hybrid TEC","price":"N/A","noise":"17.0 ","rpm":"800 - 2400"},{"name":"ID-COOLING SE-802","price":"N/A","noise":"23.3 ","rpm":"2200"},{"name":"Corsair A50","price":"N/A","noise":"26.0 - 31.5 ","rpm":"1600 - 2000"},{"name":"ID-COOLING SE-213i","price":"N/A","noise":"16.0 - 20.2 ","rpm":"800 - 1600"},{"name":"ID-COOLING SE-204K","price":"N/A","noise":"16.2 - 29.2 ","rpm":"800 - 1800"},{"name":"ROCCAT ROCC-16003","price":"N/A","noise":"25.0 ","rpm":"800 - 2200"},{"name":"ARCTIC Freezer i30","price":"N/A","noise":"22.5 ","rpm":"400 - 1350"},{"name":"Cooler Master Seidon 120XL","price":"N/A","noise":"19.0 - 40.0 ","rpm":"600 - 2400"},{"name":"Masscool 8W501B1M3G","price":21,"noise":"26.2 ","rpm":"2400"},{"name":"Xigmatek HDT-S963","price":"N/A","noise":"23.0 - 35.0 ","rpm":"1200 - 2800"},{"name":"Xigmatek HDT-S1283","price":"N/A","noise":"20.0 - 32.0 ","rpm":"800 - 1500"},{"name":"Xigmatek Balder SD1283","price":"N/A","noise":"28.0 ","rpm":"1000 - 2200"},{"name":"Xigmatek EP-CD903","price":"N/A","noise":"28.0 ","rpm":"1200 - 2500"},{"name":"Xigmatek HDT-D1284","price":"N/A","noise":"27.2 ","rpm":"800 - 1500"},{"name":"Xigmatek D982","price":"N/A","noise":"22.0 ","rpm":"1500 - 2500"},{"name":"Thermalright AXP-100R","price":"N/A","noise":"22.0 - 30.0 ","rpm":"900 - 2500"},{"name":"ZEROtherm CORE92","price":"N/A","noise":"19.5 ","rpm":"900 - 2500"},{"name":"ZEROtherm ZT-570D","price":"N/A","noise":"30.0 ","rpm":"900 - 2300"},{"name":"Thermalright Silver Arrow ITX","price":"N/A","noise":"17.0 - 24.9 ","rpm":"300 - 1300"},{"name":"Xigmatek Cobra - D984","price":"N/A","noise":"20.0 - 28.0 ","rpm":"1000 - 2800"},{"name":"Xigmatek GAIA SD1283","price":"N/A","noise":"16.0 - 24.0 ","rpm":"800 - 1500"},{"name":"Evercool HPH-9525CU","price":22.1,"noise":"20.0 ","rpm":"1800"},{"name":"Zalman LQ-310","price":"N/A","noise":"n/a","rpm":"900 - 2000"},{"name":"ARCTIC Freezer Xtreme","price":29,"noise":"24.4 ","rpm":"800 - 1500"},{"name":"Phanteks PH-TC90LS","price":24.99,"noise":"19.0 - 26.0 ","rpm":"1000 - 2500"},{"name":"Thermaltake CLP0534","price":17.99,"noise":"20.0 - 26.9 ","rpm":"1200 - 2400"},{"name":"Deepcool GAMMAXX S40","price":21.39,"noise":"17.8 - 26.1 ","rpm":"900 - 1600"},{"name":"Enermax ETS-T40F-BK","price":37.14,"noise":"16.0 - 26.0 ","rpm":"800 - 1800"},{"name":"Thermalright AXP-200","price":"N/A","noise":"30.6 ","rpm":"700 - 1300"},{"name":"Scythe Kabuto 3","price":31.41,"noise":"4.0 - 28.0 ","rpm":"300 - 1400"},{"name":"Cooler Master Seidon 240V","price":"N/A","noise":"12.0 - 35.0 ","rpm":"800 - 2400"},{"name":"ARCTIC Freezer 33 eSports ONE (Black/Yellow)","price":29.99,"noise":"24.4 ","rpm":"200 - 1800"},{"name":"Phanteks PH-TC14PE_BK","price":83.64,"noise":"13.4 - 19.0 ","rpm":"900 - 1200"},{"name":"ARCTIC Freezer i11","price":32.49,"noise":"22.5 ","rpm":"500 - 2000"},{"name":"RAIJINTEK EREBOSS CORE EDITION","price":44.99,"noise":"-","rpm":"-"},{"name":"Zalman CNPS5X Performa","price":22.89,"noise":"20.0 - 32.0 ","rpm":"1400 - 2800"},{"name":"ID-COOLING FROSTFLOW+ 120 SNOW","price":"N/A","noise":"18.0 - 26.4 ","rpm":"700 - 1500"},{"name":"ARCTIC Freezer 33 Plus","price":33.99,"noise":"-","rpm":"-"},{"name":"Reeven Vanxie","price":29.99,"noise":"8.2 - 32.5 ","rpm":"800 - 3300"},{"name":"Cooler Master Hyper 612 PWM","price":"N/A","noise":"9.0 - 36.0 ","rpm":"600 - 2000"},{"name":"ARCTIC Alpine M1","price":9.09,"noise":"20.5 ","rpm":"750"},{"name":"Phononic HEX 2.0","price":118.69,"noise":"17.0 - 33.0 ","rpm":"1000 - 2650"},{"name":"Silverstone NT06-PRO","price":54.99,"noise":"n/a","rpm":"1000 - 2200"},{"name":"RAIJINTEK THEMIS Evo","price":24.99,"noise":"24.5 ","rpm":"1000 - 1500"},{"name":"Silverstone HE02","price":69.99,"noise":"n/a","rpm":"N/A"},{"name":"Thermaltake CL-P0466","price":36.99,"noise":"19.0 - 28.0 ","rpm":"1000 - 1600"},{"name":"RAIJINTEK TISIS CORE EDITION","price":59.99,"noise":"-","rpm":"-"},{"name":"Swiftech H140-X","price":179.98,"noise":"8.3 - 28.8 ","rpm":"700 - 1800"},{"name":"ARCTIC Freezer 13 Limited Edition","price":43.8,"noise":"n/a","rpm":"600 - 2000"},{"name":"Thermaltake Frio Silent 14","price":32.89,"noise":"12.0 - 19.3 ","rpm":"700 - 1200"},{"name":"Thermalright MACHO 120 REV.A","price":109.82,"noise":"25.4 ","rpm":"600 - 1300"},{"name":"Silverstone TD03-LITE","price":59.89,"noise":"18.0 - 35.0 ","rpm":"1500 - 2500"},{"name":"ID-COOLING FROSTFLOW+ 240 SNOW","price":"N/A","noise":"18.0 - 26.4 ","rpm":"700 - 1500"},{"name":"Reeven Arcziel","price":16.99,"noise":"7.2 - 31.1 ","rpm":"300 - 2500"},{"name":"Cooler Master Nepton 240M","price":"N/A","noise":"6.5 - 27.0 ","rpm":"2400"},{"name":"Enermax ETS-T40-W","price":89.99,"noise":"31.2 ","rpm":"2200"},{"name":"RAIJINTEK AIDOS","price":22.22,"noise":"28.9 ","rpm":"1000 - 2200"},{"name":"Deepcool Maelstrom 120K","price":"N/A","noise":"18.2 - 32.4 ","rpm":"600 - 1800"},{"name":"SilenX EFZ-100HA2","price":13.79,"noise":"8.0 - 24.0 ","rpm":"2400"},{"name":"Reeven Brontes RC-1001b","price":38.99,"noise":"10.5 - 31.7 ","rpm":"650 - 2200"},{"name":"Scythe Mugen 4","price":103.95,"noise":"5.3 - 28.0 ","rpm":"400 - 1400"},{"name":"Zalman CNPS9500 AT","price":31.49,"noise":"18.0 - 27.5 ","rpm":"1300 - 2650"},{"name":"ID-COOLING IS-VC45","price":48.63,"noise":"14.0 - 33.0 ","rpm":"600 - 2500"},{"name":"FSP Group Windale 6","price":46.99,"noise":"32.0 ","rpm":"600 - 1600"},{"name":"Prolimatech PRO-MGH-C","price":59.97,"noise":"26.0 ","rpm":"N/A"},{"name":"Xigmatek Thors Hammer","price":"N/A","noise":"-","rpm":"-"},{"name":"Intel BXTS13A","price":24.4,"noise":"n/a","rpm":"N/A"},{"name":"Zalman FX70","price":"N/A","noise":"-","rpm":"-"},{"name":"Prolimatech PRO-GNSS","price":69.97,"noise":"n/a","rpm":"800 - 1600"},{"name":"Prolimatech PRO-ARMGD","price":57.97,"noise":"n/a","rpm":"N/A"},{"name":"Gelid Solutions SnowStorm","price":49.89,"noise":"0.1 - 24.1 ","rpm":"900 - 2200"},{"name":"Gelid Solutions CC-SSilence-iplus","price":28.69,"noise":"15.0 - 27.8 ","rpm":"1200 - 2600"},{"name":"Antec A30","price":"N/A","noise":"20.0 ","rpm":"1750"},{"name":"Thermalright AXP-100 Muscle","price":"N/A","noise":"22.0 - 30.0 ","rpm":"900 - 2500"},{"name":"Evercool HPS-810CP","price":25.19,"noise":"16.2 - 37.5 ","rpm":"1500 - 4000"},{"name":"ARCTIC Freezer i11 CO","price":"N/A","noise":"n/a","rpm":"500 - 2000"},{"name":"Evercool EC-NK804A-925EP","price":14.49,"noise":"28.2 ","rpm":"2750"},{"name":"Zalman 9500A","price":35.65,"noise":"18.0 - 27.0 ","rpm":"1350 - 2600"},{"name":"StarTech FAN775E","price":15.65,"noise":"22.2 ","rpm":"2600"},{"name":"Zalman CNPS90F","price":"N/A","noise":"29.0 ","rpm":"2300"},{"name":"Alpenföhn Matterhorn Rev. C – White Edition","price":"N/A","noise":"18.2 ","rpm":"500 - 1500"},{"name":"RAIJINTEK PALLAS Red","price":37.68,"noise":"28.0 ","rpm":"650 - 1400"},{"name":"Silverstone NT09-115X","price":19.25,"noise":"18.5 - 32.0 ","rpm":"550 - 2500"},{"name":"Deepcool Ice Edge Mini FS V2.0","price":"N/A","noise":"24.7 ","rpm":"2200"},{"name":"Zalman CNPS11X Performa","price":22.99,"noise":"17.0 - 26.0 ","rpm":"1000 - 1600"},{"name":"Evercool NI2011E-9525EP","price":17.35,"noise":"28.0 ","rpm":"1000 - 3000"},{"name":"RAIJINTEK TISIS","price":59.99,"noise":"-","rpm":""},{"name":"Phanteks PH-TC14CS_RD","price":"N/A","noise":"13.4 - 19.0 ","rpm":"1300"},{"name":"Silverstone AR02","price":36.99,"noise":"16.0 - 24.0 ","rpm":"1200 - 2800"},{"name":"ID-COOLING IS-50","price":"N/A","noise":"13.8 - 30.2 ","rpm":"600 - 1600"},{"name":"Rosewill AIOLOS","price":29.81,"noise":"24.6 ","rpm":"1500"},{"name":"Logisys IC211HTPC","price":26.04,"noise":"28.0 ","rpm":"2600"},{"name":"LEPA LPALV12-BK","price":"N/A","noise":"23.0 ","rpm":"2200"},{"name":"Evercool HPM-12025","price":28.15,"noise":"15.0 - 35.0 ","rpm":"800 - 2500"},{"name":"Cooler Master Nepton 140XL","price":"N/A","noise":"21.0 - 39.0 ","rpm":"2000"},{"name":"Thermaltake NiC L32","price":36.15,"noise":"18.0 - 38.4 ","rpm":"500 - 1800"},{"name":"Rosewill RCX-Z90-AL","price":10.99,"noise":"15.0 - 30.0 ","rpm":"600 - 3000"},{"name":"Gelid Solutions Rev. 4 Tranquillo","price":"N/A","noise":"12.0 - 26.7 ","rpm":"750 - 1600"},{"name":"Xigmatek Prime SD1484","price":70.69,"noise":"18.0 ","rpm":"800 - 1200"},{"name":"Phanteks PH-TC14CS","price":"N/A","noise":"13.4 - 19.0 ","rpm":"700 - 1200"},{"name":"Gelid Solutions CC-SiberianP-01","price":18.89,"noise":"10.0 - 23.5 ","rpm":"900 - 2200"},{"name":"Antec C40","price":"N/A","noise":"16.0 - 23.0 ","rpm":"800 - 2200"},{"name":"Silverstone NT07-AM2","price":22.13,"noise":"15.0 - 25.0 ","rpm":"1500 - 2500"},{"name":"Reeven Ouranos","price":52.99,"noise":"5.8 - 36.4 ","rpm":"300 - 1700"},{"name":"Prolimatech Basic 48","price":42.99,"noise":"n/a","rpm":"1000 - 2000"},{"name":"Antec KUHLER H2O 950","price":96.89,"noise":"n/a","rpm":"N/A"},{"name":"Gelid Solutions CC-GX7-01-A","price":"N/A","noise":"10.0 - 26.8 ","rpm":"600 - 1800"},{"name":"Reeven Steropes RC-1206b","price":38.49,"noise":"9.3 - 33.7 ","rpm":"500 - 2000"},{"name":"Logisys IC106","price":14.95,"noise":"25.0 ","rpm":"2200"},{"name":"Thermaltake MeOrb II","price":"N/A","noise":"18.5 - 28.0 ","rpm":"1500 - 2500"},{"name":"SilentiumPC SPC130","price":"N/A","noise":"8.0 - 22.0 ","rpm":"500 - 1400"},{"name":"Fractal Design Kelvin S24","price":"N/A","noise":"26.9 ","rpm":"800 - 1700"},{"name":"Zalman ZM-CNPS14X","price":"N/A","noise":"17.0 - 21.0 ","rpm":"950 - 1350"},{"name":"ARCTIC Freezer i30 CO","price":108.22,"noise":"n/a","rpm":"400 - 1350"},{"name":"Dynatron R24","price":25.99,"noise":"16.0 - 47.5 ","rpm":"1500 - 7000"},{"name":"RAIJINTEK EREBOSS BLACK","price":42.99,"noise":"28.0 ","rpm":"650 - 1400"},{"name":"Enermax ELC-LM120S-TAA","price":86.99,"noise":"30.0 ","rpm":"2500"},{"name":"Deepcool Maelstrom 240","price":"N/A","noise":"17.6 - 39.3 ","rpm":"600 - 2200"},{"name":"Enermax ETS-T40-VD","price":"N/A","noise":"16.0 - 21.0 ","rpm":"800 - 1800"},{"name":"Evercool HPFI-10025","price":16.99,"noise":"23.0 ","rpm":"1800"},{"name":"Titan TTC-NA43TZ/CU35","price":24.17,"noise":"14.0 - 33.0 ","rpm":"900 - 2600"},{"name":"Gelid Solutions Rev. 2 Tranquillo","price":"N/A","noise":"12.0 - 25.5 ","rpm":"750 - 1500"},{"name":"Gelid Solutions Rev. 3 Tranquillo","price":45.52,"noise":"12.0 - 26.5 ","rpm":"750 - 1500"},{"name":"Alpenföhn Brocken 2 PCGH","price":"N/A","noise":"18.5 ","rpm":"700"},{"name":"Thermaltake CL-P008-AL09WT-A","price":"N/A","noise":"21.0 ","rpm":"1800"},{"name":"Scythe SCMN-2000","price":"N/A","noise":"9.6 - 36.4 ","rpm":"500 - 1700"},{"name":"Gelid Solutions Black Edition","price":79.89,"noise":"25.4 - 25.5 ","rpm":"750 - 1600"},{"name":"Thermaltake CL-P0257","price":49,"noise":"17.0 ","rpm":"1700"},{"name":"Zalman CNPS 7500 AlCu LED","price":64.99,"noise":"17.0 - 32.0 ","rpm":"1150 - 2300"},{"name":"Thermaltake CLP0579","price":"N/A","noise":"15.0 - 33.2 ","rpm":"800 - 2000"},{"name":"Zalman CNPS10X Extreme","price":59.89,"noise":"20.0 - 39.0 ","rpm":"1000 - 2150"},{"name":"Raidmax Cobra 240","price":"N/A","noise":"21.2 ","rpm":"500 - 1800"},{"name":"Gelid Solutions CC-Ssilence-AM1","price":26.14,"noise":"15.0 - 27.2 ","rpm":"1200 - 2600"},{"name":"Logisys MC4001IM","price":39.88,"noise":"17.8 - 27.6 ","rpm":"500 - 1500"},{"name":"Dynatron R9","price":26.49,"noise":"13.1 - 45.9 ","rpm":"1000 - 4500"},{"name":"Zalman CNPS9300 AT","price":"N/A","noise":"20.0 - 30.0 ","rpm":"1500 - 2400"},{"name":"Antec KUHLER Shelf","price":"N/A","noise":"n/a","rpm":"N/A"},{"name":"Cooler Master RR-LEE-L911-GP","price":24.16,"noise":"17.0 ","rpm":"2200"},{"name":"Gelid Solutions GX7","price":44.98,"noise":"12.0 - 28.0 ","rpm":"750 - 1800"},{"name":"Zalman LQ-315","price":"N/A","noise":"n/a","rpm":"900 - 2000"},{"name":"Thermalright Macho Rev.A(BW)","price":"N/A","noise":"15.0 - 21.0 ","rpm":"300 - 1300"},{"name":"StarTech FANK8AM2","price":"N/A","noise":"28.0 ","rpm":"2600"},{"name":"Xion XON-HP9310P","price":"N/A","noise":"16.0 - 25.3 ","rpm":"1000 - 3000"},{"name":"Zalman CNPS8900 Extreme","price":"N/A","noise":"19.5 - 35.0 ","rpm":"1250 - 2800"},{"name":"Thermaltake CL-P0187","price":"N/A","noise":"36.0 ","rpm":"4800"},{"name":"Dynatron R12","price":"N/A","noise":"-","rpm":"-"},{"name":"Silverstone TD02","price":"N/A","noise":"16.0 - 33.5 ","rpm":"1500 - 2500"},{"name":"Thermaltake CL-P0508","price":"N/A","noise":"16.0 - 24.0 ","rpm":"1300 - 2000"},{"name":"Evercool HPJ-12025","price":"N/A","noise":"21.0 ","rpm":"1000"},{"name":"Zalman Reserator 3 MAX Dual","price":"N/A","noise":"23.2 - 46.6 ","rpm":"1000 - 2300"},{"name":"ZEROtherm ZT-10D","price":"N/A","noise":"-","rpm":"-"},{"name":"Thermaltake BigTyp Revo.","price":"N/A","noise":"20.0 ","rpm":"800 - 1800"},{"name":"ARCTIC Alpine 7 GT","price":"N/A","noise":"0.2 ","rpm":"2000"},{"name":"Gelid Solutions CC-Spirit-02-A","price":"N/A","noise":"10.0 - 25.8 ","rpm":"900 - 2400"},{"name":"Logisys IC207","price":"N/A","noise":"25.0 ","rpm":"2500"},{"name":"Logisys AC4400BT","price":"N/A","noise":"30.1 ","rpm":"2200"},{"name":"Logisys MC3001IE","price":"N/A","noise":"17.8 - 34.6 ","rpm":"900 - 2200"},{"name":"Logisys AC2200BT","price":"N/A","noise":"30.1 ","rpm":"2200"},{"name":"Evercool HPI-12025","price":46.67,"noise":"23.0 - 30.0 ","rpm":"1200 - 1800"},{"name":"Thermalright TRUE Spirit 140 (BW)","price":"N/A","noise":"15.0 - 21.0 ","rpm":"300 - 1300"},{"name":"Gelid Solutions Polar","price":"N/A","noise":"16.0 - 28.9 ","rpm":"1400 - 2000"},{"name":"Titan EC-TTC-NC05TZ","price":"N/A","noise":"15.3 - 29.0 ","rpm":"800 - 1500"},{"name":"RAIJINTEK TRITON","price":"N/A","noise":"21.6 - 36.6 ","rpm":"1000 - 2600"},{"name":"Thermaltake Gravity A1","price":"N/A","noise":"22.3 ","rpm":"1800"},{"name":"TUNIQ Tower 120","price":"N/A","noise":"n/a","rpm":"1000 - 2000"},{"name":"TUNIQ T-120-LFB","price":"N/A","noise":"n/a","rpm":"1000 - 2000"},{"name":"Thermaltake CLP0605","price":"N/A","noise":"18.0 - 30.2 ","rpm":"800 - 1600"},{"name":"Vantec VAF-1225","price":"N/A","noise":"20.0 - 32.0 ","rpm":"1000 - 2200"},{"name":"Gelid Solutions Slim Silence AM2","price":"N/A","noise":"15.0 - 27.2 ","rpm":"1200 - 2500"},{"name":"Gelid Solutions Slim Silence 775","price":"N/A","noise":"15.0 - 24.5 ","rpm":"1100 - 2300"},{"name":"Thermalright Archon IB-E X2","price":"N/A","noise":"17.0 - 21.0 ","rpm":"900 - 1300"},{"name":"Prolimatech Basic 68","price":"N/A","noise":"n/a","rpm":"600 - 1600"},{"name":"Sunbeam Twister 120","price":"N/A","noise":"16.0 ","rpm":"N/A"},{"name":"Prolimatech Basic 65","price":"N/A","noise":"n/a","rpm":"600 - 1600"},{"name":"Prolimatech Megahalems Rev.B","price":"N/A","noise":"n/a","rpm":"N/A"},{"name":"Zalman CNPS 9700 NT","price":"N/A","noise":"19.5 - 35.0 ","rpm":"1250 - 2800"},{"name":"Zalman CNPS5X SZ","price":"N/A","noise":"20.0 - 32.0 ","rpm":"1400 - 2800"},{"name":"SilenX EFZ-100HA1","price":"N/A","noise":"8.0 - 24.0 ","rpm":"1000 - 2000"},{"name":"be quiet! Shadow Rock Pro SR1","price":"N/A","noise":"24.4 ","rpm":"1500"},{"name":"Dynatron R19","price":"N/A","noise":"n/a","rpm":"N/A"},{"name":"Cooler Master Glacer 240L","price":"N/A","noise":"19.0 - 40.3 ","rpm":"2400"},{"name":"Phanteks PH-TC12DX_RD","price":"N/A","noise":"21.9 - 27.6 ","rpm":"600 - 1800"},{"name":"ID-COOLING DK-01","price":"N/A","noise":"12.0 - 28.8 ","rpm":"800 - 2500"},{"name":"Cooler Master RR-T612-20PK-R1","price":"N/A","noise":"9.0 - 36.0 ","rpm":"2000"},{"name":"Cooler Master Eisberg 240L Prestige","price":"N/A","noise":"20.5 ","rpm":"1600"},{"name":"ID-COOLING SE-205","price":"N/A","noise":"16.2 - 29.2 ","rpm":"1600 - 1800"},{"name":"Nexus FLC-3000 R2","price":"N/A","noise":"15.0 - 24.0 ","rpm":"900 - 2500"},{"name":"Thermalright Le Grand Macho","price":"N/A","noise":"n/a","rpm":"N/A"},{"name":"Logisys MC4004IEXT","price":"N/A","noise":"17.8 - 28.1 ","rpm":"900 - 2200"},{"name":"NZXT Respire T20","price":"N/A","noise":"26.5 - 34.0 ","rpm":"1300 - 1800"},{"name":"Corsair H70 Core","price":"N/A","noise":"n/a","rpm":"N/A"},{"name":"Logisys MC6001IM","price":"N/A","noise":"18.2 - 26.7 ","rpm":"700 - 1200"},{"name":"Logisys MC4005IB","price":"N/A","noise":"21.4 - 32.1 ","rpm":"900 - 1500"},{"name":"Logisys IC231PWM","price":19.99,"noise":"17.8 - 32.5 ","rpm":"900 - 2400"},{"name":"Thermalright Venomous X RT Rev.SB-E","price":"N/A","noise":"17.0 - 28.5 ","rpm":"700 - 1500"},{"name":"Thermalright TRUE Spirit 90M Rev.A","price":"N/A","noise":"27.0 ","rpm":"800 - 2000"},{"name":"Enermax ETS-N30-HE","price":"N/A","noise":"16.0 - 28.0 ","rpm":"800 - 2800"},{"name":"Cooler Master TPC 812","price":"N/A","noise":"19.0 - 40.0 ","rpm":"600 - 2400"},{"name":"Syba CL-CNL-EOLE802","price":"N/A","noise":"25.0 ","rpm":"2200"},{"name":"Dynatron R22","price":"N/A","noise":"n/a","rpm":"N/A"},{"name":"Dynatron R4","price":"N/A","noise":"n/a","rpm":"N/A"},{"name":"Evercool HPO-12025","price":52.83,"noise":"16.0 - 38.0 ","rpm":"1400 - 2200"},{"name":"Thermaltake Water 2.0 Pro","price":"N/A","noise":"10.0 - 27.4 ","rpm":"1200 - 2000"},{"name":"Masscool 8W2002B1M4","price":"N/A","noise":"20.0 - 34.0 ","rpm":"800 - 2800"},{"name":"Enermax ELC-LM120S-HP","price":"N/A","noise":"30.0 ","rpm":"2500"},{"name":"Titan TTC-NK35TZ/RPW/V2","price":"N/A","noise":"12.0 - 31.0 ","rpm":"900 - 2800"},{"name":"Antec KUHLER H2O 920","price":"N/A","noise":"27.4 ","rpm":"700 - 2400"},{"name":"Antec Performance Max","price":"N/A","noise":"n/a","rpm":"N/A"},{"name":"Logisys MC2001IE","price":"N/A","noise":"23.4 ","rpm":"2200"},{"name":"Prolimatech PRO-PNTH","price":"N/A","noise":"n/a","rpm":"N/A"},{"name":"Reeven Hans RC-1205n","price":"N/A","noise":"4.0 - 29.8 ","rpm":"300 - 1500"},{"name":"Masscool 8W5020F1M","price":"N/A","noise":"20.0 - 34.0 ","rpm":"800 - 2800"},{"name":"Zalman CNPS7000V(AL)-1-PWMB","price":"N/A","noise":"20.0 - 32.0 ","rpm":"800 - 2600"},{"name":"NZXT HAVIK 140","price":"N/A","noise":"25.0 ","rpm":"1200"},{"name":"Logisys MC6002GS","price":"N/A","noise":"17.6 - 27.6 ","rpm":"500 - 1500"},{"name":"Scythe Ashura Shadow","price":"N/A","noise":"13.0 - 30.7 ","rpm":"500 - 1300"},{"name":"Thermaltake CL-P0101","price":"N/A","noise":"15.0 - 46.5 ","rpm":"600 - 3700"},{"name":"Zalman CNPS7700ALCULED","price":"N/A","noise":"22.7 - 37.1 ","rpm":"1000 - 2000"},{"name":"Logisys IC4300X4","price":"N/A","noise":"17.8 - 40.7 ","rpm":"400 - 2800"},{"name":"Enermax ELC120-TA","price":"N/A","noise":"18.5 - 32.8 ","rpm":"800 - 2200"},{"name":"Cooler Master CHD-00008-01-GP","price":"N/A","noise":"22.0 ","rpm":"2200"},{"name":"Scythe SCNJ-3100","price":"N/A","noise":"7.0 - 37.0 ","rpm":"470 - 1900"},{"name":"Corsair H100","price":"N/A","noise":"22.0 - 39.0 ","rpm":"1300 - 2500"},{"name":"X2 ECLIPSE IV","price":"N/A","noise":"10.0 - 24.0 ","rpm":"800 - 2000"},{"name":"Swiftech H220","price":"N/A","noise":"16.0 - 33.0 ","rpm":"1200 - 3000"},{"name":"Silverstone TD03-E","price":"N/A","noise":"18.0 - 35.0 ","rpm":"1500 - 2500"},{"name":"Thermaltake CLP0533","price":"N/A","noise":"21.0 - 48.0 ","rpm":"1000 - 6000"},{"name":"Antec KUHLER Box","price":"N/A","noise":"n/a","rpm":"N/A"},{"name":"Cooler Master Hyper N520","price":"N/A","noise":"19.0 ","rpm":"N/A"},{"name":"Cooler Master X6","price":"N/A","noise":"8.0 - 27.0 ","rpm":"600 - 1900"},{"name":"Sunbeam CR-CCTF","price":"N/A","noise":"16.0 - 20.0 ","rpm":"1000 - 2000"},{"name":"Thermaltake CLP0604","price":"N/A","noise":"21.0 - 48.0 ","rpm":"1200 - 2100"},{"name":"Thermalright Macho-120","price":"N/A","noise":"17.0 - 21.0 ","rpm":"900 - 1300"},{"name":"Zalman CNPS 8700 NT","price":"N/A","noise":"17.5 - 30.0 ","rpm":"1150 - 2100"},{"name":"Silverstone NT07-775","price":"N/A","noise":"15.0 - 23.0 ","rpm":"1200 - 1800"},{"name":"Silverstone NT07-1156","price":"N/A","noise":"15.0 - 38.0 ","rpm":"1200 - 3000"},{"name":"ID-COOLING FROSTFLOW+ 120","price":"N/A","noise":"18.0 - 35.2 ","rpm":"700 - 1800"},{"name":"Thermaltake A4022","price":"N/A","noise":"n/a","rpm":"1300"},{"name":"Cooler Master S2N-PLMHS-07-GP","price":"N/A","noise":"-","rpm":"-"},{"name":"Thermaltake CLP0527","price":"N/A","noise":"16.0 ","rpm":"800 - 1700"},{"name":"Zalman CNPS 7500 Cu LED","price":"N/A","noise":"17.0 - 32.0 ","rpm":"1150 - 2300"},{"name":"Rosewill RCX-Z2","price":"N/A","noise":"17.0 - 34.2 ","rpm":"500 - 3400"},{"name":"Silverstone NT01-PRO","price":"N/A","noise":"-","rpm":"-"},{"name":"Rosewill RCX-Z90-CP","price":"N/A","noise":"13.5 - 26.5 ","rpm":"600 - 3000"},{"name":"Rosewill RCX-Z80-AL","price":"N/A","noise":"22.4 ","rpm":"2500"},{"name":"Corsair A70","price":"N/A","noise":"26.0 - 31.5 ","rpm":"1600 - 2000"},{"name":"Cooler Master GeminII S","price":"N/A","noise":"17.0 - 21.0 ","rpm":"1000 - 2000"},{"name":"Sunbeam CR-CCTF92-4","price":"N/A","noise":"27.0 ","rpm":"1200 - 2200"},{"name":"Thermaltake A4012-02","price":"N/A","noise":"21.0 ","rpm":"2500"},{"name":"Dynatron T860","price":"N/A","noise":"20.2 - 44.9 ","rpm":"2000 - 6000"},{"name":"Dynatron T195","price":25.72,"noise":"20.5 - 49.8 ","rpm":"1000 - 5000"},{"name":"ID-COOLING SE-213","price":"N/A","noise":"16.0 - 20.2 ","rpm":"800 - 1600"},{"name":"ID-COOLING SE-203K","price":"N/A","noise":"16.2 - 29.2 ","rpm":"1800"},{"name":"ID-COOLING FI-REEX","price":"N/A","noise":"16.2 - 29.2 ","rpm":"800 - 1800"},{"name":"Scythe SCBSK-1000","price":"N/A","noise":"n/a","rpm":"650 - 2200"},{"name":"Scythe SCMG-2100","price":"N/A","noise":"-","rpm":"-"},{"name":"Scythe SCYS-1000","price":"N/A","noise":"7.0 - 27.3 ","rpm":"470 - 1900"},{"name":"Scythe SCNJ-3000","price":"N/A","noise":"9.8 - 27.3 ","rpm":"470 - 1900"},{"name":"NoFan CR-95C","price":"N/A","noise":"-","rpm":"-"},{"name":"Scythe SCRT-1000","price":"N/A","noise":"9.8 - 27.3 ","rpm":"470 - 1900"},{"name":"Scythe SCSMZ-2000","price":"N/A","noise":"7.2 - 31.1 ","rpm":"300 - 2500"},{"name":"Masscool 8W553B1M3","price":"N/A","noise":"26.2 ","rpm":"2400"},{"name":"Rosewill ROCC-13001","price":"N/A","noise":"19.4 - 31.1 ","rpm":"2000"},{"name":"Masscool 5W1081F1M3","price":"N/A","noise":"31.0 ","rpm":"2400"},{"name":"Masscool 5U1082F1M4","price":"N/A","noise":"23.0 - 45.9 ","rpm":"2000 - 3600"},{"name":"Masscool 8WT15-38","price":"N/A","noise":"30.0 ","rpm":"2400"},{"name":"ZEROtherm BTF90","price":"N/A","noise":"18.0 - 27.0 ","rpm":"750 - 2500"},{"name":"ID-COOLING SE-204","price":"N/A","noise":"16.2 - 29.2 ","rpm":"800 - 1800"},{"name":"Xigmatek Dark Knight S1283V","price":"N/A","noise":"30.1 ","rpm":"1000 - 2200"},{"name":"Xigmatek HDT-SD964","price":"N/A","noise":"22.0 - 30.0 ","rpm":"1200 - 2800"},{"name":"Xigmatek EP-CD901","price":"N/A","noise":"28.0 ","rpm":"1200 - 2500"},{"name":"ZEROtherm Nirvana NV120 PWM","price":"N/A","noise":"30.0 ","rpm":"900 - 1800"},{"name":"ZEROtherm ZT-560D","price":"N/A","noise":"30.0 ","rpm":"900 - 2300"},{"name":"ZEROtherm CF800-MK III","price":"N/A","noise":"30.0 ","rpm":"900 - 2600"},{"name":"Xigmatek LOKI SD963","price":"N/A","noise":"20.0 - 28.0 ","rpm":"1200 - 2800"},{"name":"Xigmatek Aegir SD128264","price":"N/A","noise":"20.0 ","rpm":"1000 - 2200"},{"name":"Evercool CI01-9525EP","price":"N/A","noise":"12.0 - 31.0 ","rpm":"900 - 2600"},{"name":"Evercool HPK-10025EA","price":"N/A","noise":"23.0 ","rpm":"1800"},{"name":"Xigmatek Praeton LD963","price":"N/A","noise":"22.0 ","rpm":"1200 - 2800"}]
+[{
+    "name": "Cooler Master Hyper 212 EVO",
+    "price": 27.89,
+    "noise": "9.0 - 36.0 ",
+    "rpm": "600 - 2000"
+}, {
+    "name": "Corsair H100i v2",
+    "price": 104.99,
+    "noise": "37.7 ",
+    "rpm": "2435"
+}, {
+    "name": "CRYORIG H7",
+    "price": 34.99,
+    "noise": "1.0 - 25.0 ",
+    "rpm": "330 - 1600"
+}, {
+    "name": "NZXT Kraken X62 Rev 2",
+    "price": 145.89,
+    "noise": "21.0 - 38.0 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "Cooler Master MasterLiquid ML240L RGB",
+    "price": 59.99,
+    "noise": "6.0 - 30.0 ",
+    "rpm": "650 - 2000"
+}, {
+    "name": "Corsair H60",
+    "price": 59.99,
+    "noise": "30.9 ",
+    "rpm": "2000"
+}, {
+    "name": "be quiet! Pure Rock Slim",
+    "price": 21.29,
+    "noise": "13.1 - 25.4 ",
+    "rpm": "2000"
+}, {
+    "name": "Corsair H150i PRO",
+    "price": 159.89,
+    "noise": "25.0 ",
+    "rpm": "1600"
+}, {
+    "name": "Noctua NH-D15",
+    "price": 83.61,
+    "noise": "19.2 - 24.6 ",
+    "rpm": "300 - 1500"
+}, {
+    "name": "CRYORIG C7",
+    "price": 29.99,
+    "noise": "30.0 ",
+    "rpm": "600 - 2500"
+}, {
+    "name": "NZXT Kraken X72",
+    "price": 181.99,
+    "noise": "21.0 - 36.0 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Corsair H115i PRO",
+    "price": 129.99,
+    "noise": "20.4 ",
+    "rpm": "1200"
+}, {
+    "name": "be quiet! Dark Rock 4",
+    "price": 67.99,
+    "noise": "n/a",
+    "rpm": "1400"
+}, {
+    "name": "Corsair H60 (2018)",
+    "price": 59.99,
+    "noise": "28.3 ",
+    "rpm": "1700"
+}, {
+    "name": "Cooler Master Hyper T2",
+    "price": 16.19,
+    "noise": "17.0 - 35.0 ",
+    "rpm": "2800"
+}, {
+    "name": "NZXT Kraken X52 Rev 2",
+    "price": 130.39,
+    "noise": "21.0 - 36.0 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "NZXT Kraken M22",
+    "price": 79.99,
+    "noise": "21.0 - 36.0 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Corsair H100i",
+    "price": 104.99,
+    "noise": "37.7 ",
+    "rpm": ""
+}, {
+    "name": "be quiet! Dark Rock Pro 4",
+    "price": 84.99,
+    "noise": "16.4 ",
+    "rpm": "1500"
+}, {
+    "name": "Noctua NH-L9i",
+    "price": 38.79,
+    "noise": "14.8 - 23.6 ",
+    "rpm": "2500 - 2999"
+}, {
+    "name": "Cooler Master MasterLiquid Lite 120",
+    "price": 49.89,
+    "noise": "6.0 - 30.0 ",
+    "rpm": "650 - 2000"
+}, {
+    "name": "Cooler Master Hyper 212 LED",
+    "price": 19.99,
+    "noise": "9.0 - 31.0 ",
+    "rpm": "600 - 1600"
+}, {
+    "name": "Cooler Master MasterLiquid Pro 240",
+    "price": 238.41,
+    "noise": "6.0 - 30.0 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Thermaltake Floe Riing RGB 360 TT Premium Edition",
+    "price": 175.12,
+    "noise": "19.8 - 24.7 ",
+    "rpm": "500 - 1400"
+}, {
+    "name": "Cooler Master MasterLiquid 240",
+    "price": 59.99,
+    "noise": "6.0 - 30.0 ",
+    "rpm": "650 - 2000"
+}, {
+    "name": "Cooler Master Hyper 212X",
+    "price": 19.99,
+    "noise": "9.0 - 36.0 ",
+    "rpm": "600 - 2000"
+}, {
+    "name": "CRYORIG M9i",
+    "price": 19.99,
+    "noise": "26.4 ",
+    "rpm": "600 - 2200"
+}, {
+    "name": "NZXT Kraken X62",
+    "price": 145.89,
+    "noise": "21.0 - 38.0 ",
+    "rpm": ""
+}, {
+    "name": "Noctua NH-U9S",
+    "price": 57.19,
+    "noise": "16.3 - 22.8 ",
+    "rpm": "400 - 2000"
+}, {
+    "name": "NZXT Kraken X31",
+    "price": 246.99,
+    "noise": "18.0 - 34.0 ",
+    "rpm": "800 - 2000"
+}, {
+    "name": "Corsair H115i",
+    "price": 129.99,
+    "noise": "20.4 ",
+    "rpm": ""
+}, {
+    "name": "AMD Wraith Max",
+    "price": 59,
+    "noise": "39.0 ",
+    "rpm": "700 - 3000"
+}, {
+    "name": "Deepcool CAPTAIN 240EX WHITE",
+    "price": 79.89,
+    "noise": "17.6 - 31.3 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "Cooler Master MasterLiquid ML240R RGB",
+    "price": 117.92,
+    "noise": "6.0 - 30.0 ",
+    "rpm": "650 - 2000"
+}, {
+    "name": "ARCTIC Alpine 11 GT Rev. 2",
+    "price": 6.49,
+    "noise": "n/a",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Cooler Master MasterAir G100M RGB",
+    "price": 35.79,
+    "noise": "30.0 ",
+    "rpm": "600 - 2400"
+}, {
+    "name": "Cooler Master \tMasterLiquid Lite 240",
+    "price": 44.99,
+    "noise": "6.0 - 30.0 ",
+    "rpm": "650 - 2000"
+}, {
+    "name": "Noctua NH-U12S",
+    "price": 57.99,
+    "noise": "18.6 - 22.4 ",
+    "rpm": "300 - 1500"
+}, {
+    "name": "Corsair H80i v2",
+    "price": 94.89,
+    "noise": "37.7 ",
+    "rpm": "2435"
+}, {
+    "name": "Fractal Design Celsius S36",
+    "price": 116.99,
+    "noise": "32.2 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Deepcool GAMMAXX 400 White",
+    "price": 37.99,
+    "noise": "17.8 - 30.0 ",
+    "rpm": "900 - 1500"
+}, {
+    "name": "CRYORIG H7 Quad Lumi",
+    "price": 59.95,
+    "noise": "10.0 - 25.0 ",
+    "rpm": "330 - 1600"
+}, {
+    "name": "Cooler Master MasterLiquid ML120L RGB",
+    "price": 49.79,
+    "noise": "6.0 - 30.0 ",
+    "rpm": "650 - 2000"
+}, {
+    "name": "Noctua NH-D15S",
+    "price": 79.9,
+    "noise": "19.2 - 24.6 ",
+    "rpm": "300 - 1500"
+}, {
+    "name": "Corsair H55",
+    "price": 49.99,
+    "noise": "30.3 ",
+    "rpm": "1700"
+}, {
+    "name": "Noctua NH-D14",
+    "price": 74.95,
+    "noise": "12.6 - 19.8 ",
+    "rpm": "900 - 1200"
+}, {
+    "name": "Corsair H110i",
+    "price": 112.89,
+    "noise": "43.0 ",
+    "rpm": "2100"
+}, {
+    "name": "Noctua NH-D15 SE-AM4",
+    "price": 89.9,
+    "noise": "19.2 - 24.6 ",
+    "rpm": "1200 - 1500"
+}, {
+    "name": "EVGA CLC 280",
+    "price": 109.99,
+    "noise": "16.0 - 39.5 ",
+    "rpm": "600 - 2200"
+}, {
+    "name": "be quiet! Dark Rock Pro 3",
+    "price": 82.39,
+    "noise": "13.2 - 26.1 ",
+    "rpm": "1400 - 1700"
+}, {
+    "name": "Noctua NH-L9a-AM4",
+    "price": 39.9,
+    "noise": "14.8 - 23.6 ",
+    "rpm": "600 - 2500"
+}, {
+    "name": "NZXT Kraken X52",
+    "price": 130.39,
+    "noise": "21.0 - 36.0 ",
+    "rpm": ""
+}, {
+    "name": "Deepcool CAPTAIN 240EX RGB",
+    "price": 97.49,
+    "noise": "17.6 - 31.3 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "ARCTIC Freezer 33 eSports ONE (Black/Red)",
+    "price": 29.99,
+    "noise": "24.4 ",
+    "rpm": "200 - 1800"
+}, {
+    "name": "Fractal Design Celsius S24",
+    "price": 96.57,
+    "noise": "32.2 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Cooler Master MasterAir MA610P",
+    "price": 44.65,
+    "noise": "35.0 ",
+    "rpm": "1800"
+}, {
+    "name": "ARCTIC Freezer 7 Pro Rev.2",
+    "price": 18.29,
+    "noise": "n/a",
+    "rpm": "900 - 2500"
+}, {
+    "name": "Corsair H105",
+    "price": 94.99,
+    "noise": "37.7 ",
+    "rpm": "800 - 2700"
+}, {
+    "name": "be quiet! Dark Rock 3",
+    "price": 68.9,
+    "noise": "8.4 - 21.1 ",
+    "rpm": "400 - 1400"
+}, {
+    "name": "Noctua NH-U12P SE2",
+    "price": 369.99,
+    "noise": "12.6 - 19.8 ",
+    "rpm": "900 - 1300"
+}, {
+    "name": "Deepcool NEPTWIN V2.0",
+    "price": 29.99,
+    "noise": "26.6 ",
+    "rpm": "1300"
+}, {
+    "name": "Cooler Master MasterLiquid 120",
+    "price": 59.99,
+    "noise": "6.0 - 30.0 ",
+    "rpm": "650 - 2000"
+}, {
+    "name": "Cooler Master Hyper 212X Dual Fan",
+    "price": 34.99,
+    "noise": "9.0 - 36.0 ",
+    "rpm": "2000"
+}, {
+    "name": "CRYORIG H5 Ultimate",
+    "price": 46.89,
+    "noise": "19.0 - 23.0 ",
+    "rpm": "700 - 1300"
+}, {
+    "name": "Noctua NH-U14S TR4-SP3",
+    "price": 79.9,
+    "noise": "19.2 - 24.6 ",
+    "rpm": "300 - 1500"
+}, {
+    "name": "RAIJINTEK JUNO-X",
+    "price": 10.99,
+    "noise": "26.0 ",
+    "rpm": "1200 - 2500"
+}, {
+    "name": "EVGA CLC 240",
+    "price": 89.49,
+    "noise": "16.0 - 39.9 ",
+    "rpm": "500 - 2400"
+}, {
+    "name": "Cooler Master Hyper T4",
+    "price": 14.99,
+    "noise": "15.1 - 31.6 ",
+    "rpm": "1800"
+}, {
+    "name": "CRYORIG M9a",
+    "price": 19.99,
+    "noise": "26.4 ",
+    "rpm": "600 - 2200"
+}, {
+    "name": "Noctua NH-L9x65",
+    "price": 48.88,
+    "noise": "14.8 - 23.6 ",
+    "rpm": "600 - 2500"
+}, {
+    "name": "ARCTIC Freezer 33 eSports ONE (Black/White)",
+    "price": 29.98,
+    "noise": "24.4 ",
+    "rpm": "200 - 1800"
+}, {
+    "name": "ARCTIC Alpine 64 Pro Rev 2",
+    "price": 8.89,
+    "noise": "n/a",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Noctua NH-U14S",
+    "price": 79.9,
+    "noise": "19.2 - 24.6 ",
+    "rpm": ""
+}, {
+    "name": "MSI CORE FROZR L",
+    "price": 52.79,
+    "noise": "17.2 - 33.6 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "Thermaltake Floe Riing RGB 240 TT Premium Edition",
+    "price": 137.49,
+    "noise": "19.8 - 24.7 ",
+    "rpm": "500 - 1400"
+}, {
+    "name": "Thermaltake CL-P0497",
+    "price": 6.29,
+    "noise": "27.0 ",
+    "rpm": "2500"
+}, {
+    "name": "be quiet! PURE ROCK",
+    "price": 35.39,
+    "noise": "19.1 - 26.8 ",
+    "rpm": "1500"
+}, {
+    "name": "Deepcool CAPTAIN 240EX RGB WH",
+    "price": 112.5,
+    "noise": "17.6 - 31.3 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "Enermax LiqTech TR4 360",
+    "price": 131.96,
+    "noise": "14.0 - 28.0 ",
+    "rpm": "500 - 2300"
+}, {
+    "name": "Thermaltake CLP0556-B",
+    "price": 8.49,
+    "noise": "22.0 ",
+    "rpm": "1900 - 2300"
+}, {
+    "name": "Deepcool GAMMAXX GT",
+    "price": 39.99,
+    "noise": "17.8 - 29.5 ",
+    "rpm": "500 - 1500"
+}, {
+    "name": "Corsair H75",
+    "price": 71.68,
+    "noise": "31.4 ",
+    "rpm": "2000"
+}, {
+    "name": "Thermaltake Water 3.0 Riing RGB 360",
+    "price": 139.99,
+    "noise": "26.4 ",
+    "rpm": "800 - 1500"
+}, {
+    "name": "Intel BXTS15A",
+    "price": 29.3,
+    "noise": "n/a",
+    "rpm": "1000 - 3850"
+}, {
+    "name": "Thermaltake Contac Silent 12",
+    "price": 21.37,
+    "noise": "22.1 - 28.8 ",
+    "rpm": "400 - 1500"
+}, {
+    "name": "Noctua NH-D9L",
+    "price": 51.82,
+    "noise": "16.3 - 22.8 ",
+    "rpm": "400 - 2000"
+}, {
+    "name": "Cooler Master Hyper TX3",
+    "price": 26.99,
+    "noise": "17.0 - 35.0 ",
+    "rpm": "800 - 2800"
+}, {
+    "name": "Deepcool CAPTAIN 120EX RGB",
+    "price": 65.99,
+    "noise": "17.6 - 31.3 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "NZXT Kraken X42 Rev 2",
+    "price": 115.89,
+    "noise": "21.0 - 38.0 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "Scythe FUMA Rev.B",
+    "price": 46.99,
+    "noise": "13.0 - 28.0 ",
+    "rpm": "300 - 1400"
+}, {
+    "name": "Thermaltake Water 3.0 Riing RGB 240",
+    "price": 109.99,
+    "noise": "26.4 ",
+    "rpm": "800 - 1500"
+}, {
+    "name": "Noctua NH-U12S TR4-SP3",
+    "price": 69.9,
+    "noise": "18.6 - 22.4 ",
+    "rpm": "300 - 1500"
+}, {
+    "name": "CRYORIG R1 Ultimate",
+    "price": 89.95,
+    "noise": "23.0 ",
+    "rpm": "700 - 1300"
+}, {
+    "name": "Rosewill RCX-Z775-LP",
+    "price": 11.99,
+    "noise": "16.0 - 24.5 ",
+    "rpm": "600 - 2600"
+}, {
+    "name": "CRYORIG C7 Cu",
+    "price": 49.95,
+    "noise": "30.0 ",
+    "rpm": "600 - 2500"
+}, {
+    "name": "Cooler Master Hyper 212 LED Turbo (Red)",
+    "price": 26.99,
+    "noise": "9.0 - 31.0 ",
+    "rpm": "300 - 1600"
+}, {
+    "name": "Deepcool CAPTAIN 360EX WHITE RGB",
+    "price": 159.99,
+    "noise": "17.6 - 31.3 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "Thermaltake CL-P0503",
+    "price": 5.29,
+    "noise": "29.6 ",
+    "rpm": "2900"
+}, {
+    "name": "Cooler Master Nepton 280L",
+    "price": "N/A",
+    "noise": "21.0 - 39.0 ",
+    "rpm": "2000"
+}, {
+    "name": "ARCTIC Alpine 11 Plus",
+    "price": 9.79,
+    "noise": "14.0 ",
+    "rpm": "600 - 2000"
+}, {
+    "name": "CRYORIG H5 Universal",
+    "price": 46.99,
+    "noise": "20.0 - 24.0 ",
+    "rpm": "700 - 1300"
+}, {
+    "name": "Cooler Master MasterLiquid ML120R RGB",
+    "price": 89.99,
+    "noise": "6.0 - 30.0 ",
+    "rpm": "650 - 2000"
+}, {
+    "name": "NZXT Kraken X61",
+    "price": 114.98,
+    "noise": "20.0 - 37.0 ",
+    "rpm": "800 - 2000"
+}, {
+    "name": "be quiet! DARK ROCK TF",
+    "price": 78.89,
+    "noise": "11.9 - 26.7 ",
+    "rpm": "1400"
+}, {
+    "name": "Enermax LIQTECH TR4 280",
+    "price": 122.05,
+    "noise": "14.0 - 25.0 ",
+    "rpm": "500 - 1500"
+}, {
+    "name": "ARCTIC Alpine 11 GT Rev 2",
+    "price": 10.03,
+    "noise": "22.5 ",
+    "rpm": "2000"
+}, {
+    "name": "Corsair H100i GTX",
+    "price": 148.98,
+    "noise": "37.7 ",
+    "rpm": "2435"
+}, {
+    "name": "Noctua NH-L12S",
+    "price": 49.9,
+    "noise": "16.8 - 23.9 ",
+    "rpm": "450 - 1850"
+}, {
+    "name": "Scythe Mugen 5 Rev. B",
+    "price": 47.99,
+    "noise": "4.0 - 24.9 ",
+    "rpm": "300 - 1200"
+}, {
+    "name": "Cooler Master MasterAir MA410P",
+    "price": 34.99,
+    "noise": "6.0 - 30.0 ",
+    "rpm": "650 - 2000"
+}, {
+    "name": "Deepcool CAPTAIN 120 EX",
+    "price": 62.56,
+    "noise": "17.6 - 31.3 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "Deepcool CAPTAIN 240 EX",
+    "price": 80.99,
+    "noise": "17.6 - 31.3 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "Deepcool GAMMAXX 400",
+    "price": 21.89,
+    "noise": "21.4 - 32.1 ",
+    "rpm": "900 - 1500"
+}, {
+    "name": "Thermaltake Water 3.0 Ultimate",
+    "price": 117.49,
+    "noise": "20.0 ",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "RAIJINTEK JUNO-X",
+    "price": 9.49,
+    "noise": "26.0 ",
+    "rpm": "1200 - 2500"
+}, {
+    "name": "be quiet! SHADOW ROCK LP",
+    "price": 41.39,
+    "noise": "14.8 - 25.5 ",
+    "rpm": "1500"
+}, {
+    "name": "Enermax Liqfusion",
+    "price": 113.99,
+    "noise": "14.0 - 28.0 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Cooler Master MasterAir Maker 8",
+    "price": 105,
+    "noise": "8.0 - 24.0 ",
+    "rpm": "600 - 1800"
+}, {
+    "name": "MSI Core Frozr XL",
+    "price": 109.99,
+    "noise": "17.2 - 33.6 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "Corsair H80i",
+    "price": 152.78,
+    "noise": "37.7 ",
+    "rpm": "2700"
+}, {
+    "name": "EVGA CLC 120",
+    "price": 59.89,
+    "noise": "16.0 - 39.9 ",
+    "rpm": "500 - 2400"
+}, {
+    "name": "Cooler Master GeminII M4",
+    "price": 33.83,
+    "noise": "8.0 - 30.0 ",
+    "rpm": "500 - 1600"
+}, {
+    "name": "Noctua NH-U12S SE-AM4",
+    "price": 59.9,
+    "noise": "18.6 - 22.4 ",
+    "rpm": "300 - 1500"
+}, {
+    "name": "Cooler Master Hyper TX3 Evo",
+    "price": 67.35,
+    "noise": "n/a",
+    "rpm": "800 - 2200"
+}, {
+    "name": "NZXT Kraken X42",
+    "price": 129.89,
+    "noise": "21.0 - 38.0 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "Deepcool GAMMAXX 300 R",
+    "price": 18.28,
+    "noise": "17.8 - 21.0 ",
+    "rpm": "900 - 1600"
+}, {
+    "name": "Noctua NH-U9B SE2",
+    "price": 59.99,
+    "noise": "7.9 - 17.6 ",
+    "rpm": "1000 - 1600"
+}, {
+    "name": "ARCTIC Liquid Freezer 360",
+    "price": 115.72,
+    "noise": "22.5 ",
+    "rpm": "500 - 1350"
+}, {
+    "name": "Cooler Master V8 GTS",
+    "price": 88.19,
+    "noise": "36.0 ",
+    "rpm": "1600"
+}, {
+    "name": "Deepcool CAPTAIN 360",
+    "price": 169.99,
+    "noise": "17.6 - 39.3 ",
+    "rpm": "600 - 2200"
+}, {
+    "name": "Thermalright Macho Rev.B",
+    "price": 49.9,
+    "noise": "15.0 - 21.0 ",
+    "rpm": "300 - 1300"
+}, {
+    "name": "CRYORIG R1 Universal",
+    "price": 89.95,
+    "noise": "20.0 - 25.0 ",
+    "rpm": "700 - 1300"
+}, {
+    "name": "Gelid Solutions CC-Siberian-01",
+    "price": 9.93,
+    "noise": "10.0 - 22.5 ",
+    "rpm": "900 - 2200"
+}, {
+    "name": "Corsair H110i GTX",
+    "price": "N/A",
+    "noise": "40.0 ",
+    "rpm": "2000"
+}, {
+    "name": "Cooler Master Hyper 212 LED Turbo (Black)",
+    "price": 34.99,
+    "noise": "9.0 - 31.0 ",
+    "rpm": "600 - 1600"
+}, {
+    "name": "Enermax Liqmax II 240",
+    "price": 79.68,
+    "noise": "16.0 - 35.0 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Thermalright Le Grand Macho RT",
+    "price": 79.99,
+    "noise": "14.0 - 20.0 ",
+    "rpm": "300 - 1300"
+}, {
+    "name": "ARCTIC Freezer 13 CO",
+    "price": 28.99,
+    "noise": "24.4 ",
+    "rpm": "600 - 2000"
+}, {
+    "name": "ARCTIC Freezer 33 eSports Edition (Black/White)",
+    "price": 44.89,
+    "noise": "24.4 ",
+    "rpm": "200 - 1800"
+}, {
+    "name": "Corsair H50",
+    "price": 49.99,
+    "noise": "30.3 ",
+    "rpm": "1700"
+}, {
+    "name": "Noctua NH-U9 TR4-SP3",
+    "price": 69.9,
+    "noise": "16.3 - 22.8 ",
+    "rpm": "400 - 2000"
+}, {
+    "name": "Gigabyte AORUS ATC700",
+    "price": 79.99,
+    "noise": "12.0 - 31.0 ",
+    "rpm": "500 - 1700"
+}, {
+    "name": "Corsair H90",
+    "price": "N/A",
+    "noise": "35.0 ",
+    "rpm": "1500"
+}, {
+    "name": "Deepcool CAPTAIN 120EX WHITE",
+    "price": 71.99,
+    "noise": "17.6 - 31.3 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "Thermaltake Floe Riing RGB 280 TT Premium Edition",
+    "price": 145.99,
+    "noise": "19.8 - 27.2 ",
+    "rpm": "500 - 1400"
+}, {
+    "name": "ARCTIC Freezer 33 TR (Black/White)",
+    "price": 38.05,
+    "noise": "24.4 ",
+    "rpm": "200 - 1800"
+}, {
+    "name": "Intel BXTS13X",
+    "price": 79.99,
+    "noise": "21.0 - 35.0 ",
+    "rpm": "800 - 2200"
+}, {
+    "name": "be quiet! Silent Loop 360",
+    "price": "N/A",
+    "noise": "16.1 - 36.9 ",
+    "rpm": "2000"
+}, {
+    "name": "be quiet! Silent Loop 120",
+    "price": 185.5,
+    "noise": "16.1 - 36.9 ",
+    "rpm": "2000"
+}, {
+    "name": "Enermax Liqmax II 120",
+    "price": 59.98,
+    "noise": "16.0 - 35.0 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Deepcool GAMMAXX 200T",
+    "price": 15.49,
+    "noise": "17.8 - 26.1 ",
+    "rpm": "900 - 1600"
+}, {
+    "name": "Deepcool Maelstrom 120T",
+    "price": "N/A",
+    "noise": "17.8 - 34.1 ",
+    "rpm": "600 - 1800"
+}, {
+    "name": "Cooler Master DP6-9EDSA-0L-GP",
+    "price": 10.89,
+    "noise": "24.5 ",
+    "rpm": "2600"
+}, {
+    "name": "Deepcool ICE BLADE 200M",
+    "price": 20.89,
+    "noise": "17.8 - 30.1 ",
+    "rpm": "2200"
+}, {
+    "name": "ID-COOLING DK-03",
+    "price": "N/A",
+    "noise": "26.4 ",
+    "rpm": "1600"
+}, {
+    "name": "RAIJINTEK JUNO-X",
+    "price": 9.49,
+    "noise": "26.0 ",
+    "rpm": "1200 - 2500"
+}, {
+    "name": "Noctua NH-U9DO A3",
+    "price": 101.36,
+    "noise": "7.9 - 17.6 ",
+    "rpm": "1000 - 1600"
+}, {
+    "name": "Intel BXXTS100H",
+    "price": "N/A",
+    "noise": "20.0 - 35.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Reeven Brontes",
+    "price": "N/A",
+    "noise": "10.5 - 31.7 ",
+    "rpm": "650 - 2200"
+}, {
+    "name": "Zalman CNPS80F",
+    "price": 11.81,
+    "noise": "23.8 ",
+    "rpm": "2500"
+}, {
+    "name": "Scythe BIG Shuriken 2 Rev. B",
+    "price": 34.29,
+    "noise": "9.3 - 33.7 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Cooler Master MasterLiquid Pro 280",
+    "price": 167.59,
+    "noise": "6.0 - 30.0 ",
+    "rpm": "650 - 2200"
+}, {
+    "name": "LEPA AquaChanger 240",
+    "price": 49.31,
+    "noise": "14.0 - 35.0 ",
+    "rpm": "500 - 2300"
+}, {
+    "name": "Cooler Master Vortex Plus",
+    "price": 26.99,
+    "noise": "17.0 - 35.0 ",
+    "rpm": "800 - 2800"
+}, {
+    "name": "Cooler Master Hyper 212 Plus",
+    "price": 43.25,
+    "noise": "13.0 - 32.0 ",
+    "rpm": "600 - 2000"
+}, {
+    "name": "Thermaltake Water 3.0 Performer C + LNC",
+    "price": 62.29,
+    "noise": "27.4 ",
+    "rpm": "1200 - 2000"
+}, {
+    "name": "Rosewill RCX-Z300",
+    "price": 12.99,
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "RAIJINTEK LETO B",
+    "price": 36.99,
+    "noise": "29.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "RAIJINTEK THEMIS",
+    "price": 14.99,
+    "noise": "24.5 ",
+    "rpm": "1000 - 1500"
+}, {
+    "name": "Cooler Master Seidon 120V",
+    "price": "N/A",
+    "noise": "19.0 - 40.0 ",
+    "rpm": "2400"
+}, {
+    "name": "Noctua NH-L12",
+    "price": 49.9,
+    "noise": "16.8 - 23.9 ",
+    "rpm": "450 - 1850"
+}, {
+    "name": "Thermaltake Water 3.0 Extreme S",
+    "price": 79.89,
+    "noise": "20.0 ",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "Enermax LiqTech TR4 240",
+    "price": 117.24,
+    "noise": "14.0 - 28.0 ",
+    "rpm": "500 - 2300"
+}, {
+    "name": "Cooler Master MasterAir MA410M",
+    "price": 59.99,
+    "noise": "6.0 - 31.0 ",
+    "rpm": "650 - 1800"
+}, {
+    "name": "Corsair H50",
+    "price": 49.99,
+    "noise": "30.3 ",
+    "rpm": "1700"
+}, {
+    "name": "Cooler Master DK9-7G52A-0L-GP",
+    "price": 20.88,
+    "noise": "35.0 ",
+    "rpm": "4500"
+}, {
+    "name": "Noctua NH-D14 SE2011",
+    "price": 79.89,
+    "noise": "12.6 - 19.8 ",
+    "rpm": "900 - 1300"
+}, {
+    "name": "Enermax Liqtech 240",
+    "price": 179.99,
+    "noise": "30.0 ",
+    "rpm": "2500"
+}, {
+    "name": "SilentiumPC Fera 3 HE1224 v2",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "500 - 1600"
+}, {
+    "name": "ID-COOLING FROSTFLOW+ 240",
+    "price": "N/A",
+    "noise": "18.0 - 35.2 ",
+    "rpm": "700 - 1800"
+}, {
+    "name": "ARCTIC Alpine 64 GT",
+    "price": 9.89,
+    "noise": "n/a",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Cooler Master MasterAir MA410M TUF Gaming Edition",
+    "price": 59.99,
+    "noise": "6.0 - 31.0 ",
+    "rpm": "600 - 1800"
+}, {
+    "name": "CRYORIG C1",
+    "price": 59.99,
+    "noise": "24.0 ",
+    "rpm": "700 - 1300"
+}, {
+    "name": "Cooler Master MasterLiquid Pro 140",
+    "price": 99.79,
+    "noise": "6.0 - 30.0 ",
+    "rpm": "650 - 2000"
+}, {
+    "name": "RAIJINTEK LETO R",
+    "price": 36.99,
+    "noise": "29.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Corsair H110",
+    "price": "N/A",
+    "noise": "40.0 ",
+    "rpm": ""
+}, {
+    "name": "Cooler Master MasterAir Pro 3",
+    "price": 31.79,
+    "noise": "6.0 - 30.0 ",
+    "rpm": "650 - 3000"
+}, {
+    "name": "ARCTIC Freezer 12",
+    "price": 19.39,
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "ARCTIC Freezer 33 TR (Black/Red)",
+    "price": 39.03,
+    "noise": "24.4 ",
+    "rpm": "200 - 1800"
+}, {
+    "name": "ID-COOLING FROSTFLOW+ 280",
+    "price": "N/A",
+    "noise": "16.8 - 32.6 ",
+    "rpm": "800 - 1600"
+}, {
+    "name": "ARCTIC Alpine 11",
+    "price": 10.03,
+    "noise": "22.5 ",
+    "rpm": ""
+}, {
+    "name": "Enermax Liqtech 120X",
+    "price": 196.71,
+    "noise": "15.0 - 30.0 ",
+    "rpm": "600 - 2500"
+}, {
+    "name": "Alpenföhn BEN NEVIS",
+    "price": "N/A",
+    "noise": "8.0 - 20.2 ",
+    "rpm": "400 - 1600"
+}, {
+    "name": "NoFan CR-80EH",
+    "price": "N/A",
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "ARCTIC Alpine 11 Pro Rev. 2",
+    "price": 9.99,
+    "noise": "n/a",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Noctua NH-L9x65 SE-AM4",
+    "price": 49.9,
+    "noise": "14.8 - 23.6 ",
+    "rpm": "600 - 2500"
+}, {
+    "name": "be quiet! Shadow Rock 2",
+    "price": 48.9,
+    "noise": "15.3 - 25.4 ",
+    "rpm": "1600"
+}, {
+    "name": "Noctua NH-C14S",
+    "price": 74.88,
+    "noise": "19.2 - 24.6 ",
+    "rpm": "300 - 1500"
+}, {
+    "name": "ARCTIC Freezer 13",
+    "price": 28.99,
+    "noise": "24.4 ",
+    "rpm": ""
+}, {
+    "name": "Noctua NH-U9DXi4",
+    "price": 59.95,
+    "noise": "13.1 - 17.6 ",
+    "rpm": "300 - 1600"
+}, {
+    "name": "ARCTIC Liquid Freezer 120",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "500 - 1350"
+}, {
+    "name": "Silverstone AR05",
+    "price": 36.99,
+    "noise": "20.0 - 28.3 ",
+    "rpm": "2500"
+}, {
+    "name": "RAIJINTEK LETO W",
+    "price": 36.99,
+    "noise": "29.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Thermaltake Water 3.0 Extreme",
+    "price": "N/A",
+    "noise": "20.0 ",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "Phanteks PH-TC12DX_BK",
+    "price": 55.85,
+    "noise": "21.9 - 27.6 ",
+    "rpm": "600 - 1800"
+}, {
+    "name": "be quiet! Shadow Rock Slim",
+    "price": 39.99,
+    "noise": "11.5 - 23.7 ",
+    "rpm": "400 - 1400"
+}, {
+    "name": "Cooler Master MA621P TR4",
+    "price": 50,
+    "noise": "31.0 ",
+    "rpm": "600 - 1800"
+}, {
+    "name": "Cooler Master GeminII S524 Ver 2",
+    "price": 41.18,
+    "noise": "22.0 ",
+    "rpm": "2000"
+}, {
+    "name": "Cooler Master MasterAir MA620P TUF Gaming Edition",
+    "price": 59.99,
+    "noise": "6.0 - 31.0 ",
+    "rpm": "600 - 1800"
+}, {
+    "name": "Cooler Master Hyper 103",
+    "price": 38.32,
+    "noise": "17.0 - 30.0 ",
+    "rpm": "800 - 2200"
+}, {
+    "name": "Cooler Master MasterAir Pro 4",
+    "price": 92.43,
+    "noise": "6.0 - 30.0 ",
+    "rpm": "650 - 2000"
+}, {
+    "name": "Enermax ETS-N30R-HE",
+    "price": 24.99,
+    "noise": "12.0 - 28.0 ",
+    "rpm": "600 - 2800"
+}, {
+    "name": "Alphacool Eisbaer 360",
+    "price": 152.29,
+    "noise": "29.0 ",
+    "rpm": "550 - 1700"
+}, {
+    "name": "CRYORIG A40",
+    "price": 104.35,
+    "noise": "13.0 - 37.0 ",
+    "rpm": "600 - 2200"
+}, {
+    "name": "Thermaltake CLP0556",
+    "price": 13.44,
+    "noise": "22.0 ",
+    "rpm": "1900 - 2300"
+}, {
+    "name": "Noctua NH-U12DXi4",
+    "price": 64.17,
+    "noise": "18.6 - 22.4 ",
+    "rpm": "300 - 1500"
+}, {
+    "name": "Noctua NH-D9DX i4 3U",
+    "price": 54.95,
+    "noise": "16.3 - 22.8 ",
+    "rpm": "400 - 2000"
+}, {
+    "name": "Thermaltake NiC C5",
+    "price": 47.49,
+    "noise": "20.0 - 39.9 ",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "ARCTIC Alpine 64 PLUS",
+    "price": 13.5,
+    "noise": "n/a",
+    "rpm": "600 - 2000"
+}, {
+    "name": "ARCTIC Alpine 11 - Passive",
+    "price": 12.31,
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Deepcool CAPTAIN360EX",
+    "price": 149.99,
+    "noise": "17.6 - 31.3 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "ARCTIC Liquid Freezer 240",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "500 - 1350"
+}, {
+    "name": "Deepcool GAMMAXX 300",
+    "price": 19.64,
+    "noise": "17.8 - 21.0 ",
+    "rpm": "900 - 1600"
+}, {
+    "name": "Cooler Master Hyper 612 Ver.2",
+    "price": 27.99,
+    "noise": "11.0 - 20.0 ",
+    "rpm": "800 - 1300"
+}, {
+    "name": "Enermax ETS-T40F-W",
+    "price": 48.83,
+    "noise": "27.0 ",
+    "rpm": "2200"
+}, {
+    "name": "ID-COOLING IS-60",
+    "price": 44.98,
+    "noise": "13.8 - 30.2 ",
+    "rpm": "600 - 1600"
+}, {
+    "name": "Dynatron K129",
+    "price": 33.95,
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Thermalright TRUE Spirit 140 POWER",
+    "price": 49.9,
+    "noise": "17.0 - 21.0 ",
+    "rpm": "900 - 1300"
+}, {
+    "name": "Deepcool FROSTWIN V2.0",
+    "price": 39.89,
+    "noise": "17.8 - 21.0 ",
+    "rpm": "1600"
+}, {
+    "name": "be quiet! Silent Loop 240",
+    "price": "N/A",
+    "noise": "16.1 - 36.9 ",
+    "rpm": "2000"
+}, {
+    "name": "Cooler Master MasterLiquid Pro 120",
+    "price": "N/A",
+    "noise": "6.0 - 30.0 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Antec KUHLER H2O 650",
+    "price": 63.32,
+    "noise": "n/a",
+    "rpm": "600 - 2400"
+}, {
+    "name": "Deepcool Maelstrom 240T",
+    "price": 92.21,
+    "noise": "17.8 - 34.1 ",
+    "rpm": "600 - 1800"
+}, {
+    "name": "Thermaltake Riing Silent 12 Blue",
+    "price": 39.99,
+    "noise": "13.0 - 18.0 ",
+    "rpm": "300 - 1400"
+}, {
+    "name": "Dynatron T450",
+    "price": 14.56,
+    "noise": "16.0 - 27.3 ",
+    "rpm": "800 - 2500"
+}, {
+    "name": "Deepcool CAPTAIN 120 WHITE",
+    "price": 74.99,
+    "noise": "17.6 - 39.3 ",
+    "rpm": "600 - 2200"
+}, {
+    "name": "Alpenföhn Silvretta",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "800 - 2800"
+}, {
+    "name": "Zalman Reserator 3 MAX",
+    "price": 124.19,
+    "noise": "18.9 - 36.7 ",
+    "rpm": "1000 - 2200"
+}, {
+    "name": "Noctua NH-U9DX 1366",
+    "price": 64.95,
+    "noise": "7.9 - 17.6 ",
+    "rpm": "1000 - 1600"
+}, {
+    "name": "ARCTIC Alpine 20 PLUS CO",
+    "price": 18.9,
+    "noise": "n/a",
+    "rpm": "600 - 2200"
+}, {
+    "name": "Fractal Design Kelvin S36",
+    "price": "N/A",
+    "noise": "26.9 ",
+    "rpm": "800 - 1700"
+}, {
+    "name": "Cooler Master Eisberg 120L Prestige",
+    "price": "N/A",
+    "noise": "20.5 ",
+    "rpm": "1600"
+}, {
+    "name": "Cooler Master Seidon 240P",
+    "price": "N/A",
+    "noise": "12.0 - 35.0 ",
+    "rpm": "800 - 2400"
+}, {
+    "name": "Deepcool CAPTAIN 120",
+    "price": 74.99,
+    "noise": "17.6 - 39.3 ",
+    "rpm": ""
+}, {
+    "name": "ID-COOLING SE-214",
+    "price": "N/A",
+    "noise": "16.2 - 29.2 ",
+    "rpm": "1800"
+}, {
+    "name": "Corsair H40",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "2000"
+}, {
+    "name": "Prolimatech PRO-SAM17",
+    "price": 63.95,
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Cooler Master Hyper D92",
+    "price": 34.22,
+    "noise": "18.0 - 33.0 ",
+    "rpm": "800 - 2800"
+}, {
+    "name": "Cooler Master MasterAir MA620P",
+    "price": 59.99,
+    "noise": "6.0 - 31.0 ",
+    "rpm": ""
+}, {
+    "name": "Noctua NH-L9a",
+    "price": 49.99,
+    "noise": "n/a",
+    "rpm": "2500"
+}, {
+    "name": "RAIJINTEK RHEA",
+    "price": 15.99,
+    "noise": "27.9 ",
+    "rpm": "800 - 2200"
+}, {
+    "name": "Silverstone AR06",
+    "price": 39.78,
+    "noise": "20.0 - 28.3 ",
+    "rpm": "2500"
+}, {
+    "name": "Phanteks PH-TC12DX",
+    "price": 55.85,
+    "noise": "21.9 - 27.6 ",
+    "rpm": ""
+}, {
+    "name": "Enermax ETS-N30R-TAA",
+    "price": 30.13,
+    "noise": "16.0 - 27.0 ",
+    "rpm": "800 - 2800"
+}, {
+    "name": "ARCTIC Freezer 33 eSports Edition (Black/Red)",
+    "price": 47.65,
+    "noise": "24.4 ",
+    "rpm": "200 - 1800"
+}, {
+    "name": "Thermaltake Riing Silent 12 Red",
+    "price": 35.49,
+    "noise": "13.0 - 18.0 ",
+    "rpm": "300 - 1400"
+}, {
+    "name": "Scythe Kotetsu",
+    "price": 35.89,
+    "noise": "5.3 - 28.0 ",
+    "rpm": "400 - 1400"
+}, {
+    "name": "Silverstone TD02-LITE",
+    "price": 74.67,
+    "noise": "18.0 - 35.0 ",
+    "rpm": "1500 - 2500"
+}, {
+    "name": "Deepcool GABRIEL",
+    "price": 29.72,
+    "noise": "18.2 - 32.4 ",
+    "rpm": "900 - 1800"
+}, {
+    "name": "CRYORIG A40 ULTIMATE",
+    "price": 114.35,
+    "noise": "13.0 - 37.0 ",
+    "rpm": "600 - 2200"
+}, {
+    "name": "Thermaltake Engine 27",
+    "price": 42.99,
+    "noise": "13.0 - 25.0 ",
+    "rpm": "1500 - 2500"
+}, {
+    "name": "Cooler Master Seidon 120V VER.2",
+    "price": 103.91,
+    "noise": "6.5 - 27.0 ",
+    "rpm": "800 - 2400"
+}, {
+    "name": "be quiet! Dark Rock Advanced C1",
+    "price": 102.4,
+    "noise": "6.6 - 18.8 ",
+    "rpm": "1500"
+}, {
+    "name": "Scythe SCNJ-4000",
+    "price": 39.99,
+    "noise": "4.0 - 29.5 ",
+    "rpm": "300 - 1500"
+}, {
+    "name": "ARCTIC Freezer 33 eSports ONE (Black/Green)",
+    "price": 29.99,
+    "noise": "24.4 ",
+    "rpm": "200 - 1800"
+}, {
+    "name": "Scythe Mugen 5 PCGH Edition",
+    "price": 101.24,
+    "noise": "4.0 - 14.5 ",
+    "rpm": "300 - 800"
+}, {
+    "name": "LEPA AquaChanger 120",
+    "price": 59.89,
+    "noise": "14.0 - 35.0 ",
+    "rpm": "500 - 2300"
+}, {
+    "name": "Deepcool CAPTAIN 240 WHITE",
+    "price": 109.99,
+    "noise": "17.6 - 39.3 ",
+    "rpm": "600 - 2200"
+}, {
+    "name": "SilenX EFZ-120HA5",
+    "price": 39.89,
+    "noise": "8.0 - 24.0 ",
+    "rpm": "1600"
+}, {
+    "name": "SilenX EFZ-80HA3",
+    "price": 25.89,
+    "noise": "8.0 - 24.0 ",
+    "rpm": "2200"
+}, {
+    "name": "Cooler Master DK9-7E52A-0L-GP",
+    "price": 20.88,
+    "noise": "25.2 ",
+    "rpm": "3200"
+}, {
+    "name": "Enermax ETS-T40-BK",
+    "price": 79.99,
+    "noise": "16.0 - 26.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Cooler Master Nepton 120XL",
+    "price": "N/A",
+    "noise": "6.5 - 27.0 ",
+    "rpm": "2400"
+}, {
+    "name": "Silverstone NT08-115X",
+    "price": 20.99,
+    "noise": "21.6 - 62.9 ",
+    "rpm": "1200 - 3500"
+}, {
+    "name": "EVGA ACX",
+    "price": "N/A",
+    "noise": "42.5 ",
+    "rpm": "2800"
+}, {
+    "name": "Silverstone TD03-SLIM",
+    "price": "N/A",
+    "noise": "16.5 - 27.4 ",
+    "rpm": "800 - 2200"
+}, {
+    "name": "ID-COOLING FROSTFLOW 240L-R",
+    "price": "N/A",
+    "noise": "20.0 - 38.2 ",
+    "rpm": "800 - 2000"
+}, {
+    "name": "Intel BXRTS2011AC",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "1000 - 3000"
+}, {
+    "name": "Thermalright Silver Arrow",
+    "price": "N/A",
+    "noise": "17.0 - 21.0 ",
+    "rpm": "500 - 1300"
+}, {
+    "name": "Corsair H80",
+    "price": "N/A",
+    "noise": "22.0 - 39.0 ",
+    "rpm": "1300 - 2500"
+}, {
+    "name": "Deepcool NEPTWIN",
+    "price": "N/A",
+    "noise": "17.8 - 30.0 ",
+    "rpm": "900 - 1500"
+}, {
+    "name": "Intel BXRTS2011LC",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "2200"
+}, {
+    "name": "Thermalright AXP-100",
+    "price": "N/A",
+    "noise": "22.0 - 30.0 ",
+    "rpm": "900 - 2500"
+}, {
+    "name": "Thermaltake Water 2.0 Extreme",
+    "price": "N/A",
+    "noise": "27.4 ",
+    "rpm": "1200 - 2000"
+}, {
+    "name": "Thermaltake Gravity i2",
+    "price": 11.89,
+    "noise": "21.3 ",
+    "rpm": "1800"
+}, {
+    "name": "Phanteks PH-TC14PE",
+    "price": 82.85,
+    "noise": "13.4 - 19.0 ",
+    "rpm": "700 - 1200"
+}, {
+    "name": "ARCTIC Freezer 33",
+    "price": 47.65,
+    "noise": "24.4 ",
+    "rpm": ""
+}, {
+    "name": "ID-COOLING AURAFLOW 120",
+    "price": 66.99,
+    "noise": "18.0 - 35.2 ",
+    "rpm": "700 - 1800"
+}, {
+    "name": "Phanteks PH-TC12LS_BK",
+    "price": 37.81,
+    "noise": "25.0 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "CRYORIG A80",
+    "price": 124.45,
+    "noise": "13.0 - 38.0 ",
+    "rpm": "600 - 1850"
+}, {
+    "name": "Scythe Shuriken Rev. B 3",
+    "price": 32.99,
+    "noise": "10.5 - 31.7 ",
+    "rpm": "650 - 2200"
+}, {
+    "name": "ARCTIC Freezer 33 CO",
+    "price": 33.84,
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Alphacool Eisbaer 240",
+    "price": 120.75,
+    "noise": "29.0 ",
+    "rpm": "550 - 1700"
+}, {
+    "name": "Scythe SCKZT-1000",
+    "price": 29.69,
+    "noise": "8.2 - 32.5 ",
+    "rpm": "800 - 3300"
+}, {
+    "name": "Zalman CNPS8X Optima",
+    "price": 14.99,
+    "noise": "18.2 - 30.0 ",
+    "rpm": "1200 - 2100"
+}, {
+    "name": "Scythe SCBYK-1000",
+    "price": 22.95,
+    "noise": "7.2 - 28.3 ",
+    "rpm": "300 - 2300"
+}, {
+    "name": "Enermax ETS-T50 AXE (Black)",
+    "price": 57.98,
+    "noise": "18.9 - 25.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "RAIJINTEK JUNO-X RGB",
+    "price": "N/A",
+    "noise": "28.0 ",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "Prolimatech PRO-GNSS-BK",
+    "price": 78.52,
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Thermaltake Frio Silent 12",
+    "price": 31.19,
+    "noise": "12.0 - 19.2 ",
+    "rpm": "1400"
+}, {
+    "name": "Alphacool Eisbaer LT360",
+    "price": "N/A",
+    "noise": "29.0 ",
+    "rpm": "550 - 1700"
+}, {
+    "name": "Thermaltake Riing Silent 12 Pro Blue",
+    "price": 55.51,
+    "noise": "12.0 - 19.0 ",
+    "rpm": "300 - 1400"
+}, {
+    "name": "Akasa Venom Voodoo",
+    "price": 105.74,
+    "noise": "6.9 - 28.9 ",
+    "rpm": "600 - 1900"
+}, {
+    "name": "ID-COOLING Auraflow 240 RGB",
+    "price": "N/A",
+    "noise": "18.0 - 35.2 ",
+    "rpm": "700 - 1800"
+}, {
+    "name": "Zalman CNPS9900MAX-B",
+    "price": 59.89,
+    "noise": "18.0 - 30.0 ",
+    "rpm": "900 - 1700"
+}, {
+    "name": "NZXT Kraken X41",
+    "price": "N/A",
+    "noise": "20.0 - 37.0 ",
+    "rpm": "800 - 2000"
+}, {
+    "name": "LEPA EXllusion 240",
+    "price": 109.81,
+    "noise": "14.0 - 30.0 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "ARCTIC Freezer A11",
+    "price": 17.53,
+    "noise": "22.5 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Scythe FUMA",
+    "price": "N/A",
+    "noise": "13.0 - 28.0 ",
+    "rpm": "300 - 1400"
+}, {
+    "name": "Thermaltake Riing Silent 12 Pro Red",
+    "price": 52.99,
+    "noise": "12.0 - 19.0 ",
+    "rpm": "300 - 1400"
+}, {
+    "name": "ID-COOLING IS-25i",
+    "price": 17.99,
+    "noise": "14.0 - 23.0 ",
+    "rpm": "800 - 2700"
+}, {
+    "name": "Thermaltake Contac 16",
+    "price": 77.85,
+    "noise": "30.0 ",
+    "rpm": "2400"
+}, {
+    "name": "RAIJINTEK TISIS",
+    "price": "N/A",
+    "noise": "23.0 ",
+    "rpm": "600 - 1000"
+}, {
+    "name": "Scythe SCIOR-1000",
+    "price": 28.89,
+    "noise": "4.5 - 26.7 ",
+    "rpm": "300 - 1800"
+}, {
+    "name": "ARCTIC Freezer 12 CO",
+    "price": 22,
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "RIOTORO BIFROST 120TI",
+    "price": 89.99,
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Zalman CNPS12X",
+    "price": 179.95,
+    "noise": "22.0 - 24.0 ",
+    "rpm": "850 - 1200"
+}, {
+    "name": "Cooler Master Hyper 412S",
+    "price": 74.21,
+    "noise": "16.1 - 22.5 ",
+    "rpm": "900 - 1300"
+}, {
+    "name": "Phanteks PH-TC14CS_BL",
+    "price": 99.99,
+    "noise": "13.4 - 19.0 ",
+    "rpm": "700"
+}, {
+    "name": "Dynatron R16",
+    "price": 29.79,
+    "noise": "21.5 - 55.8 ",
+    "rpm": "1000 - 6000"
+}, {
+    "name": "SilenX EFZ-92HA3",
+    "price": 26.37,
+    "noise": "8.0 - 24.0 ",
+    "rpm": "2000"
+}, {
+    "name": "Thermalright HR-02 Rev.A(BW)",
+    "price": 44.85,
+    "noise": "17.0 - 21.0 ",
+    "rpm": "900 - 1300"
+}, {
+    "name": "Titan TTC-NC95TZ(RB)",
+    "price": 42.3,
+    "noise": "28.6 ",
+    "rpm": "150 - 1500"
+}, {
+    "name": "ARCTIC Freezer i32",
+    "price": "N/A",
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Zalman CNPS9500A-LED",
+    "price": 35.65,
+    "noise": "18.0 - 27.5 ",
+    "rpm": "1350 - 2600"
+}, {
+    "name": "Prolimatech PRO-MGH-B",
+    "price": 86.53,
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Zalman CNPS10X OPTIMA",
+    "price": 38.99,
+    "noise": "17.0 - 28.0 ",
+    "rpm": "1000 - 1700"
+}, {
+    "name": "Alpenföhn Brocken ECO",
+    "price": "N/A",
+    "noise": "4.6 - 27.3 ",
+    "rpm": "500 - 1500"
+}, {
+    "name": "Cooler Master V8 Ver.2",
+    "price": "N/A",
+    "noise": "36.0 ",
+    "rpm": "1600"
+}, {
+    "name": "Dynatron K17",
+    "price": 29.89,
+    "noise": "17.0 - 31.9 ",
+    "rpm": "1000 - 2500"
+}, {
+    "name": "Dynatron R25",
+    "price": 33.43,
+    "noise": "21.5 - 59.1 ",
+    "rpm": "1000 - 7000"
+}, {
+    "name": "Enermax ETS-T40F-RF",
+    "price": 38.99,
+    "noise": "10.0 - 19.0 ",
+    "rpm": "500 - 1200"
+}, {
+    "name": "Deepcool ICE BLADE PRO V2.0",
+    "price": "N/A",
+    "noise": "17.8 - 30.0 ",
+    "rpm": "900 - 1500"
+}, {
+    "name": "Zalman CNPS8000B",
+    "price": 74.99,
+    "noise": "20.0 - 32.0 ",
+    "rpm": "1400 - 2800"
+}, {
+    "name": "Zalman CNPS7X LED",
+    "price": 42.99,
+    "noise": "17.0 - 25.0 ",
+    "rpm": "1250 - 1950"
+}, {
+    "name": "Silverstone AR01",
+    "price": 36.15,
+    "noise": "16.4 - 33.5 ",
+    "rpm": "1000 - 2200"
+}, {
+    "name": "Fractal Design Kelvin T12",
+    "price": "N/A",
+    "noise": "26.9 ",
+    "rpm": "800 - 1700"
+}, {
+    "name": "ARCTIC Freezer 33 PENTA",
+    "price": "N/A",
+    "noise": "22.5 ",
+    "rpm": "120 - 1350"
+}, {
+    "name": "Antec Kühler H600 Pro",
+    "price": 131.11,
+    "noise": "16.0 - 35.0 ",
+    "rpm": "600 - 2400"
+}, {
+    "name": "Dynatron R14",
+    "price": 29.99,
+    "noise": "16.0 - 47.5 ",
+    "rpm": "1500 - 7000"
+}, {
+    "name": "Thermalright Silver Arrow Extreme",
+    "price": "N/A",
+    "noise": "21.0 - 45.0 ",
+    "rpm": "600 - 2500"
+}, {
+    "name": "Alpenföhn ATLAS",
+    "price": "N/A",
+    "noise": "8.0 - 24.3 ",
+    "rpm": "400 - 1800"
+}, {
+    "name": "Alpenföhn Olymp",
+    "price": "N/A",
+    "noise": "8.0 - 26.8 ",
+    "rpm": "300 - 1400"
+}, {
+    "name": "Dynatron K5",
+    "price": 16.79,
+    "noise": "14.7 - 29.8 ",
+    "rpm": "1000 - 2500"
+}, {
+    "name": "ID-COOLING FROSTFLOW 240L-W",
+    "price": "N/A",
+    "noise": "20.0 - 38.2 ",
+    "rpm": "800 - 2000"
+}, {
+    "name": "Scythe SCBSK-2000",
+    "price": "N/A",
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "RAIJINTEK TRITON GREEN",
+    "price": "N/A",
+    "noise": "21.6 - 36.6 ",
+    "rpm": "1000 - 2600"
+}, {
+    "name": "Swiftech H240-X",
+    "price": "N/A",
+    "noise": "8.3 - 28.8 ",
+    "rpm": "700 - 1800"
+}, {
+    "name": "ARCTIC Freezer 13 Pro",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "300 - 1350"
+}, {
+    "name": "Akasa Nero 3",
+    "price": "N/A",
+    "noise": "24.6 ",
+    "rpm": "500 - 1500"
+}, {
+    "name": "Cooltek LP53",
+    "price": "N/A",
+    "noise": "16.0 - 27.1 ",
+    "rpm": "1000 - 2100"
+}, {
+    "name": "Phanteks PH-TC14PE_OR",
+    "price": 119.99,
+    "noise": "13.4 - 19.0 ",
+    "rpm": "700 - 1200"
+}, {
+    "name": "ID-COOLING SE-214X",
+    "price": "N/A",
+    "noise": "16.2 - 29.2 ",
+    "rpm": "1800"
+}, {
+    "name": "Cooler Master RR-T812-24PK-R2",
+    "price": 99.89,
+    "noise": "19.0 - 40.0 ",
+    "rpm": "600 - 2400"
+}, {
+    "name": "EVGA ACX mITX",
+    "price": "N/A",
+    "noise": "33.4 ",
+    "rpm": "800 - 2800"
+}, {
+    "name": "Corsair H70",
+    "price": "N/A",
+    "noise": "26.0 - 31.5 ",
+    "rpm": "1600 - 2000"
+}, {
+    "name": "Swiftech H220-X",
+    "price": "N/A",
+    "noise": "16.0 - 33.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "OcUK 240mm Extreme",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Deepcool GAMMAXX 200",
+    "price": "N/A",
+    "noise": "17.8 - 34.6 ",
+    "rpm": "900 - 2200"
+}, {
+    "name": "Alpenföhn Brocken 2",
+    "price": "N/A",
+    "noise": "19.0 ",
+    "rpm": "1100"
+}, {
+    "name": "Prolimatech Basic 81",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "600 - 1600"
+}, {
+    "name": "be quiet! Dark Rock Pro 2",
+    "price": "N/A",
+    "noise": "13.5 - 26.4 ",
+    "rpm": "1500 - 1700"
+}, {
+    "name": "Thermalright TS-120M",
+    "price": "N/A",
+    "noise": "17.0 - 28.5 ",
+    "rpm": "700 - 1500"
+}, {
+    "name": "NZXT Kraken X60",
+    "price": "N/A",
+    "noise": "21.0 - 37.0 ",
+    "rpm": "800 - 2000"
+}, {
+    "name": "ID-COOLING SE-902",
+    "price": "N/A",
+    "noise": "14.0 - 23.8 ",
+    "rpm": "600 - 2200"
+}, {
+    "name": "Noctua NH-C14",
+    "price": "N/A",
+    "noise": "10.1 - 19.6 ",
+    "rpm": "750 - 1200"
+}, {
+    "name": "Thermalright SILVER ARROW IB-E",
+    "price": "N/A",
+    "noise": "21.0 - 25.0 ",
+    "rpm": "900 - 1300"
+}, {
+    "name": "Cooler Master Gemin II S524",
+    "price": "N/A",
+    "noise": "15.1 - 31.6 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Xigmatek Janus LD1266",
+    "price": "N/A",
+    "noise": "19.2 - 22.4 ",
+    "rpm": "1200"
+}, {
+    "name": "Thermaltake Water 2.0 Performer",
+    "price": "N/A",
+    "noise": "10.0 - 27.4 ",
+    "rpm": "1200 - 2000"
+}, {
+    "name": "Scythe SCKC-2000",
+    "price": "N/A",
+    "noise": "9.6 - 24.7 ",
+    "rpm": "500 - 1300"
+}, {
+    "name": "Corsair H80i GT",
+    "price": "N/A",
+    "noise": "37.7 ",
+    "rpm": "2435"
+}, {
+    "name": "Swiftech H320",
+    "price": "N/A",
+    "noise": "16.0 - 33.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "SilentiumPC Spartan LT HE922",
+    "price": "N/A",
+    "noise": "9.9 - 21.9 ",
+    "rpm": "800 - 2000"
+}, {
+    "name": "ID-COOLING IS-40",
+    "price": "N/A",
+    "noise": "14.0 - 33.0 ",
+    "rpm": "300 - 2500"
+}, {
+    "name": "Antec Kuhler H2O 620",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "1450 - 2000"
+}, {
+    "name": "Enermax ETS-T40-TA",
+    "price": "N/A",
+    "noise": "16.0 - 21.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Thermaltake CLP0532",
+    "price": "N/A",
+    "noise": "34.0 ",
+    "rpm": "2500"
+}, {
+    "name": "Cooler Master RR-V6SV-22PR-R1",
+    "price": "N/A",
+    "noise": "15.0 - 38.0 ",
+    "rpm": "800 - 2200"
+}, {
+    "name": "Thermaltake Frio",
+    "price": "N/A",
+    "noise": "20.0 - 43.0 ",
+    "rpm": "1200 - 2500"
+}, {
+    "name": "Cooler Master Seidon 120M",
+    "price": "N/A",
+    "noise": "19.0 - 40.0 ",
+    "rpm": "600 - 2400"
+}, {
+    "name": "Deepcool ICE BLADE 100",
+    "price": "N/A",
+    "noise": "31.6 ",
+    "rpm": "2200"
+}, {
+    "name": "Zalman CNPS7000-AlCu",
+    "price": "N/A",
+    "noise": "0.2 - 0.2 ",
+    "rpm": "1350 - 2400"
+}, {
+    "name": "RAIJINTEK AIDOS BLACK",
+    "price": 18.89,
+    "noise": "28.9 ",
+    "rpm": "1000 - 2200"
+}, {
+    "name": "RAIJINTEK ZELOS",
+    "price": 9.99,
+    "noise": "20.0 ",
+    "rpm": "800 - 1400"
+}, {
+    "name": "Zalman CNPS8900 Quiet",
+    "price": 19.99,
+    "noise": "19.0 - 25.0 ",
+    "rpm": "1000 - 1500"
+}, {
+    "name": "ARCTIC Freezer 11 LP",
+    "price": 16.65,
+    "noise": "n/a",
+    "rpm": "900 - 2000"
+}, {
+    "name": "be quiet! Silent Loop 280",
+    "price": "N/A",
+    "noise": "16.1 - 37.3 ",
+    "rpm": "1600"
+}, {
+    "name": "Antec KUHLER H2O 1250",
+    "price": 74.99,
+    "noise": "16.0 - 38.0 ",
+    "rpm": "600 - 2400"
+}, {
+    "name": "Enermax ETS-T50 AXE (White)",
+    "price": 33.45,
+    "noise": "18.9 - 25.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Deepcool LUCIFER V2",
+    "price": 29.99,
+    "noise": "12.6 - 31.1 ",
+    "rpm": "300 - 1400"
+}, {
+    "name": "Zalman FX100",
+    "price": 29.99,
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Scythe Mugen 5",
+    "price": "N/A",
+    "noise": "4.0 - 24.9 ",
+    "rpm": "300 - 1200"
+}, {
+    "name": "Thermalright TRUE Spirit 140 Direct",
+    "price": 39.99,
+    "noise": "15.0 - 21.0 ",
+    "rpm": "300 - 1300"
+}, {
+    "name": "Titan DC-155A915Z/RPW",
+    "price": 12.56,
+    "noise": "24.8 - 33.4 ",
+    "rpm": "1000 - 2600"
+}, {
+    "name": "ID-COOLING ICEKIMO 120W",
+    "price": 65.99,
+    "noise": "18.0 - 26.4 ",
+    "rpm": "2500"
+}, {
+    "name": "Zalman CNPS9900ALED",
+    "price": 27.99,
+    "noise": "18.0 - 38.0 ",
+    "rpm": "800 - 2000"
+}, {
+    "name": "Reeven Chrono Guard",
+    "price": 16.99,
+    "noise": "7.2 - 31.1 ",
+    "rpm": "300 - 2500"
+}, {
+    "name": "SilenX EFZ-92HA2",
+    "price": 12.19,
+    "noise": "8.0 - 24.0 ",
+    "rpm": "2400"
+}, {
+    "name": "Rosewill RCX-Z1",
+    "price": 14.99,
+    "noise": "18.0 - 33.4 ",
+    "rpm": "1700 - 3100"
+}, {
+    "name": "Thermalright Macho Direct",
+    "price": 39.99,
+    "noise": "15.0 - 21.0 ",
+    "rpm": "300 - 1300"
+}, {
+    "name": "Scythe Mugen MAX",
+    "price": 42.99,
+    "noise": "13.0 - 30.7 ",
+    "rpm": "500 - 1300"
+}, {
+    "name": "Scythe SCKTN-4000",
+    "price": 29.99,
+    "noise": "7.2 - 31.1 ",
+    "rpm": "300 - 2500"
+}, {
+    "name": "Silverstone NT07-115X",
+    "price": 18.99,
+    "noise": "18.0 - 26.0 ",
+    "rpm": "1200 - 3400"
+}, {
+    "name": "Deepcool ASSASSIN II",
+    "price": 73.13,
+    "noise": "17.8 - 27.3 ",
+    "rpm": "300 - 1400"
+}, {
+    "name": "Akasa K32",
+    "price": 54.55,
+    "noise": "17.2 - 30.5 ",
+    "rpm": "600 - 3000"
+}, {
+    "name": "Antec A40PRO",
+    "price": "N/A",
+    "noise": "16.0 - 23.0 ",
+    "rpm": "800 - 2200"
+}, {
+    "name": "Thermalright Silver Arrow IB-E Extreme",
+    "price": 89.95,
+    "noise": "21.0 - 45.0 ",
+    "rpm": "600 - 2500"
+}, {
+    "name": "Enermax ETS-T40F-TB",
+    "price": 33.38,
+    "noise": "11.0 - 21.0 ",
+    "rpm": "900 - 1800"
+}, {
+    "name": "FSP Group Windale 6",
+    "price": 45.98,
+    "noise": "32.0 ",
+    "rpm": "600 - 1600"
+}, {
+    "name": "Phanteks PH-TC14S_BK",
+    "price": 45.14,
+    "noise": "25.3 ",
+    "rpm": "500 - 1600"
+}, {
+    "name": "RAIJINTEK JUNO-X",
+    "price": 10.99,
+    "noise": "26.0 ",
+    "rpm": "1200 - 2500"
+}, {
+    "name": "Akasa Venom Medusa",
+    "price": 128.51,
+    "noise": "6.9 - 28.9 ",
+    "rpm": "500 - 1600"
+}, {
+    "name": "ARCTIC Freezer 33 eSports Edition (Black/Green)",
+    "price": 44.99,
+    "noise": "24.4 ",
+    "rpm": "200 - 1800"
+}, {
+    "name": "Zalman CNPS2X",
+    "price": 29.46,
+    "noise": "17.4 - 22.7 ",
+    "rpm": "1500 - 2600"
+}, {
+    "name": "Dynatron R15",
+    "price": 32.5,
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "be quiet! Dark Rock 2",
+    "price": 72.64,
+    "noise": "8.7 - 21.2 ",
+    "rpm": "1300"
+}, {
+    "name": "RIOTORO BIFROST 240",
+    "price": 99.99,
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Logisys IC221PWM",
+    "price": "N/A",
+    "noise": "17.8 - 26.4 ",
+    "rpm": "900 - 2400"
+}, {
+    "name": "Corsair H60",
+    "price": "N/A",
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Deepcool LUCIFER",
+    "price": 58.04,
+    "noise": "17.8 - 31.1 ",
+    "rpm": "700 - 1400"
+}, {
+    "name": "Thermalright Macho X2 Limited Edition",
+    "price": 53.99,
+    "noise": "15.0 ",
+    "rpm": "800"
+}, {
+    "name": "ARCTIC Freezer 33 eSports Edition (Black/Yellow)",
+    "price": 46.61,
+    "noise": "24.4 ",
+    "rpm": "200 - 1800"
+}, {
+    "name": "Deepcool LUCIFER K2",
+    "price": 36.79,
+    "noise": "18.2 - 32.4 ",
+    "rpm": "600 - 1800"
+}, {
+    "name": "StarTech FAN1156PWM",
+    "price": 23.02,
+    "noise": "33.0 ",
+    "rpm": "1000 - 3000"
+}, {
+    "name": "Silverstone AR04",
+    "price": 29.89,
+    "noise": "18.0 - 26.0 ",
+    "rpm": "1500 - 3400"
+}, {
+    "name": "Thermalright TRUE Spirit 120M(BW) Rev.A",
+    "price": 68.78,
+    "noise": "25.4 ",
+    "rpm": "600 - 1300"
+}, {
+    "name": "Scythe Ashura",
+    "price": 48.79,
+    "noise": "13.0 - 30.7 ",
+    "rpm": "500 - 1300"
+}, {
+    "name": "Reeven Hans",
+    "price": 37.95,
+    "noise": "4.0 - 29.8 ",
+    "rpm": "300 - 1500"
+}, {
+    "name": "Zalman CNPS7000V(AL)-1-PWM",
+    "price": 14.63,
+    "noise": "20.0 - 32.0 ",
+    "rpm": "800 - 2600"
+}, {
+    "name": "Zalman CNPS10X Performa",
+    "price": 32.29,
+    "noise": "17.0 - 24.0 ",
+    "rpm": "900 - 2000"
+}, {
+    "name": "Dynatron K199",
+    "price": 26.99,
+    "noise": "20.7 - 51.7 ",
+    "rpm": "1000 - 5000"
+}, {
+    "name": "Silverstone SST-AR07",
+    "price": 41.41,
+    "noise": "16.5 - 30.8 ",
+    "rpm": "800 - 1500"
+}, {
+    "name": "Thermalright AXP-100H MUSCLE",
+    "price": 39.95,
+    "noise": "22.0 - 30.0 ",
+    "rpm": "900 - 2500"
+}, {
+    "name": "ARCTIC Alpine M1 - Passive",
+    "price": 13.48,
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Scythe SCKDT-1000",
+    "price": "N/A",
+    "noise": "8.2 - 32.5 ",
+    "rpm": "800 - 3300"
+}, {
+    "name": "Masscool 5T568S1H3",
+    "price": 13.44,
+    "noise": "31.8 ",
+    "rpm": "4200"
+}, {
+    "name": "Phanteks PH-TC14PE_BL",
+    "price": 119.99,
+    "noise": "13.4 - 19.0 ",
+    "rpm": "700 - 1200"
+}, {
+    "name": "Thermaltake CLP0587",
+    "price": 79.48,
+    "noise": "39.0 ",
+    "rpm": "1200 - 1800"
+}, {
+    "name": "Cooler Master RR-H101-22FK-RI",
+    "price": 49.99,
+    "noise": "22.0 ",
+    "rpm": "2200"
+}, {
+    "name": "Zalman CNPS9900MAX-R",
+    "price": "N/A",
+    "noise": "18.0 - 30.0 ",
+    "rpm": "900 - 1700"
+}, {
+    "name": "Reeven Justice",
+    "price": 42.49,
+    "noise": "4.0 - 29.8 ",
+    "rpm": "300 - 1500"
+}, {
+    "name": "Scythe Kotetsu Mark II",
+    "price": "N/A",
+    "noise": "4.0 - 24.9 ",
+    "rpm": "300 - 1200"
+}, {
+    "name": "Alpenföhn Matterhorn Pure",
+    "price": "N/A",
+    "noise": "8.0 - 24.8 ",
+    "rpm": "500 - 1500"
+}, {
+    "name": "ID-COOLING AURAFLOW 240 SNOW",
+    "price": "N/A",
+    "noise": "18.0 - 35.2 ",
+    "rpm": "700 - 1800"
+}, {
+    "name": "RAIJINTEK EreBoss",
+    "price": "N/A",
+    "noise": "28.0 ",
+    "rpm": "600 - 1400"
+}, {
+    "name": "Gelid Solutions Slimhero",
+    "price": 37.89,
+    "noise": "12.0 - 25.4 ",
+    "rpm": "750 - 1600"
+}, {
+    "name": "Thermaltake Frio OCK",
+    "price": "N/A",
+    "noise": "21.0 - 48.0 ",
+    "rpm": "1200 - 2100"
+}, {
+    "name": "Alpenföhn Panorama rev.B",
+    "price": "N/A",
+    "noise": "14.0 - 22.1 ",
+    "rpm": "900 - 2000"
+}, {
+    "name": "Silverstone SST-HE01",
+    "price": 77.99,
+    "noise": "18.0 - 41.0 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Dynatron R13",
+    "price": 23.79,
+    "noise": "19.1 - 53.8 ",
+    "rpm": "1100 - 6000"
+}, {
+    "name": "ID-COOLING AURAFLOW 120 SNOW",
+    "price": "N/A",
+    "noise": "18.0 - 35.2 ",
+    "rpm": "700 - 1800"
+}, {
+    "name": "RAIJINTEK PALLAS Black",
+    "price": 32.99,
+    "noise": "28.0 ",
+    "rpm": "650 - 1400"
+}, {
+    "name": "Phanteks PH-TC14CS_BK",
+    "price": "N/A",
+    "noise": "13.4 - 19.0 ",
+    "rpm": "700"
+}, {
+    "name": "Evercool NI01-9525EP",
+    "price": 14.98,
+    "noise": "33.0 ",
+    "rpm": "2600"
+}, {
+    "name": "Scythe SCKC-3000",
+    "price": 41.47,
+    "noise": "13.0 - 30.7 ",
+    "rpm": "500 - 1300"
+}, {
+    "name": "ARCTIC Freezer i32 CO",
+    "price": "N/A",
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Alpenföhn Sella",
+    "price": "N/A",
+    "noise": "14.0 - 29.8 ",
+    "rpm": "850 - 2200"
+}, {
+    "name": "Alpenföhn Matterhorn Rev. C – Black Edition",
+    "price": "N/A",
+    "noise": "18.2 ",
+    "rpm": "500 - 1500"
+}, {
+    "name": "Evercool HPL-815EP",
+    "price": 26.74,
+    "noise": "12.0 - 40.0 ",
+    "rpm": "1000 - 4000"
+}, {
+    "name": "Titan TTC-NK85TZ/CS2",
+    "price": "N/A",
+    "noise": "15.0 - 35.0 ",
+    "rpm": "800 - 2200"
+}, {
+    "name": "Dynatron R8",
+    "price": 30.36,
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Thermaltake CLP0600",
+    "price": "N/A",
+    "noise": "19.3 - 30.0 ",
+    "rpm": "1000 - 2400"
+}, {
+    "name": "Titan TTC-NC85TZ(RB)",
+    "price": "N/A",
+    "noise": "28.8 ",
+    "rpm": "210 - 2100"
+}, {
+    "name": "Scythe SCSMZ-2100",
+    "price": 28.99,
+    "noise": "7.2 - 31.1 ",
+    "rpm": "300 - 2500"
+}, {
+    "name": "Reeven Okeanos",
+    "price": 74.99,
+    "noise": "4.0 - 23.6 ",
+    "rpm": "300 - 1800"
+}, {
+    "name": "Dynatron T318",
+    "price": 34.89,
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Silverstone Argon AR10-115XS",
+    "price": 34.99,
+    "noise": "18.1 - 39.0 ",
+    "rpm": "500 - 4000"
+}, {
+    "name": "Enermax ETS-T40-TB",
+    "price": 74.49,
+    "noise": "10.0 - 21.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Cooler Master RR-H101-22FK-RA",
+    "price": 104.99,
+    "noise": "22.0 ",
+    "rpm": "2200"
+}, {
+    "name": "Silverstone NT01-E",
+    "price": 31.99,
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Thermaltake CLP0607",
+    "price": "N/A",
+    "noise": "20.0 - 39.9 ",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "RAIJINTEK TRITON BLUE",
+    "price": "N/A",
+    "noise": "21.6 - 36.6 ",
+    "rpm": "1000 - 2600"
+}, {
+    "name": "Evercool HPKC-10025EA",
+    "price": 24.99,
+    "noise": "23.0 ",
+    "rpm": "1800"
+}, {
+    "name": "Logisys MC106",
+    "price": "N/A",
+    "noise": "19.0 ",
+    "rpm": "1500"
+}, {
+    "name": "Zalman CNPS9900 D/F",
+    "price": "N/A",
+    "noise": "19.0 - 27.0 ",
+    "rpm": "900 - 1400"
+}, {
+    "name": "Zalman CNPS11X Extreme",
+    "price": "N/A",
+    "noise": "17.0 - 33.0 ",
+    "rpm": "1000 - 1950"
+}, {
+    "name": "Zalman CNPS9700 LED",
+    "price": 98.88,
+    "noise": "19.5 - 35.0 ",
+    "rpm": "1250 - 2800"
+}, {
+    "name": "Scythe SCMG-3000",
+    "price": "N/A",
+    "noise": "0.0 - 26.5 ",
+    "rpm": "300 - 1600"
+}, {
+    "name": "ARCTIC Freezer i30 Extreme",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "400 - 1350"
+}, {
+    "name": "Phanteks PH-TC14PE_RD",
+    "price": 119.89,
+    "noise": "13.4 - 19.0 ",
+    "rpm": "700 - 1200"
+}, {
+    "name": "Silverstone Argon AR09-115XS",
+    "price": 32.54,
+    "noise": "18.0 - 42.5 ",
+    "rpm": "1200 - 5000"
+}, {
+    "name": "Dynatron T459",
+    "price": 32.95,
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Thermaltake Water 3.0 Performer",
+    "price": "N/A",
+    "noise": "20.0 ",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "Silverstone Argon AR09-115XP",
+    "price": 30.8,
+    "noise": "18.0 - 42.5 ",
+    "rpm": "1200 - 5000"
+}, {
+    "name": "Silverstone Argon AR10-115XP",
+    "price": 31.97,
+    "noise": "18.1 - 39.0 ",
+    "rpm": "500 - 4000"
+}, {
+    "name": "Cooler Master Blizzard T2",
+    "price": "N/A",
+    "noise": "30.0 ",
+    "rpm": "2200"
+}, {
+    "name": "Corsair H110i GT",
+    "price": "N/A",
+    "noise": "43.0 ",
+    "rpm": "2100"
+}, {
+    "name": "Antec C400",
+    "price": "N/A",
+    "noise": "20.3 - 34.5 ",
+    "rpm": "800 - 1900"
+}, {
+    "name": "Zalman CNPS7000C-AlCu",
+    "price": "N/A",
+    "noise": "17.0 - 24.0 ",
+    "rpm": "1350 - 2400"
+}, {
+    "name": "Zalman CNPS10X QUIET",
+    "price": 76.4,
+    "noise": "26.0 ",
+    "rpm": "700 - 1400"
+}, {
+    "name": "Titan TTC-NC55TZ/RB",
+    "price": "N/A",
+    "noise": "28.8 - 38.0 ",
+    "rpm": "1800 - 2200"
+}, {
+    "name": "Xigmatek Dark Knight SD1483 Frostbourne",
+    "price": "N/A",
+    "noise": "18.0 ",
+    "rpm": "800 - 1200"
+}, {
+    "name": "Thermaltake CLP0574",
+    "price": "N/A",
+    "noise": "16.0 ",
+    "rpm": "800 - 1300"
+}, {
+    "name": "NZXT HAVIK 120",
+    "price": "N/A",
+    "noise": "18.0 - 22.0 ",
+    "rpm": "1200 - 1500"
+}, {
+    "name": "Scythe SCMG-3100",
+    "price": "N/A",
+    "noise": "9.6 - 32.1 ",
+    "rpm": "300 - 1600"
+}, {
+    "name": "Thermaltake CLW0214",
+    "price": "N/A",
+    "noise": "20.0 - 43.0 ",
+    "rpm": "1200 - 2500"
+}, {
+    "name": "RAIJINTEK TRITON RED",
+    "price": "N/A",
+    "noise": "21.6 - 36.6 ",
+    "rpm": "1000 - 2600"
+}, {
+    "name": "Silverstone AR03",
+    "price": 58.07,
+    "noise": "16.4 - 33.5 ",
+    "rpm": "1000 - 2200"
+}, {
+    "name": "Masscool 7WA868",
+    "price": 39.99,
+    "noise": "19.0 - 27.0 ",
+    "rpm": "800 - 2800"
+}, {
+    "name": "Deepcool CAPTAIN 240",
+    "price": "N/A",
+    "noise": "17.6 - 39.3 ",
+    "rpm": "600 - 2200"
+}, {
+    "name": "Thermaltake CLP0596",
+    "price": "N/A",
+    "noise": "21.0 - 44.0 ",
+    "rpm": "800 - 2000"
+}, {
+    "name": "Phanteks PH-TC12DX_BL",
+    "price": "N/A",
+    "noise": "21.9 - 27.6 ",
+    "rpm": "600 - 1800"
+}, {
+    "name": "Cooler Master Seidon 240M",
+    "price": "N/A",
+    "noise": "19.0 - 40.0 ",
+    "rpm": "600 - 2400"
+}, {
+    "name": "Evercool HPQ-12025",
+    "price": 29.88,
+    "noise": "38.1 ",
+    "rpm": "800 - 2200"
+}, {
+    "name": "Dynatron R27",
+    "price": 34.39,
+    "noise": "16.0 - 43.4 ",
+    "rpm": "1000 - 3800"
+}, {
+    "name": "Deepcool Maelstrom 240T RF",
+    "price": "N/A",
+    "noise": "17.8 - 34.1 ",
+    "rpm": "600 - 1800"
+}, {
+    "name": "Thermaltake Contac 39",
+    "price": "N/A",
+    "noise": "15.0 - 33.2 ",
+    "rpm": "800 - 2000"
+}, {
+    "name": "Titan TTC-NK54TZ",
+    "price": 24.3,
+    "noise": "30.6 ",
+    "rpm": "3500"
+}, {
+    "name": "Thermaltake CLP0554",
+    "price": "N/A",
+    "noise": "19.0 - 28.0 ",
+    "rpm": "1000 - 1600"
+}, {
+    "name": "Gelid Solutions ANTARCTICA",
+    "price": "N/A",
+    "noise": "27.8 ",
+    "rpm": "450 - 4500"
+}, {
+    "name": "Thermaltake NiC L31",
+    "price": "N/A",
+    "noise": "18.0 - 34.8 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "Masscool 8WA743",
+    "price": "N/A",
+    "noise": "20.0 - 34.0 ",
+    "rpm": "800 - 2800"
+}, {
+    "name": "Zalman LQ-320",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "900 - 2000"
+}, {
+    "name": "StarTech FAN7751U",
+    "price": "N/A",
+    "noise": "39.0 ",
+    "rpm": "4500"
+}, {
+    "name": "Xigmatek Dark Knight SD1483 Night Hawk",
+    "price": "N/A",
+    "noise": "18.0 ",
+    "rpm": "800 - 1200"
+}, {
+    "name": "Thermalright Macho Zero",
+    "price": "N/A",
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Thermaltake CL-P0326",
+    "price": "N/A",
+    "noise": "44.0 ",
+    "rpm": "4200"
+}, {
+    "name": "Thermaltake A1964",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "5500"
+}, {
+    "name": "Dynatron R17",
+    "price": 29.99,
+    "noise": "17.0 - 31.9 ",
+    "rpm": "1000 - 2500"
+}, {
+    "name": "Silverstone TD03",
+    "price": "N/A",
+    "noise": "16.0 - 33.5 ",
+    "rpm": "1500 - 2500"
+}, {
+    "name": "Zalman CNPS7000C-Cu",
+    "price": "N/A",
+    "noise": "13.5 - 24.0 ",
+    "rpm": "1700 - 2400"
+}, {
+    "name": "Cooler Master Hyper 412 Slim",
+    "price": "N/A",
+    "noise": "8.0 - 30.0 ",
+    "rpm": "500 - 1600"
+}, {
+    "name": "Thermaltake Water 3.0 Pro",
+    "price": "N/A",
+    "noise": "20.0 ",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "ID-COOLING FI-VC Twin",
+    "price": "N/A",
+    "noise": "16.2 - 32.6 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Scythe SCKC-2100",
+    "price": "N/A",
+    "noise": "9.6 - 24.7 ",
+    "rpm": "500 - 1300"
+}, {
+    "name": "Masscool 8W2002F1M4",
+    "price": "N/A",
+    "noise": "20.0 - 34.0 ",
+    "rpm": "800 - 2800"
+}, {
+    "name": "ARCTIC Freezer A30",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "400 - 1350"
+}, {
+    "name": "Cooler Master TPC 812XS",
+    "price": "N/A",
+    "noise": "8.0 - 30.0 ",
+    "rpm": "500 - 1600"
+}, {
+    "name": "ZEROtherm ZT-1000D 775",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "2500"
+}, {
+    "name": "ZEROtherm ZT-1000D 1156",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "3000"
+}, {
+    "name": "Thermaltake CLP0606",
+    "price": "N/A",
+    "noise": "18.0 - 30.2 ",
+    "rpm": "800 - 1600"
+}, {
+    "name": "ARCTIC Freezer A32",
+    "price": 42.4,
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Silverstone Tundra TD02-SLIM",
+    "price": "N/A",
+    "noise": "16.5 - 27.4 ",
+    "rpm": "800 - 2200"
+}, {
+    "name": "Xigmatek ld964",
+    "price": "N/A",
+    "noise": "22.0 ",
+    "rpm": "1000 - 2800"
+}, {
+    "name": "SilentiumPC Grandis XE1236",
+    "price": "N/A",
+    "noise": "21.0 ",
+    "rpm": "500 - 1500"
+}, {
+    "name": "Xigmatek Apache II",
+    "price": "N/A",
+    "noise": "28.0 ",
+    "rpm": "1200 - 2500"
+}, {
+    "name": "EVGA M020-00-000234",
+    "price": "N/A",
+    "noise": "13.2 - 41.5 ",
+    "rpm": "750 - 2500"
+}, {
+    "name": "Logisys IC4100AST",
+    "price": "N/A",
+    "noise": "30.1 ",
+    "rpm": "2200"
+}, {
+    "name": "Cooler Master GeminII S524",
+    "price": "N/A",
+    "noise": "15.1 - 31.6 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "be quiet! Shadow Rock Topflow SR1",
+    "price": "N/A",
+    "noise": "9.6 - 24.4 ",
+    "rpm": "1500"
+}, {
+    "name": "ZEROtherm ZT-10D Smart",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "ARCTIC Alpine 7 Pro",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Enzotech Extreme-X Rev.A",
+    "price": "N/A",
+    "noise": "15.8 - 43.3 ",
+    "rpm": "1000 - 2500"
+}, {
+    "name": "ID-COOLING IS-40PRO",
+    "price": "N/A",
+    "noise": "14.0 - 33.0 ",
+    "rpm": "300 - 2500"
+}, {
+    "name": "Thermalright TS-140",
+    "price": "N/A",
+    "noise": "17.0 - 21.0 ",
+    "rpm": "900 - 1300"
+}, {
+    "name": "Thermalright TS-120M(BW)",
+    "price": "N/A",
+    "noise": "24.5 ",
+    "rpm": "600 - 1300"
+}, {
+    "name": "Gelid Solutions Rev. 1 Tranquillo",
+    "price": "N/A",
+    "noise": "12.0 - 25.5 ",
+    "rpm": "750 - 1500"
+}, {
+    "name": "Thermalright U120eXtrem1366RT R-C",
+    "price": "N/A",
+    "noise": "28.0 ",
+    "rpm": "1600"
+}, {
+    "name": "Thermalright Venomous X - RT",
+    "price": "N/A",
+    "noise": "24.1 ",
+    "rpm": "1300"
+}, {
+    "name": "Nexus LOW-7000 R2",
+    "price": "N/A",
+    "noise": "15.0 - 24.0 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "ID-COOLING IS-40V3",
+    "price": "N/A",
+    "noise": "14.0 - 33.0 ",
+    "rpm": "600 - 2500"
+}, {
+    "name": "Reeven Steropes",
+    "price": "N/A",
+    "noise": "9.3 - 33.7 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Zalman CNPS20LQ",
+    "price": "N/A",
+    "noise": "17.0 - 36.0 ",
+    "rpm": "900 - 2000"
+}, {
+    "name": "Cooler Master X6 Elite",
+    "price": "N/A",
+    "noise": "9.0 - 34.6 ",
+    "rpm": "600 - 1800"
+}, {
+    "name": "Noctua NH-C12P SE14",
+    "price": "N/A",
+    "noise": "10.1 - 19.6 ",
+    "rpm": "750 - 1200"
+}, {
+    "name": "Prolimatech Megahalems (No Fans)",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Prolimatech Basic 45",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "Xigmatek Gaia II",
+    "price": "N/A",
+    "noise": "16.0 - 24.0 ",
+    "rpm": "800 - 1500"
+}, {
+    "name": "Thermaltake CLP0550",
+    "price": "N/A",
+    "noise": "21.0 - 40.0 ",
+    "rpm": "740 - 3700"
+}, {
+    "name": "NZXT Kraken X40",
+    "price": "N/A",
+    "noise": "21.0 - 37.0 ",
+    "rpm": "800 - 2000"
+}, {
+    "name": "ID-COOLING SE-203",
+    "price": "N/A",
+    "noise": "16.2 - 29.2 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Gelid Solutions CC-Ssilence-APLUS",
+    "price": 26.92,
+    "noise": "15.0 - 27.2 ",
+    "rpm": "1200 - 2600"
+}, {
+    "name": "ID-COOLING SE-214i",
+    "price": "N/A",
+    "noise": "16.2 - 29.2 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Evercool LGAL1156A-B715",
+    "price": "N/A",
+    "noise": "56.0 ",
+    "rpm": "1000 - 5500"
+}, {
+    "name": "NZXT Respire T40",
+    "price": "N/A",
+    "noise": "26.5 - 34.0 ",
+    "rpm": "1300 - 1800"
+}, {
+    "name": "Logisys MC4002IW",
+    "price": "N/A",
+    "noise": "17.8 - 27.6 ",
+    "rpm": "500 - 1500"
+}, {
+    "name": "ID-COOLING FI-VC",
+    "price": "N/A",
+    "noise": "16.2 - 32.6 ",
+    "rpm": ""
+}, {
+    "name": "Thermalright HR-22",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Xigmatek Dark Knight SD1283",
+    "price": "N/A",
+    "noise": "30.1 ",
+    "rpm": "1000 - 2200"
+}, {
+    "name": "Xigmatek HDT-S1284F",
+    "price": "N/A",
+    "noise": "16.0 - 24.0 ",
+    "rpm": "800 - 1500"
+}, {
+    "name": "Enermax ETS-N30-TAA",
+    "price": "N/A",
+    "noise": "16.0 - 27.0 ",
+    "rpm": "800 - 2800"
+}, {
+    "name": "Xigmatek Dark Knight II SD1283",
+    "price": "N/A",
+    "noise": "30.1 ",
+    "rpm": "1000 - 2200"
+}, {
+    "name": "SilenX EFZ-120HA4",
+    "price": "N/A",
+    "noise": "8.0 - 28.0 ",
+    "rpm": "800 - 2000"
+}, {
+    "name": "SilenX EFZ-120HA3",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "800 - 2000"
+}, {
+    "name": "Enermax ETD-T60-VD",
+    "price": "N/A",
+    "noise": "16.0 - 21.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Enermax ETD-T60-TB",
+    "price": "N/A",
+    "noise": "10.0 - 21.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Evercool TRANSFORMER S",
+    "price": "N/A",
+    "noise": "20.0 ",
+    "rpm": "2200"
+}, {
+    "name": "Deepcool Maelstrom 120T RF",
+    "price": "N/A",
+    "noise": "17.8 - 34.1 ",
+    "rpm": "600 - 1800"
+}, {
+    "name": "Evercool TTC-NK35TZ/RPW/V3",
+    "price": 26.19,
+    "noise": "12.0 - 31.0 ",
+    "rpm": "900 - 2800"
+}, {
+    "name": "Evercool TTC-NK85TZ/V2(RB)",
+    "price": 35.67,
+    "noise": "17.2 - 39.0 ",
+    "rpm": "800 - 2150"
+}, {
+    "name": "TUNIQ Tower 120 Extreme",
+    "price": "N/A",
+    "noise": "16.0 - 20.0 ",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "Cooler Master Glacer 240L Ver. 2",
+    "price": "N/A",
+    "noise": "19.0 - 40.3 ",
+    "rpm": "2400"
+}, {
+    "name": "Xigmatek Loki II",
+    "price": "N/A",
+    "noise": "20.0 - 28.0 ",
+    "rpm": "1200 - 2800"
+}, {
+    "name": "Enermax ELC120-TB",
+    "price": "N/A",
+    "noise": "17.3 - 31.2 ",
+    "rpm": "800 - 2200"
+}, {
+    "name": "Cooler Master Blizzard T2 mini",
+    "price": "N/A",
+    "noise": "22.0 ",
+    "rpm": "2200"
+}, {
+    "name": "Akasa Nero LX",
+    "price": "N/A",
+    "noise": "11.5 - 31.5 ",
+    "rpm": "600 - 1900"
+}, {
+    "name": "Zero Infinity Shiva",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "2200"
+}, {
+    "name": "Silverstone TD02-E",
+    "price": "N/A",
+    "noise": "18.0 - 35.0 ",
+    "rpm": "1500 - 2500"
+}, {
+    "name": "Cooler Master Hyper 612",
+    "price": "N/A",
+    "noise": "9.0 - 36.0 ",
+    "rpm": "600 - 2000"
+}, {
+    "name": "Thermaltake CLP0555",
+    "price": "N/A",
+    "noise": "12.0 - 16.0 ",
+    "rpm": "300 - 2500"
+}, {
+    "name": "Cooler Master DI5-9HDSC-A1-GP",
+    "price": "N/A",
+    "noise": "23.8 ",
+    "rpm": "2200"
+}, {
+    "name": "Rosewill RCX-ZAIO-92",
+    "price": "N/A",
+    "noise": "14.5 - 25.0 ",
+    "rpm": "600 - 2500"
+}, {
+    "name": "Thermalright Macho Rev.A.",
+    "price": "N/A",
+    "noise": "17.0 - 21.0 ",
+    "rpm": "900 - 1300"
+}, {
+    "name": "Thermaltake CL-P0401",
+    "price": "N/A",
+    "noise": "16.0 - 24.0 ",
+    "rpm": "1300 - 2000"
+}, {
+    "name": "Cooler Master DI5-8E5PA-0L-GP",
+    "price": "N/A",
+    "noise": "22.0 ",
+    "rpm": "2800"
+}, {
+    "name": "Silverstone NT06-E",
+    "price": "N/A",
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Cooler Master V6 GT",
+    "price": "N/A",
+    "noise": "15.0 - 38.0 ",
+    "rpm": "800 - 2200"
+}, {
+    "name": "Thermaltake A4021",
+    "price": "N/A",
+    "noise": "18.0 ",
+    "rpm": "2200"
+}, {
+    "name": "Cooler Master V8",
+    "price": "N/A",
+    "noise": "17.0 - 21.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Zalman CNPS8000A",
+    "price": "N/A",
+    "noise": "20.0 - 30.0 ",
+    "rpm": "1400 - 2600"
+}, {
+    "name": "Zalman CNPS9900NT",
+    "price": "N/A",
+    "noise": "19.5 - 38.0 ",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "Antec KUHLER Flow",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Thermaltake CLP0552",
+    "price": "N/A",
+    "noise": "22.0 ",
+    "rpm": "800 - 1700"
+}, {
+    "name": "ID-COOLING IS-25",
+    "price": "N/A",
+    "noise": "14.0 - 23.0 ",
+    "rpm": "800 - 2700"
+}, {
+    "name": "Cooler Master V10 Hybrid TEC",
+    "price": "N/A",
+    "noise": "17.0 ",
+    "rpm": "800 - 2400"
+}, {
+    "name": "ID-COOLING SE-802",
+    "price": "N/A",
+    "noise": "23.3 ",
+    "rpm": "2200"
+}, {
+    "name": "Corsair A50",
+    "price": "N/A",
+    "noise": "26.0 - 31.5 ",
+    "rpm": "1600 - 2000"
+}, {
+    "name": "ID-COOLING SE-213i",
+    "price": "N/A",
+    "noise": "16.0 - 20.2 ",
+    "rpm": "800 - 1600"
+}, {
+    "name": "ID-COOLING SE-204K",
+    "price": "N/A",
+    "noise": "16.2 - 29.2 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "ROCCAT ROCC-16003",
+    "price": "N/A",
+    "noise": "25.0 ",
+    "rpm": "800 - 2200"
+}, {
+    "name": "ARCTIC Freezer i30",
+    "price": "N/A",
+    "noise": "22.5 ",
+    "rpm": "400 - 1350"
+}, {
+    "name": "Cooler Master Seidon 120XL",
+    "price": "N/A",
+    "noise": "19.0 - 40.0 ",
+    "rpm": "600 - 2400"
+}, {
+    "name": "Masscool 8W501B1M3G",
+    "price": 21,
+    "noise": "26.2 ",
+    "rpm": "2400"
+}, {
+    "name": "Xigmatek HDT-S963",
+    "price": "N/A",
+    "noise": "23.0 - 35.0 ",
+    "rpm": "1200 - 2800"
+}, {
+    "name": "Xigmatek HDT-S1283",
+    "price": "N/A",
+    "noise": "20.0 - 32.0 ",
+    "rpm": "800 - 1500"
+}, {
+    "name": "Xigmatek Balder SD1283",
+    "price": "N/A",
+    "noise": "28.0 ",
+    "rpm": "1000 - 2200"
+}, {
+    "name": "Xigmatek EP-CD903",
+    "price": "N/A",
+    "noise": "28.0 ",
+    "rpm": "1200 - 2500"
+}, {
+    "name": "Xigmatek HDT-D1284",
+    "price": "N/A",
+    "noise": "27.2 ",
+    "rpm": "800 - 1500"
+}, {
+    "name": "Xigmatek D982",
+    "price": "N/A",
+    "noise": "22.0 ",
+    "rpm": "1500 - 2500"
+}, {
+    "name": "Thermalright AXP-100R",
+    "price": "N/A",
+    "noise": "22.0 - 30.0 ",
+    "rpm": "900 - 2500"
+}, {
+    "name": "ZEROtherm CORE92",
+    "price": "N/A",
+    "noise": "19.5 ",
+    "rpm": "900 - 2500"
+}, {
+    "name": "ZEROtherm ZT-570D",
+    "price": "N/A",
+    "noise": "30.0 ",
+    "rpm": "900 - 2300"
+}, {
+    "name": "Thermalright Silver Arrow ITX",
+    "price": "N/A",
+    "noise": "17.0 - 24.9 ",
+    "rpm": "300 - 1300"
+}, {
+    "name": "Xigmatek Cobra - D984",
+    "price": "N/A",
+    "noise": "20.0 - 28.0 ",
+    "rpm": "1000 - 2800"
+}, {
+    "name": "Xigmatek GAIA SD1283",
+    "price": "N/A",
+    "noise": "16.0 - 24.0 ",
+    "rpm": "800 - 1500"
+}, {
+    "name": "Evercool HPH-9525CU",
+    "price": 22.1,
+    "noise": "20.0 ",
+    "rpm": "1800"
+}, {
+    "name": "Zalman LQ-310",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "900 - 2000"
+}, {
+    "name": "ARCTIC Freezer Xtreme",
+    "price": 29,
+    "noise": "24.4 ",
+    "rpm": "800 - 1500"
+}, {
+    "name": "Phanteks PH-TC90LS",
+    "price": 24.99,
+    "noise": "19.0 - 26.0 ",
+    "rpm": "1000 - 2500"
+}, {
+    "name": "Thermaltake CLP0534",
+    "price": 17.99,
+    "noise": "20.0 - 26.9 ",
+    "rpm": "1200 - 2400"
+}, {
+    "name": "Deepcool GAMMAXX S40",
+    "price": 21.39,
+    "noise": "17.8 - 26.1 ",
+    "rpm": "900 - 1600"
+}, {
+    "name": "Enermax ETS-T40F-BK",
+    "price": 37.14,
+    "noise": "16.0 - 26.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Thermalright AXP-200",
+    "price": "N/A",
+    "noise": "30.6 ",
+    "rpm": "700 - 1300"
+}, {
+    "name": "Scythe Kabuto 3",
+    "price": 31.41,
+    "noise": "4.0 - 28.0 ",
+    "rpm": "300 - 1400"
+}, {
+    "name": "Cooler Master Seidon 240V",
+    "price": "N/A",
+    "noise": "12.0 - 35.0 ",
+    "rpm": "800 - 2400"
+}, {
+    "name": "ARCTIC Freezer 33 eSports ONE (Black/Yellow)",
+    "price": 29.99,
+    "noise": "24.4 ",
+    "rpm": "200 - 1800"
+}, {
+    "name": "Phanteks PH-TC14PE_BK",
+    "price": 83.64,
+    "noise": "13.4 - 19.0 ",
+    "rpm": "900 - 1200"
+}, {
+    "name": "ARCTIC Freezer i11",
+    "price": 32.49,
+    "noise": "22.5 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "RAIJINTEK EREBOSS CORE EDITION",
+    "price": 44.99,
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Zalman CNPS5X Performa",
+    "price": 22.89,
+    "noise": "20.0 - 32.0 ",
+    "rpm": "1400 - 2800"
+}, {
+    "name": "ID-COOLING FROSTFLOW+ 120 SNOW",
+    "price": "N/A",
+    "noise": "18.0 - 26.4 ",
+    "rpm": "700 - 1500"
+}, {
+    "name": "ARCTIC Freezer 33 Plus",
+    "price": 33.99,
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Reeven Vanxie",
+    "price": 29.99,
+    "noise": "8.2 - 32.5 ",
+    "rpm": "800 - 3300"
+}, {
+    "name": "Cooler Master Hyper 612 PWM",
+    "price": "N/A",
+    "noise": "9.0 - 36.0 ",
+    "rpm": "600 - 2000"
+}, {
+    "name": "ARCTIC Alpine M1",
+    "price": 9.09,
+    "noise": "20.5 ",
+    "rpm": "750"
+}, {
+    "name": "Phononic HEX 2.0",
+    "price": 118.69,
+    "noise": "17.0 - 33.0 ",
+    "rpm": "1000 - 2650"
+}, {
+    "name": "Silverstone NT06-PRO",
+    "price": 54.99,
+    "noise": "n/a",
+    "rpm": "1000 - 2200"
+}, {
+    "name": "RAIJINTEK THEMIS Evo",
+    "price": 24.99,
+    "noise": "24.5 ",
+    "rpm": "1000 - 1500"
+}, {
+    "name": "Silverstone HE02",
+    "price": 69.99,
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Thermaltake CL-P0466",
+    "price": 36.99,
+    "noise": "19.0 - 28.0 ",
+    "rpm": "1000 - 1600"
+}, {
+    "name": "RAIJINTEK TISIS CORE EDITION",
+    "price": 59.99,
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Swiftech H140-X",
+    "price": 179.98,
+    "noise": "8.3 - 28.8 ",
+    "rpm": "700 - 1800"
+}, {
+    "name": "ARCTIC Freezer 13 Limited Edition",
+    "price": 43.8,
+    "noise": "n/a",
+    "rpm": "600 - 2000"
+}, {
+    "name": "Thermaltake Frio Silent 14",
+    "price": 32.89,
+    "noise": "12.0 - 19.3 ",
+    "rpm": "700 - 1200"
+}, {
+    "name": "Thermalright MACHO 120 REV.A",
+    "price": 109.82,
+    "noise": "25.4 ",
+    "rpm": "600 - 1300"
+}, {
+    "name": "Silverstone TD03-LITE",
+    "price": 59.89,
+    "noise": "18.0 - 35.0 ",
+    "rpm": "1500 - 2500"
+}, {
+    "name": "ID-COOLING FROSTFLOW+ 240 SNOW",
+    "price": "N/A",
+    "noise": "18.0 - 26.4 ",
+    "rpm": "700 - 1500"
+}, {
+    "name": "Reeven Arcziel",
+    "price": 16.99,
+    "noise": "7.2 - 31.1 ",
+    "rpm": "300 - 2500"
+}, {
+    "name": "Cooler Master Nepton 240M",
+    "price": "N/A",
+    "noise": "6.5 - 27.0 ",
+    "rpm": "2400"
+}, {
+    "name": "Enermax ETS-T40-W",
+    "price": 89.99,
+    "noise": "31.2 ",
+    "rpm": "2200"
+}, {
+    "name": "RAIJINTEK AIDOS",
+    "price": 22.22,
+    "noise": "28.9 ",
+    "rpm": "1000 - 2200"
+}, {
+    "name": "Deepcool Maelstrom 120K",
+    "price": "N/A",
+    "noise": "18.2 - 32.4 ",
+    "rpm": "600 - 1800"
+}, {
+    "name": "SilenX EFZ-100HA2",
+    "price": 13.79,
+    "noise": "8.0 - 24.0 ",
+    "rpm": "2400"
+}, {
+    "name": "Reeven Brontes RC-1001b",
+    "price": 38.99,
+    "noise": "10.5 - 31.7 ",
+    "rpm": "650 - 2200"
+}, {
+    "name": "Scythe Mugen 4",
+    "price": 103.95,
+    "noise": "5.3 - 28.0 ",
+    "rpm": "400 - 1400"
+}, {
+    "name": "Zalman CNPS9500 AT",
+    "price": 31.49,
+    "noise": "18.0 - 27.5 ",
+    "rpm": "1300 - 2650"
+}, {
+    "name": "ID-COOLING IS-VC45",
+    "price": 48.63,
+    "noise": "14.0 - 33.0 ",
+    "rpm": "600 - 2500"
+}, {
+    "name": "FSP Group Windale 6",
+    "price": 46.99,
+    "noise": "32.0 ",
+    "rpm": "600 - 1600"
+}, {
+    "name": "Prolimatech PRO-MGH-C",
+    "price": 59.97,
+    "noise": "26.0 ",
+    "rpm": "N/A"
+}, {
+    "name": "Xigmatek Thors Hammer",
+    "price": "N/A",
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Intel BXTS13A",
+    "price": 24.4,
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Zalman FX70",
+    "price": "N/A",
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Prolimatech PRO-GNSS",
+    "price": 69.97,
+    "noise": "n/a",
+    "rpm": "800 - 1600"
+}, {
+    "name": "Prolimatech PRO-ARMGD",
+    "price": 57.97,
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Gelid Solutions SnowStorm",
+    "price": 49.89,
+    "noise": "0.1 - 24.1 ",
+    "rpm": "900 - 2200"
+}, {
+    "name": "Gelid Solutions CC-SSilence-iplus",
+    "price": 28.69,
+    "noise": "15.0 - 27.8 ",
+    "rpm": "1200 - 2600"
+}, {
+    "name": "Antec A30",
+    "price": "N/A",
+    "noise": "20.0 ",
+    "rpm": "1750"
+}, {
+    "name": "Thermalright AXP-100 Muscle",
+    "price": "N/A",
+    "noise": "22.0 - 30.0 ",
+    "rpm": "900 - 2500"
+}, {
+    "name": "Evercool HPS-810CP",
+    "price": 25.19,
+    "noise": "16.2 - 37.5 ",
+    "rpm": "1500 - 4000"
+}, {
+    "name": "ARCTIC Freezer i11 CO",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Evercool EC-NK804A-925EP",
+    "price": 14.49,
+    "noise": "28.2 ",
+    "rpm": "2750"
+}, {
+    "name": "Zalman 9500A",
+    "price": 35.65,
+    "noise": "18.0 - 27.0 ",
+    "rpm": "1350 - 2600"
+}, {
+    "name": "StarTech FAN775E",
+    "price": 15.65,
+    "noise": "22.2 ",
+    "rpm": "2600"
+}, {
+    "name": "Zalman CNPS90F",
+    "price": "N/A",
+    "noise": "29.0 ",
+    "rpm": "2300"
+}, {
+    "name": "Alpenföhn Matterhorn Rev. C – White Edition",
+    "price": "N/A",
+    "noise": "18.2 ",
+    "rpm": "500 - 1500"
+}, {
+    "name": "RAIJINTEK PALLAS Red",
+    "price": 37.68,
+    "noise": "28.0 ",
+    "rpm": "650 - 1400"
+}, {
+    "name": "Silverstone NT09-115X",
+    "price": 19.25,
+    "noise": "18.5 - 32.0 ",
+    "rpm": "550 - 2500"
+}, {
+    "name": "Deepcool Ice Edge Mini FS V2.0",
+    "price": "N/A",
+    "noise": "24.7 ",
+    "rpm": "2200"
+}, {
+    "name": "Zalman CNPS11X Performa",
+    "price": 22.99,
+    "noise": "17.0 - 26.0 ",
+    "rpm": "1000 - 1600"
+}, {
+    "name": "Evercool NI2011E-9525EP",
+    "price": 17.35,
+    "noise": "28.0 ",
+    "rpm": "1000 - 3000"
+}, {
+    "name": "RAIJINTEK TISIS",
+    "price": 59.99,
+    "noise": "-",
+    "rpm": ""
+}, {
+    "name": "Phanteks PH-TC14CS_RD",
+    "price": "N/A",
+    "noise": "13.4 - 19.0 ",
+    "rpm": "1300"
+}, {
+    "name": "Silverstone AR02",
+    "price": 36.99,
+    "noise": "16.0 - 24.0 ",
+    "rpm": "1200 - 2800"
+}, {
+    "name": "ID-COOLING IS-50",
+    "price": "N/A",
+    "noise": "13.8 - 30.2 ",
+    "rpm": "600 - 1600"
+}, {
+    "name": "Rosewill AIOLOS",
+    "price": 29.81,
+    "noise": "24.6 ",
+    "rpm": "1500"
+}, {
+    "name": "Logisys IC211HTPC",
+    "price": 26.04,
+    "noise": "28.0 ",
+    "rpm": "2600"
+}, {
+    "name": "LEPA LPALV12-BK",
+    "price": "N/A",
+    "noise": "23.0 ",
+    "rpm": "2200"
+}, {
+    "name": "Evercool HPM-12025",
+    "price": 28.15,
+    "noise": "15.0 - 35.0 ",
+    "rpm": "800 - 2500"
+}, {
+    "name": "Cooler Master Nepton 140XL",
+    "price": "N/A",
+    "noise": "21.0 - 39.0 ",
+    "rpm": "2000"
+}, {
+    "name": "Thermaltake NiC L32",
+    "price": 36.15,
+    "noise": "18.0 - 38.4 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "Rosewill RCX-Z90-AL",
+    "price": 10.99,
+    "noise": "15.0 - 30.0 ",
+    "rpm": "600 - 3000"
+}, {
+    "name": "Gelid Solutions Rev. 4 Tranquillo",
+    "price": "N/A",
+    "noise": "12.0 - 26.7 ",
+    "rpm": "750 - 1600"
+}, {
+    "name": "Xigmatek Prime SD1484",
+    "price": 70.69,
+    "noise": "18.0 ",
+    "rpm": "800 - 1200"
+}, {
+    "name": "Phanteks PH-TC14CS",
+    "price": "N/A",
+    "noise": "13.4 - 19.0 ",
+    "rpm": "700 - 1200"
+}, {
+    "name": "Gelid Solutions CC-SiberianP-01",
+    "price": 18.89,
+    "noise": "10.0 - 23.5 ",
+    "rpm": "900 - 2200"
+}, {
+    "name": "Antec C40",
+    "price": "N/A",
+    "noise": "16.0 - 23.0 ",
+    "rpm": "800 - 2200"
+}, {
+    "name": "Silverstone NT07-AM2",
+    "price": 22.13,
+    "noise": "15.0 - 25.0 ",
+    "rpm": "1500 - 2500"
+}, {
+    "name": "Reeven Ouranos",
+    "price": 52.99,
+    "noise": "5.8 - 36.4 ",
+    "rpm": "300 - 1700"
+}, {
+    "name": "Prolimatech Basic 48",
+    "price": 42.99,
+    "noise": "n/a",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "Antec KUHLER H2O 950",
+    "price": 96.89,
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Gelid Solutions CC-GX7-01-A",
+    "price": "N/A",
+    "noise": "10.0 - 26.8 ",
+    "rpm": "600 - 1800"
+}, {
+    "name": "Reeven Steropes RC-1206b",
+    "price": 38.49,
+    "noise": "9.3 - 33.7 ",
+    "rpm": "500 - 2000"
+}, {
+    "name": "Logisys IC106",
+    "price": 14.95,
+    "noise": "25.0 ",
+    "rpm": "2200"
+}, {
+    "name": "Thermaltake MeOrb II",
+    "price": "N/A",
+    "noise": "18.5 - 28.0 ",
+    "rpm": "1500 - 2500"
+}, {
+    "name": "SilentiumPC SPC130",
+    "price": "N/A",
+    "noise": "8.0 - 22.0 ",
+    "rpm": "500 - 1400"
+}, {
+    "name": "Fractal Design Kelvin S24",
+    "price": "N/A",
+    "noise": "26.9 ",
+    "rpm": "800 - 1700"
+}, {
+    "name": "Zalman ZM-CNPS14X",
+    "price": "N/A",
+    "noise": "17.0 - 21.0 ",
+    "rpm": "950 - 1350"
+}, {
+    "name": "ARCTIC Freezer i30 CO",
+    "price": 108.22,
+    "noise": "n/a",
+    "rpm": "400 - 1350"
+}, {
+    "name": "Dynatron R24",
+    "price": 25.99,
+    "noise": "16.0 - 47.5 ",
+    "rpm": "1500 - 7000"
+}, {
+    "name": "RAIJINTEK EREBOSS BLACK",
+    "price": 42.99,
+    "noise": "28.0 ",
+    "rpm": "650 - 1400"
+}, {
+    "name": "Enermax ELC-LM120S-TAA",
+    "price": 86.99,
+    "noise": "30.0 ",
+    "rpm": "2500"
+}, {
+    "name": "Deepcool Maelstrom 240",
+    "price": "N/A",
+    "noise": "17.6 - 39.3 ",
+    "rpm": "600 - 2200"
+}, {
+    "name": "Enermax ETS-T40-VD",
+    "price": "N/A",
+    "noise": "16.0 - 21.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Evercool HPFI-10025",
+    "price": 16.99,
+    "noise": "23.0 ",
+    "rpm": "1800"
+}, {
+    "name": "Titan TTC-NA43TZ/CU35",
+    "price": 24.17,
+    "noise": "14.0 - 33.0 ",
+    "rpm": "900 - 2600"
+}, {
+    "name": "Gelid Solutions Rev. 2 Tranquillo",
+    "price": "N/A",
+    "noise": "12.0 - 25.5 ",
+    "rpm": "750 - 1500"
+}, {
+    "name": "Gelid Solutions Rev. 3 Tranquillo",
+    "price": 45.52,
+    "noise": "12.0 - 26.5 ",
+    "rpm": "750 - 1500"
+}, {
+    "name": "Alpenföhn Brocken 2 PCGH",
+    "price": "N/A",
+    "noise": "18.5 ",
+    "rpm": "700"
+}, {
+    "name": "Thermaltake CL-P008-AL09WT-A",
+    "price": "N/A",
+    "noise": "21.0 ",
+    "rpm": "1800"
+}, {
+    "name": "Scythe SCMN-2000",
+    "price": "N/A",
+    "noise": "9.6 - 36.4 ",
+    "rpm": "500 - 1700"
+}, {
+    "name": "Gelid Solutions Black Edition",
+    "price": 79.89,
+    "noise": "25.4 - 25.5 ",
+    "rpm": "750 - 1600"
+}, {
+    "name": "Thermaltake CL-P0257",
+    "price": 49,
+    "noise": "17.0 ",
+    "rpm": "1700"
+}, {
+    "name": "Zalman CNPS 7500 AlCu LED",
+    "price": 64.99,
+    "noise": "17.0 - 32.0 ",
+    "rpm": "1150 - 2300"
+}, {
+    "name": "Thermaltake CLP0579",
+    "price": "N/A",
+    "noise": "15.0 - 33.2 ",
+    "rpm": "800 - 2000"
+}, {
+    "name": "Zalman CNPS10X Extreme",
+    "price": 59.89,
+    "noise": "20.0 - 39.0 ",
+    "rpm": "1000 - 2150"
+}, {
+    "name": "Raidmax Cobra 240",
+    "price": "N/A",
+    "noise": "21.2 ",
+    "rpm": "500 - 1800"
+}, {
+    "name": "Gelid Solutions CC-Ssilence-AM1",
+    "price": 26.14,
+    "noise": "15.0 - 27.2 ",
+    "rpm": "1200 - 2600"
+}, {
+    "name": "Logisys MC4001IM",
+    "price": 39.88,
+    "noise": "17.8 - 27.6 ",
+    "rpm": "500 - 1500"
+}, {
+    "name": "Dynatron R9",
+    "price": 26.49,
+    "noise": "13.1 - 45.9 ",
+    "rpm": "1000 - 4500"
+}, {
+    "name": "Zalman CNPS9300 AT",
+    "price": "N/A",
+    "noise": "20.0 - 30.0 ",
+    "rpm": "1500 - 2400"
+}, {
+    "name": "Antec KUHLER Shelf",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Cooler Master RR-LEE-L911-GP",
+    "price": 24.16,
+    "noise": "17.0 ",
+    "rpm": "2200"
+}, {
+    "name": "Gelid Solutions GX7",
+    "price": 44.98,
+    "noise": "12.0 - 28.0 ",
+    "rpm": "750 - 1800"
+}, {
+    "name": "Zalman LQ-315",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "900 - 2000"
+}, {
+    "name": "Thermalright Macho Rev.A(BW)",
+    "price": "N/A",
+    "noise": "15.0 - 21.0 ",
+    "rpm": "300 - 1300"
+}, {
+    "name": "StarTech FANK8AM2",
+    "price": "N/A",
+    "noise": "28.0 ",
+    "rpm": "2600"
+}, {
+    "name": "Xion XON-HP9310P",
+    "price": "N/A",
+    "noise": "16.0 - 25.3 ",
+    "rpm": "1000 - 3000"
+}, {
+    "name": "Zalman CNPS8900 Extreme",
+    "price": "N/A",
+    "noise": "19.5 - 35.0 ",
+    "rpm": "1250 - 2800"
+}, {
+    "name": "Thermaltake CL-P0187",
+    "price": "N/A",
+    "noise": "36.0 ",
+    "rpm": "4800"
+}, {
+    "name": "Dynatron R12",
+    "price": "N/A",
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Silverstone TD02",
+    "price": "N/A",
+    "noise": "16.0 - 33.5 ",
+    "rpm": "1500 - 2500"
+}, {
+    "name": "Thermaltake CL-P0508",
+    "price": "N/A",
+    "noise": "16.0 - 24.0 ",
+    "rpm": "1300 - 2000"
+}, {
+    "name": "Evercool HPJ-12025",
+    "price": "N/A",
+    "noise": "21.0 ",
+    "rpm": "1000"
+}, {
+    "name": "Zalman Reserator 3 MAX Dual",
+    "price": "N/A",
+    "noise": "23.2 - 46.6 ",
+    "rpm": "1000 - 2300"
+}, {
+    "name": "ZEROtherm ZT-10D",
+    "price": "N/A",
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Thermaltake BigTyp Revo.",
+    "price": "N/A",
+    "noise": "20.0 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "ARCTIC Alpine 7 GT",
+    "price": "N/A",
+    "noise": "0.2 ",
+    "rpm": "2000"
+}, {
+    "name": "Gelid Solutions CC-Spirit-02-A",
+    "price": "N/A",
+    "noise": "10.0 - 25.8 ",
+    "rpm": "900 - 2400"
+}, {
+    "name": "Logisys IC207",
+    "price": "N/A",
+    "noise": "25.0 ",
+    "rpm": "2500"
+}, {
+    "name": "Logisys AC4400BT",
+    "price": "N/A",
+    "noise": "30.1 ",
+    "rpm": "2200"
+}, {
+    "name": "Logisys MC3001IE",
+    "price": "N/A",
+    "noise": "17.8 - 34.6 ",
+    "rpm": "900 - 2200"
+}, {
+    "name": "Logisys AC2200BT",
+    "price": "N/A",
+    "noise": "30.1 ",
+    "rpm": "2200"
+}, {
+    "name": "Evercool HPI-12025",
+    "price": 46.67,
+    "noise": "23.0 - 30.0 ",
+    "rpm": "1200 - 1800"
+}, {
+    "name": "Thermalright TRUE Spirit 140 (BW)",
+    "price": "N/A",
+    "noise": "15.0 - 21.0 ",
+    "rpm": "300 - 1300"
+}, {
+    "name": "Gelid Solutions Polar",
+    "price": "N/A",
+    "noise": "16.0 - 28.9 ",
+    "rpm": "1400 - 2000"
+}, {
+    "name": "Titan EC-TTC-NC05TZ",
+    "price": "N/A",
+    "noise": "15.3 - 29.0 ",
+    "rpm": "800 - 1500"
+}, {
+    "name": "RAIJINTEK TRITON",
+    "price": "N/A",
+    "noise": "21.6 - 36.6 ",
+    "rpm": "1000 - 2600"
+}, {
+    "name": "Thermaltake Gravity A1",
+    "price": "N/A",
+    "noise": "22.3 ",
+    "rpm": "1800"
+}, {
+    "name": "TUNIQ Tower 120",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "TUNIQ T-120-LFB",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "Thermaltake CLP0605",
+    "price": "N/A",
+    "noise": "18.0 - 30.2 ",
+    "rpm": "800 - 1600"
+}, {
+    "name": "Vantec VAF-1225",
+    "price": "N/A",
+    "noise": "20.0 - 32.0 ",
+    "rpm": "1000 - 2200"
+}, {
+    "name": "Gelid Solutions Slim Silence AM2",
+    "price": "N/A",
+    "noise": "15.0 - 27.2 ",
+    "rpm": "1200 - 2500"
+}, {
+    "name": "Gelid Solutions Slim Silence 775",
+    "price": "N/A",
+    "noise": "15.0 - 24.5 ",
+    "rpm": "1100 - 2300"
+}, {
+    "name": "Thermalright Archon IB-E X2",
+    "price": "N/A",
+    "noise": "17.0 - 21.0 ",
+    "rpm": "900 - 1300"
+}, {
+    "name": "Prolimatech Basic 68",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "600 - 1600"
+}, {
+    "name": "Sunbeam Twister 120",
+    "price": "N/A",
+    "noise": "16.0 ",
+    "rpm": "N/A"
+}, {
+    "name": "Prolimatech Basic 65",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "600 - 1600"
+}, {
+    "name": "Prolimatech Megahalems Rev.B",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Zalman CNPS 9700 NT",
+    "price": "N/A",
+    "noise": "19.5 - 35.0 ",
+    "rpm": "1250 - 2800"
+}, {
+    "name": "Zalman CNPS5X SZ",
+    "price": "N/A",
+    "noise": "20.0 - 32.0 ",
+    "rpm": "1400 - 2800"
+}, {
+    "name": "SilenX EFZ-100HA1",
+    "price": "N/A",
+    "noise": "8.0 - 24.0 ",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "be quiet! Shadow Rock Pro SR1",
+    "price": "N/A",
+    "noise": "24.4 ",
+    "rpm": "1500"
+}, {
+    "name": "Dynatron R19",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Cooler Master Glacer 240L",
+    "price": "N/A",
+    "noise": "19.0 - 40.3 ",
+    "rpm": "2400"
+}, {
+    "name": "Phanteks PH-TC12DX_RD",
+    "price": "N/A",
+    "noise": "21.9 - 27.6 ",
+    "rpm": "600 - 1800"
+}, {
+    "name": "ID-COOLING DK-01",
+    "price": "N/A",
+    "noise": "12.0 - 28.8 ",
+    "rpm": "800 - 2500"
+}, {
+    "name": "Cooler Master RR-T612-20PK-R1",
+    "price": "N/A",
+    "noise": "9.0 - 36.0 ",
+    "rpm": "2000"
+}, {
+    "name": "Cooler Master Eisberg 240L Prestige",
+    "price": "N/A",
+    "noise": "20.5 ",
+    "rpm": "1600"
+}, {
+    "name": "ID-COOLING SE-205",
+    "price": "N/A",
+    "noise": "16.2 - 29.2 ",
+    "rpm": "1600 - 1800"
+}, {
+    "name": "Nexus FLC-3000 R2",
+    "price": "N/A",
+    "noise": "15.0 - 24.0 ",
+    "rpm": "900 - 2500"
+}, {
+    "name": "Thermalright Le Grand Macho",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Logisys MC4004IEXT",
+    "price": "N/A",
+    "noise": "17.8 - 28.1 ",
+    "rpm": "900 - 2200"
+}, {
+    "name": "NZXT Respire T20",
+    "price": "N/A",
+    "noise": "26.5 - 34.0 ",
+    "rpm": "1300 - 1800"
+}, {
+    "name": "Corsair H70 Core",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Logisys MC6001IM",
+    "price": "N/A",
+    "noise": "18.2 - 26.7 ",
+    "rpm": "700 - 1200"
+}, {
+    "name": "Logisys MC4005IB",
+    "price": "N/A",
+    "noise": "21.4 - 32.1 ",
+    "rpm": "900 - 1500"
+}, {
+    "name": "Logisys IC231PWM",
+    "price": 19.99,
+    "noise": "17.8 - 32.5 ",
+    "rpm": "900 - 2400"
+}, {
+    "name": "Thermalright Venomous X RT Rev.SB-E",
+    "price": "N/A",
+    "noise": "17.0 - 28.5 ",
+    "rpm": "700 - 1500"
+}, {
+    "name": "Thermalright TRUE Spirit 90M Rev.A",
+    "price": "N/A",
+    "noise": "27.0 ",
+    "rpm": "800 - 2000"
+}, {
+    "name": "Enermax ETS-N30-HE",
+    "price": "N/A",
+    "noise": "16.0 - 28.0 ",
+    "rpm": "800 - 2800"
+}, {
+    "name": "Cooler Master TPC 812",
+    "price": "N/A",
+    "noise": "19.0 - 40.0 ",
+    "rpm": "600 - 2400"
+}, {
+    "name": "Syba CL-CNL-EOLE802",
+    "price": "N/A",
+    "noise": "25.0 ",
+    "rpm": "2200"
+}, {
+    "name": "Dynatron R22",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Dynatron R4",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Evercool HPO-12025",
+    "price": 52.83,
+    "noise": "16.0 - 38.0 ",
+    "rpm": "1400 - 2200"
+}, {
+    "name": "Thermaltake Water 2.0 Pro",
+    "price": "N/A",
+    "noise": "10.0 - 27.4 ",
+    "rpm": "1200 - 2000"
+}, {
+    "name": "Masscool 8W2002B1M4",
+    "price": "N/A",
+    "noise": "20.0 - 34.0 ",
+    "rpm": "800 - 2800"
+}, {
+    "name": "Enermax ELC-LM120S-HP",
+    "price": "N/A",
+    "noise": "30.0 ",
+    "rpm": "2500"
+}, {
+    "name": "Titan TTC-NK35TZ/RPW/V2",
+    "price": "N/A",
+    "noise": "12.0 - 31.0 ",
+    "rpm": "900 - 2800"
+}, {
+    "name": "Antec KUHLER H2O 920",
+    "price": "N/A",
+    "noise": "27.4 ",
+    "rpm": "700 - 2400"
+}, {
+    "name": "Antec Performance Max",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Logisys MC2001IE",
+    "price": "N/A",
+    "noise": "23.4 ",
+    "rpm": "2200"
+}, {
+    "name": "Prolimatech PRO-PNTH",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Reeven Hans RC-1205n",
+    "price": "N/A",
+    "noise": "4.0 - 29.8 ",
+    "rpm": "300 - 1500"
+}, {
+    "name": "Masscool 8W5020F1M",
+    "price": "N/A",
+    "noise": "20.0 - 34.0 ",
+    "rpm": "800 - 2800"
+}, {
+    "name": "Zalman CNPS7000V(AL)-1-PWMB",
+    "price": "N/A",
+    "noise": "20.0 - 32.0 ",
+    "rpm": "800 - 2600"
+}, {
+    "name": "NZXT HAVIK 140",
+    "price": "N/A",
+    "noise": "25.0 ",
+    "rpm": "1200"
+}, {
+    "name": "Logisys MC6002GS",
+    "price": "N/A",
+    "noise": "17.6 - 27.6 ",
+    "rpm": "500 - 1500"
+}, {
+    "name": "Scythe Ashura Shadow",
+    "price": "N/A",
+    "noise": "13.0 - 30.7 ",
+    "rpm": "500 - 1300"
+}, {
+    "name": "Thermaltake CL-P0101",
+    "price": "N/A",
+    "noise": "15.0 - 46.5 ",
+    "rpm": "600 - 3700"
+}, {
+    "name": "Zalman CNPS7700ALCULED",
+    "price": "N/A",
+    "noise": "22.7 - 37.1 ",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "Logisys IC4300X4",
+    "price": "N/A",
+    "noise": "17.8 - 40.7 ",
+    "rpm": "400 - 2800"
+}, {
+    "name": "Enermax ELC120-TA",
+    "price": "N/A",
+    "noise": "18.5 - 32.8 ",
+    "rpm": "800 - 2200"
+}, {
+    "name": "Cooler Master CHD-00008-01-GP",
+    "price": "N/A",
+    "noise": "22.0 ",
+    "rpm": "2200"
+}, {
+    "name": "Scythe SCNJ-3100",
+    "price": "N/A",
+    "noise": "7.0 - 37.0 ",
+    "rpm": "470 - 1900"
+}, {
+    "name": "Corsair H100",
+    "price": "N/A",
+    "noise": "22.0 - 39.0 ",
+    "rpm": "1300 - 2500"
+}, {
+    "name": "X2 ECLIPSE IV",
+    "price": "N/A",
+    "noise": "10.0 - 24.0 ",
+    "rpm": "800 - 2000"
+}, {
+    "name": "Swiftech H220",
+    "price": "N/A",
+    "noise": "16.0 - 33.0 ",
+    "rpm": "1200 - 3000"
+}, {
+    "name": "Silverstone TD03-E",
+    "price": "N/A",
+    "noise": "18.0 - 35.0 ",
+    "rpm": "1500 - 2500"
+}, {
+    "name": "Thermaltake CLP0533",
+    "price": "N/A",
+    "noise": "21.0 - 48.0 ",
+    "rpm": "1000 - 6000"
+}, {
+    "name": "Antec KUHLER Box",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "N/A"
+}, {
+    "name": "Cooler Master Hyper N520",
+    "price": "N/A",
+    "noise": "19.0 ",
+    "rpm": "N/A"
+}, {
+    "name": "Cooler Master X6",
+    "price": "N/A",
+    "noise": "8.0 - 27.0 ",
+    "rpm": "600 - 1900"
+}, {
+    "name": "Sunbeam CR-CCTF",
+    "price": "N/A",
+    "noise": "16.0 - 20.0 ",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "Thermaltake CLP0604",
+    "price": "N/A",
+    "noise": "21.0 - 48.0 ",
+    "rpm": "1200 - 2100"
+}, {
+    "name": "Thermalright Macho-120",
+    "price": "N/A",
+    "noise": "17.0 - 21.0 ",
+    "rpm": "900 - 1300"
+}, {
+    "name": "Zalman CNPS 8700 NT",
+    "price": "N/A",
+    "noise": "17.5 - 30.0 ",
+    "rpm": "1150 - 2100"
+}, {
+    "name": "Silverstone NT07-775",
+    "price": "N/A",
+    "noise": "15.0 - 23.0 ",
+    "rpm": "1200 - 1800"
+}, {
+    "name": "Silverstone NT07-1156",
+    "price": "N/A",
+    "noise": "15.0 - 38.0 ",
+    "rpm": "1200 - 3000"
+}, {
+    "name": "ID-COOLING FROSTFLOW+ 120",
+    "price": "N/A",
+    "noise": "18.0 - 35.2 ",
+    "rpm": "700 - 1800"
+}, {
+    "name": "Thermaltake A4022",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "1300"
+}, {
+    "name": "Cooler Master S2N-PLMHS-07-GP",
+    "price": "N/A",
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Thermaltake CLP0527",
+    "price": "N/A",
+    "noise": "16.0 ",
+    "rpm": "800 - 1700"
+}, {
+    "name": "Zalman CNPS 7500 Cu LED",
+    "price": "N/A",
+    "noise": "17.0 - 32.0 ",
+    "rpm": "1150 - 2300"
+}, {
+    "name": "Rosewill RCX-Z2",
+    "price": "N/A",
+    "noise": "17.0 - 34.2 ",
+    "rpm": "500 - 3400"
+}, {
+    "name": "Silverstone NT01-PRO",
+    "price": "N/A",
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Rosewill RCX-Z90-CP",
+    "price": "N/A",
+    "noise": "13.5 - 26.5 ",
+    "rpm": "600 - 3000"
+}, {
+    "name": "Rosewill RCX-Z80-AL",
+    "price": "N/A",
+    "noise": "22.4 ",
+    "rpm": "2500"
+}, {
+    "name": "Corsair A70",
+    "price": "N/A",
+    "noise": "26.0 - 31.5 ",
+    "rpm": "1600 - 2000"
+}, {
+    "name": "Cooler Master GeminII S",
+    "price": "N/A",
+    "noise": "17.0 - 21.0 ",
+    "rpm": "1000 - 2000"
+}, {
+    "name": "Sunbeam CR-CCTF92-4",
+    "price": "N/A",
+    "noise": "27.0 ",
+    "rpm": "1200 - 2200"
+}, {
+    "name": "Thermaltake A4012-02",
+    "price": "N/A",
+    "noise": "21.0 ",
+    "rpm": "2500"
+}, {
+    "name": "Dynatron T860",
+    "price": "N/A",
+    "noise": "20.2 - 44.9 ",
+    "rpm": "2000 - 6000"
+}, {
+    "name": "Dynatron T195",
+    "price": 25.72,
+    "noise": "20.5 - 49.8 ",
+    "rpm": "1000 - 5000"
+}, {
+    "name": "ID-COOLING SE-213",
+    "price": "N/A",
+    "noise": "16.0 - 20.2 ",
+    "rpm": "800 - 1600"
+}, {
+    "name": "ID-COOLING SE-203K",
+    "price": "N/A",
+    "noise": "16.2 - 29.2 ",
+    "rpm": "1800"
+}, {
+    "name": "ID-COOLING FI-REEX",
+    "price": "N/A",
+    "noise": "16.2 - 29.2 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Scythe SCBSK-1000",
+    "price": "N/A",
+    "noise": "n/a",
+    "rpm": "650 - 2200"
+}, {
+    "name": "Scythe SCMG-2100",
+    "price": "N/A",
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Scythe SCYS-1000",
+    "price": "N/A",
+    "noise": "7.0 - 27.3 ",
+    "rpm": "470 - 1900"
+}, {
+    "name": "Scythe SCNJ-3000",
+    "price": "N/A",
+    "noise": "9.8 - 27.3 ",
+    "rpm": "470 - 1900"
+}, {
+    "name": "NoFan CR-95C",
+    "price": "N/A",
+    "noise": "-",
+    "rpm": "-"
+}, {
+    "name": "Scythe SCRT-1000",
+    "price": "N/A",
+    "noise": "9.8 - 27.3 ",
+    "rpm": "470 - 1900"
+}, {
+    "name": "Scythe SCSMZ-2000",
+    "price": "N/A",
+    "noise": "7.2 - 31.1 ",
+    "rpm": "300 - 2500"
+}, {
+    "name": "Masscool 8W553B1M3",
+    "price": "N/A",
+    "noise": "26.2 ",
+    "rpm": "2400"
+}, {
+    "name": "Rosewill ROCC-13001",
+    "price": "N/A",
+    "noise": "19.4 - 31.1 ",
+    "rpm": "2000"
+}, {
+    "name": "Masscool 5W1081F1M3",
+    "price": "N/A",
+    "noise": "31.0 ",
+    "rpm": "2400"
+}, {
+    "name": "Masscool 5U1082F1M4",
+    "price": "N/A",
+    "noise": "23.0 - 45.9 ",
+    "rpm": "2000 - 3600"
+}, {
+    "name": "Masscool 8WT15-38",
+    "price": "N/A",
+    "noise": "30.0 ",
+    "rpm": "2400"
+}, {
+    "name": "ZEROtherm BTF90",
+    "price": "N/A",
+    "noise": "18.0 - 27.0 ",
+    "rpm": "750 - 2500"
+}, {
+    "name": "ID-COOLING SE-204",
+    "price": "N/A",
+    "noise": "16.2 - 29.2 ",
+    "rpm": "800 - 1800"
+}, {
+    "name": "Xigmatek Dark Knight S1283V",
+    "price": "N/A",
+    "noise": "30.1 ",
+    "rpm": "1000 - 2200"
+}, {
+    "name": "Xigmatek HDT-SD964",
+    "price": "N/A",
+    "noise": "22.0 - 30.0 ",
+    "rpm": "1200 - 2800"
+}, {
+    "name": "Xigmatek EP-CD901",
+    "price": "N/A",
+    "noise": "28.0 ",
+    "rpm": "1200 - 2500"
+}, {
+    "name": "ZEROtherm Nirvana NV120 PWM",
+    "price": "N/A",
+    "noise": "30.0 ",
+    "rpm": "900 - 1800"
+}, {
+    "name": "ZEROtherm ZT-560D",
+    "price": "N/A",
+    "noise": "30.0 ",
+    "rpm": "900 - 2300"
+}, {
+    "name": "ZEROtherm CF800-MK III",
+    "price": "N/A",
+    "noise": "30.0 ",
+    "rpm": "900 - 2600"
+}, {
+    "name": "Xigmatek LOKI SD963",
+    "price": "N/A",
+    "noise": "20.0 - 28.0 ",
+    "rpm": "1200 - 2800"
+}, {
+    "name": "Xigmatek Aegir SD128264",
+    "price": "N/A",
+    "noise": "20.0 ",
+    "rpm": "1000 - 2200"
+}, {
+    "name": "Evercool CI01-9525EP",
+    "price": "N/A",
+    "noise": "12.0 - 31.0 ",
+    "rpm": "900 - 2600"
+}, {
+    "name": "Evercool HPK-10025EA",
+    "price": "N/A",
+    "noise": "23.0 ",
+    "rpm": "1800"
+}, {
+    "name": "Xigmatek Praeton LD963",
+    "price": "N/A",
+    "noise": "22.0 ",
+    "rpm": "1200 - 2800"
+}]
