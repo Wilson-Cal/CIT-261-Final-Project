@@ -245,7 +245,7 @@
     "maxRAM": 64
 }, {
     "name": "ASRock A320M-HDV",
-    "price": 49.49,
+    "price": 44.99,
     "socket": "AM4",
     "formFactor": "Micro ATX",
     "ramSlots": 2,
@@ -5712,7 +5712,7 @@
     "maxRAM": 64
 }, {
     "name": "ASRock Z270M Pro4",
-    "price": 134.88,
+    "price": 110.98,
     "socket": "LGA1151",
     "formFactor": "Micro ATX",
     "ramSlots": 4,
@@ -5922,7 +5922,7 @@
     "maxRAM": 32
 }, {
     "name": "Asus P10S-M",
-    "price": 190.75,
+    "price": 190.74,
     "socket": "LGA1151",
     "formFactor": "Micro ATX",
     "ramSlots": 4,
@@ -8232,7 +8232,7 @@
     "maxRAM": 64
 }, {
     "name": "Asus X99-E WS/USB 3.1",
-    "price": 474.62,
+    "price": 473.91,
     "socket": "LGA2011-3",
     "formFactor": "SSI CEB",
     "ramSlots": 8,
@@ -8302,7 +8302,7 @@
     "maxRAM": 128
 }, {
     "name": "Asus X99-E WS",
-    "price": 474.62,
+    "price": 473.91,
     "socket": "LGA2011-3",
     "formFactor": "SSI CEB",
     "ramSlots": 8,
@@ -8659,7 +8659,7 @@
     "maxRAM": 32
 }, {
     "name": "Gigabyte X299 AORUS Gaming 7 Pro",
-    "price": 367.93,
+    "price": 373.96,
     "socket": "LGA2066",
     "formFactor": "ATX",
     "ramSlots": 8,

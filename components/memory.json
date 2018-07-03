@@ -1764,13 +1764,13 @@
     "pricePerGB": 10.73
 }, {
     "name": "GeIL EVO POTENZA",
-    "price": 148.99,
+    "price": 156.98,
     "speed": "DDR4-2400",
     "type": "288-pin DIMM",
     "CAS": "15",
     "modules": "2x8GB",
     "size": "16GB",
-    "pricePerGB": 9.31
+    "pricePerGB": 9.81
 }, {
     "name": "G.Skill Trident Z RGB",
     "price": 215.98,
@@ -1962,13 +1962,13 @@
     "pricePerGB": 10.97
 }, {
     "name": "G.Skill Sniper X",
-    "price": 170.98,
+    "price": 209.19,
     "speed": "DDR4-3200",
     "type": "288-pin DIMM",
     "CAS": "16",
     "modules": "2x8GB",
     "size": "16GB",
-    "pricePerGB": 10.69
+    "pricePerGB": 13.07
 }, {
     "name": "Corsair Vengeance LPX",
     "price": 350.98,
@@ -3645,13 +3645,13 @@
     "pricePerGB": 12.5
 }, {
     "name": "G.Skill Trident Z RGB",
-    "price": 529.99,
+    "price": 484.98,
     "speed": "DDR4-3600",
     "type": "288-pin DIMM",
     "CAS": "17",
     "modules": "2x16GB",
     "size": "32GB",
-    "pricePerGB": 16.56
+    "pricePerGB": 15.16
 }, {
     "name": "G.Skill Ripjaws X Series",
     "price": 129.88,
@@ -3780,13 +3780,13 @@
     "pricePerGB": 6.87
 }, {
     "name": "G.Skill Trident Z",
-    "price": 529.99,
+    "price": 484.98,
     "speed": "DDR4-3600",
     "type": "288-pin DIMM",
     "CAS": "17",
     "modules": "2x16GB",
     "size": "32GB",
-    "pricePerGB": 16.56
+    "pricePerGB": 15.16
 }, {
     "name": "Corsair Vengeance RGB Pro",
     "price": 839.99,
@@ -3978,13 +3978,13 @@
     "pricePerGB": 14.75
 }, {
     "name": "G.Skill Trident Z",
-    "price": 529.99,
+    "price": 484.98,
     "speed": "DDR4-3600",
     "type": "288-pin DIMM",
     "CAS": "17",
     "modules": "2x16GB",
     "size": "32GB",
-    "pricePerGB": 16.56
+    "pricePerGB": 15.16
 }, {
     "name": "G.Skill NS",
     "price": 155.98,
@@ -4023,13 +4023,13 @@
     "pricePerGB": 13.12
 }, {
     "name": "G.Skill Trident Z",
-    "price": 529.99,
+    "price": 484.98,
     "speed": "DDR4-3600",
     "type": "288-pin DIMM",
     "CAS": "17",
     "modules": "2x16GB",
     "size": "32GB",
-    "pricePerGB": 16.56
+    "pricePerGB": 15.16
 }, {
     "name": "Team T-Force Vulcan",
     "price": "N/A",
@@ -4041,13 +4041,13 @@
     "pricePerGB": null
 }, {
     "name": "G.Skill Trident Z RGB",
-    "price": 529.99,
+    "price": 484.98,
     "speed": "DDR4-3600",
     "type": "288-pin DIMM",
     "CAS": "17",
     "modules": "2x16GB",
     "size": "32GB",
-    "pricePerGB": 16.56
+    "pricePerGB": 15.16
 }, {
     "name": "Corsair Vengeance LED",
     "price": 369.99,
@@ -4113,13 +4113,13 @@
     "pricePerGB": 9.87
 }, {
     "name": "G.Skill Trident Z RGB",
-    "price": 529.99,
+    "price": 484.98,
     "speed": "DDR4-3600",
     "type": "288-pin DIMM",
     "CAS": "17",
     "modules": "2x16GB",
     "size": "32GB",
-    "pricePerGB": 16.56
+    "pricePerGB": 15.16
 }, {
     "name": "Corsair Vengeance LPX",
     "price": "N/A",
@@ -4284,13 +4284,13 @@
     "pricePerGB": 9.43
 }, {
     "name": "G.Skill Trident Z",
-    "price": 529.99,
+    "price": 484.98,
     "speed": "DDR4-3600",
     "type": "288-pin DIMM",
     "CAS": "17",
     "modules": "2x16GB",
     "size": "32GB",
-    "pricePerGB": 16.56
+    "pricePerGB": 15.16
 }, {
     "name": "Corsair Vengeance LED",
     "price": 369.99,
@@ -4383,22 +4383,22 @@
     "pricePerGB": null
 }, {
     "name": "G.Skill Trident Z RGB",
-    "price": 529.99,
+    "price": 484.98,
     "speed": "DDR4-3600",
     "type": "288-pin DIMM",
     "CAS": "17",
     "modules": "2x16GB",
     "size": "32GB",
-    "pricePerGB": 16.56
+    "pricePerGB": 15.16
 }, {
     "name": "G.Skill Trident Z RGB",
-    "price": 529.99,
+    "price": 484.98,
     "speed": "DDR4-3600",
     "type": "288-pin DIMM",
     "CAS": "17",
     "modules": "2x16GB",
     "size": "32GB",
-    "pricePerGB": 16.56
+    "pricePerGB": 15.16
 }, {
     "name": "G.Skill Ripjaws V Series",
     "price": 152.69,
@@ -4410,13 +4410,13 @@
     "pricePerGB": 19.09
 }, {
     "name": "G.Skill Trident Z",
-    "price": 529.99,
+    "price": 484.98,
     "speed": "DDR4-3600",
     "type": "288-pin DIMM",
     "CAS": "17",
     "modules": "2x16GB",
     "size": "32GB",
-    "pricePerGB": 16.56
+    "pricePerGB": 15.16
 }, {
     "name": "Team Elite Plus",
     "price": 80.98,
@@ -4428,13 +4428,13 @@
     "pricePerGB": 10.12
 }, {
     "name": "G.Skill Trident Z",
-    "price": 529.99,
+    "price": 484.98,
     "speed": "DDR4-3600",
     "type": "288-pin DIMM",
     "CAS": "17",
     "modules": "2x16GB",
     "size": "32GB",
-    "pricePerGB": 16.56
+    "pricePerGB": 15.16
 }, {
     "name": "Corsair Vengeance LPX",
     "price": "N/A",
@@ -5400,13 +5400,13 @@
     "pricePerGB": 9.56
 }, {
     "name": "Corsair Vengeance RGB",
-    "price": 900.38,
+    "price": 887.45,
     "speed": "DDR4-2933",
     "type": "288-pin DIMM",
     "CAS": "16",
     "modules": "8x8GB",
     "size": "64GB",
-    "pricePerGB": 14.07
+    "pricePerGB": 13.87
 }, {
     "name": "G.Skill Value",
     "price": "N/A",
@@ -6021,13 +6021,13 @@
     "pricePerGB": 8.22
 }, {
     "name": "Corsair Vengeance RGB",
-    "price": 900.38,
+    "price": 887.45,
     "speed": "DDR4-2933",
     "type": "288-pin DIMM",
     "CAS": "16",
     "modules": "8x8GB",
     "size": "64GB",
-    "pricePerGB": 14.07
+    "pricePerGB": 13.87
 }, {
     "name": "GeIL EVO FORZA",
     "price": 154.99,
@@ -6147,13 +6147,13 @@
     "pricePerGB": 13.12
 }, {
     "name": "Corsair Vengeance",
-    "price": 900.38,
+    "price": 887.45,
     "speed": "DDR4-2933",
     "type": "288-pin DIMM",
     "CAS": "16",
     "modules": "8x8GB",
     "size": "64GB",
-    "pricePerGB": 14.07
+    "pricePerGB": 13.87
 }, {
     "name": "Crucial ",
     "price": 66,
@@ -11268,13 +11268,13 @@
     "pricePerGB": 10.34
 }, {
     "name": "G.Skill NS",
-    "price": 37.37,
+    "price": 33.98,
     "speed": "DDR3-1333",
     "type": "240-pin DIMM",
     "CAS": "9",
     "modules": "2x2GB",
     "size": "4GB",
-    "pricePerGB": 9.34
+    "pricePerGB": 8.49
 }, {
     "name": "Corsair ",
     "price": 368.98,
@@ -14994,13 +14994,13 @@
     "pricePerGB": 10.25
 }, {
     "name": "G.Skill Trident Z RGB",
-    "price": 433.72,
+    "price": 370.98,
     "speed": "DDR4-2666",
     "type": "288-pin DIMM",
     "CAS": "18",
     "modules": "4x8GB",
     "size": "32GB",
-    "pricePerGB": 13.55
+    "pricePerGB": 11.59
 }, {
     "name": "G.Skill Ripjaws V Series",
     "price": 350.98,
@@ -15084,13 +15084,13 @@
     "pricePerGB": 16.69
 }, {
     "name": "Crucial Ballistix Sport",
-    "price": 36.76,
+    "price": 38.64,
     "speed": "DDR3-1600",
     "type": "240-pin DIMM",
     "CAS": "9",
     "modules": "1x4GB",
     "size": "4GB",
-    "pricePerGB": 9.19
+    "pricePerGB": 9.66
 }, {
     "name": "Crucial ",
     "price": "N/A",
@@ -19404,49 +19404,49 @@
     "pricePerGB": null
 }, {
     "name": "Team T-Force DARK",
-    "price": 189.99,
+    "price": 169.99,
     "speed": "DDR4-2400",
     "type": "288-pin DIMM",
     "CAS": "14",
     "modules": "4x4GB",
     "size": "16GB",
-    "pricePerGB": 11.87
+    "pricePerGB": 10.62
 }, {
     "name": "Team T-Force DARK",
-    "price": 189.99,
+    "price": 169.99,
     "speed": "DDR4-2400",
     "type": "288-pin DIMM",
     "CAS": "14",
     "modules": "4x4GB",
     "size": "16GB",
-    "pricePerGB": 11.87
+    "pricePerGB": 10.62
 }, {
     "name": "Team T-Force DARK",
-    "price": 189.99,
+    "price": 169.99,
     "speed": "DDR4-2400",
     "type": "288-pin DIMM",
     "CAS": "14",
     "modules": "4x4GB",
     "size": "16GB",
-    "pricePerGB": 11.87
+    "pricePerGB": 10.62
 }, {
     "name": "Team T-Force DARK",
-    "price": 189.99,
+    "price": 169.99,
     "speed": "DDR4-2400",
     "type": "288-pin DIMM",
     "CAS": "14",
     "modules": "4x4GB",
     "size": "16GB",
-    "pricePerGB": 11.87
+    "pricePerGB": 10.62
 }, {
     "name": "Team T-Force DARK",
-    "price": 189.99,
+    "price": 169.99,
     "speed": "DDR4-2400",
     "type": "288-pin DIMM",
     "CAS": "14",
     "modules": "4x4GB",
     "size": "16GB",
-    "pricePerGB": 11.87
+    "pricePerGB": 10.62
 }, {
     "name": "Team T-Force Vulcan",
     "price": 199.99,
@@ -30483,13 +30483,13 @@
     "pricePerGB": 10.19
 }, {
     "name": "G.Skill Sniper X",
-    "price": "N/A",
+    "price": 350.98,
     "speed": "DDR4-3200",
     "type": "288-pin DIMM",
     "CAS": "16",
     "modules": "2x16GB",
     "size": "32GB",
-    "pricePerGB": null
+    "pricePerGB": 10.97
 }, {
     "name": "Crucial ",
     "price": 79.99,
@@ -30582,13 +30582,13 @@
     "pricePerGB": 9.75
 }, {
     "name": "G.Skill Sniper X",
-    "price": "N/A",
+    "price": 350.98,
     "speed": "DDR4-3200",
     "type": "288-pin DIMM",
     "CAS": "16",
     "modules": "2x16GB",
     "size": "32GB",
-    "pricePerGB": null
+    "pricePerGB": 10.97
 }, {
     "name": "G.Skill Ripjaws 4 Series",
     "price": 95.98,
@@ -30960,13 +30960,13 @@
     "pricePerGB": 14.44
 }, {
     "name": "G.Skill Ripjaws 4 series",
-    "price": 201.58,
+    "price": 180.98,
     "speed": "DDR4-2400",
     "type": "288-pin DIMM",
     "CAS": "14",
     "modules": "4x4GB",
     "size": "16GB",
-    "pricePerGB": 12.6
+    "pricePerGB": 11.31
 }, {
     "name": "Corsair Vengeance LP",
     "price": "N/A",
@@ -31113,13 +31113,13 @@
     "pricePerGB": 12.5
 }, {
     "name": "G.Skill Ripjaws 4 series",
-    "price": 201.58,
+    "price": 180.98,
     "speed": "DDR4-2400",
     "type": "288-pin DIMM",
     "CAS": "14",
     "modules": "4x4GB",
     "size": "16GB",
-    "pricePerGB": 12.6
+    "pricePerGB": 11.31
 }, {
     "name": "Team T-Force Delta RGB",
     "price": "N/A",
@@ -31608,13 +31608,13 @@
     "pricePerGB": 7.94
 }, {
     "name": "Corsair Vengeance",
-    "price": 40.72,
+    "price": 40.99,
     "speed": "DDR3-1600",
     "type": "240-pin DIMM",
     "CAS": "9",
     "modules": "1x4GB",
     "size": "4GB",
-    "pricePerGB": 10.18
+    "pricePerGB": 10.25
 }, {
     "name": "G.Skill Ares Series",
     "price": 126.98,
@@ -32652,13 +32652,13 @@
     "pricePerGB": null
 }, {
     "name": "GeIL EVO FORZA",
-    "price": "N/A",
+    "price": 82.99,
     "speed": "DDR4-2666",
     "type": "288-pin DIMM",
     "CAS": "16",
     "modules": "2x4GB",
     "size": "8GB",
-    "pricePerGB": null
+    "pricePerGB": 10.37
 }, {
     "name": "G.Skill Ripjaws",
     "price": 434.98,
@@ -41445,13 +41445,13 @@
     "pricePerGB": null
 }, {
     "name": "Corsair Vengeance LPX",
-    "price": 724.99,
+    "price": 650.98,
     "speed": "DDR4-2133",
     "type": "288-pin DIMM",
     "CAS": "15",
     "modules": "8x8GB",
     "size": "64GB",
-    "pricePerGB": 11.33
+    "pricePerGB": 10.17
 }, {
     "name": "Mushkin Blackline",
     "price": "N/A",
@@ -42273,13 +42273,13 @@
     "pricePerGB": null
 }, {
     "name": "Corsair ",
-    "price": 724.99,
+    "price": 650.98,
     "speed": "DDR4-2133",
     "type": "288-pin DIMM",
     "CAS": "15",
     "modules": "8x8GB",
     "size": "64GB",
-    "pricePerGB": 11.33
+    "pricePerGB": 10.17
 }, {
     "name": "Silicon Power ",
     "price": "N/A",
