@@ -35,7 +35,8 @@ let computerComponents = [{
 },
 {
     name: 'storage',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/storage.json'
+    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/storage.json',
+    data: []
 }
 ];
 
