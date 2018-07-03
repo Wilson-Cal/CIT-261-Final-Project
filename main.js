@@ -30,7 +30,7 @@ let computerComponents = [{
 },
 {
     name: 'psus',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/psus.json',
+    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/PSUs.json',
     data: []
 },
 {
