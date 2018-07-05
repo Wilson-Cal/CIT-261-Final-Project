@@ -44,6 +44,7 @@ let computerComponents = [{
 ];
 
 let rowCount = 0;
+let modal = document.getElementById('myModal');
 
 function Get(url) {
     return new Promise((resolve) => {
@@ -151,6 +152,49 @@ function getFilteredComponents(category, q) {
     }
 }
 
+function makeModal(itemName, item) {
+    let amazonLink = document.getElementById('amazon-link');
+    let table = document.getElementById('modal-table-body');
+    let tr = document.createElement('tr');
+    let keys = Object.keys(item);
+    let th;
+    let td;
+
+    // First make the modal header
+    document.getElementById('item-name').textContent = itemName;
+
+    // Second, make the column headers
+    while (table.firstChild) {
+        table.removeChild(table.firstChild);
+    }
+
+    keys.forEach(key => {
+        th = document.createElement('th');
+        th.textContent = key;
+        tr.appendChild(th);
+    });
+    table.appendChild(tr);
+
+    // Third, add the data.
+    tr = document.createElement('tr');
+    keys.forEach(key => {
+        td = document.createElement('td');
+        if (key === 'price') {
+            td.textContent = '$' + item[key];
+        } else {
+            td.textContent = item[key];
+        }
+        tr.appendChild(td);
+    });
+    table.appendChild(tr);
+
+    amazonLink.setAttribute('href', `https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=${itemName}`);
+    amazonLink.textContent = itemName;
+
+    // Finally, display the modal to the user.
+    modal.style.display = 'block';
+}
+
 function createTable(filteredComponents) {
     let content = document.querySelector('[class=content]');
     let table = document.querySelector('tbody');
@@ -229,8 +273,16 @@ function createTable(filteredComponents) {
         tr.appendChild(name);
         tr.appendChild(category);
         tr.appendChild(price);
-        tr.addEventListener('click', () => {
+        tr.addEventListener('click', (item) => {
             //TODO: Add the ability to open a modal to show all product detail.
+            let itemName = item.path[1].children[0].textContent;
+            let itemIndex = filteredComponents.findIndex(component => {
+                return component.name.toLowerCase() === itemName.toLowerCase();
+            });
+            if (itemIndex !== -1) {
+                makeModal(itemName, filteredComponents[itemIndex]);
+            }
+
         });
         table.appendChild(tr);
     }
@@ -326,6 +378,16 @@ window.addEventListener('load', () => {
     setCategoryTitle();
     createTable(getFilteredComponents(this.value, document.querySelector('input').value.toLowerCase()));
 });
+
+window.onclick = event => {
+    if (event.target == modal) {
+        modal.style.display = 'none';
+    }
+};
+
+document.getElementsByClassName('close')[0].onclick = () => {
+    modal.style.display = 'none';
+};
 
 document.querySelector('select').addEventListener('change', () => {
     rowCount = 0;

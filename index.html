@@ -21,9 +21,27 @@
     <h1 class="title">PC Part Index</h1>
     <div class="content">
         <h2 id="categoryTitle"></h2>
+
         <table id="components">
             <tbody></tbody>
         </table>
+    </div>
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="close">&times;</span>
+                <h2 id="item-name"></h2>
+            </div>
+            <div class="modal-body">
+                <h3>Information</h3>
+                <table id="components">
+                    <tbody id="modal-table-body"></tbody>
+                </table>
+                <h3>Amazon Link</h3>
+                <a id="amazon-link" target="_blank"></a>
+            </div>
+        </div>
+
     </div>
 </body>
 <script src="main.js"></script>
