@@ -99,11 +99,12 @@ function getFilteredComponents(category, q) {
             i = computerComponents.findIndex(component => {
                 return component.name === category;
             });
-            filteredComponents = computerComponents[i].data.filter(part => {
+            filteredComponents = computerComponents[i].data.filter((part, index) => {
                 partValues = Object.values(part);
                 for (j = 0; j < partValues.length; j++) {
                     if (partValues[j] !== null) {
                         if (partValues[j].toString().toLowerCase().includes(q)) {
+                            computerComponents[i].data[index].category = computerComponents[i].name;
                             return true;
                         }
                     }
@@ -114,16 +115,20 @@ function getFilteredComponents(category, q) {
             i = computerComponents.findIndex(component => {
                 return component.name === category;
             });
+            computerComponents[i].data.forEach((part, index) => {
+                computerComponents[i].data[index].category = computerComponents[i].name;
+            });
             filteredComponents = computerComponents[i].data;
         } else if (q !== undefined) {
             // Only a query is given, run it against all items
-            computerComponents.forEach(component => {
+            computerComponents.forEach((component, index) => {
                 if (component.name !== 'All Items') {
-                    component.data.forEach(item => {
+                    component.data.forEach((item, iIndex) => {
                         partValues = Object.values(item);
                         for (j = 0; j < partValues.length; j++) {
                             if (partValues[j] !== null) {
                                 if (partValues[j].toString().toLowerCase().includes(q)) {
+                                    computerComponents[index].data[iIndex].category = component.name;
                                     filteredComponents.push(item);
                                 }
                             }
@@ -133,9 +138,12 @@ function getFilteredComponents(category, q) {
             });
         } else {
             // Get all items
-            computerComponents.forEach(component => {
+            computerComponents.forEach((component, index) => {
                 if (component.name !== 'All Items') {
-                    component.data.forEach(item => filteredComponents.push(item));
+                    component.data.forEach((item, iIndex) => {
+                        computerComponents[index].data[iIndex].category = component.name;
+                        filteredComponents.push(item);
+                    });
                 }
             });
         }
@@ -148,6 +156,7 @@ function createTable(filteredComponents) {
     var table = document.querySelector('tbody');
     var tr = document.createElement('tr');
     var name = document.createElement('th');
+    var category = document.createElement('th');
     var price = document.createElement('th');
     var btn = document.createElement('button');
     var span = document.createElement('span');
@@ -169,11 +178,13 @@ function createTable(filteredComponents) {
     }
 
     name.textContent = 'Name';
+    category.textContent = 'Category';
     price.textContent = 'Price';
 
     tr.appendChild(name);
+    tr.appendChild(category);
     tr.appendChild(price);
-    tr.setAttribute('id', 'header');
+    //tr.setAttribute('id', 'header');
     table.appendChild(tr);
     if (filteredComponents.length < rowCount + 20) {
         rowCount = filteredComponents.length;
@@ -191,17 +202,21 @@ function createTable(filteredComponents) {
     for (i = 0; i < rowCount; i++) {
         tr = document.createElement('tr');
         name = document.createElement('td');
+        category = document.createElement('td');
         price = document.createElement('td');
         name.textContent = filteredComponents[i].name;
+        category.textContent = filteredComponents[i].category;
         if (filteredComponents[i].price !== 'N/A') {
             price.textContent = '$' + filteredComponents[i].price;
         } else {
             price.textContent = filteredComponents[i].price;
         }
         tr.appendChild(name);
+        tr.appendChild(category);
         tr.appendChild(price);
         tr.addEventListener('click', () => {
             //TODO: Add the ability to open a modul to show all product detail.
+            console.log(filteredComponents);
         });
         table.appendChild(tr);
     }
