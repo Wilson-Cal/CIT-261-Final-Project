@@ -216,7 +216,6 @@ function createTable(filteredComponents) {
         tr.appendChild(price);
         tr.addEventListener('click', () => {
             //TODO: Add the ability to open a modul to show all product detail.
-            console.log(filteredComponents);
         });
         table.appendChild(tr);
     }
