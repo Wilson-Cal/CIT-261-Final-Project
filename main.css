@@ -1,19 +1,27 @@
-/* Heading CSS */
-h1 {
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #222;
+    color: #999;
+}
 
+/* Heading CSS */
+
+h1 {
+    font-size: 45px;
+}
+
+h1.title {
+    margin: 15px;
 }
 
 h2 {
-
+    font-size: 25px;
 }
 
-h3 {
+h3 {}
 
-}
-
-h4 {
-
-}
+h4 {}
 
 /* Paragraph CSS */
 
@@ -21,12 +29,180 @@ p {
     font-size: 16px;
 }
 
+/* Anchor CSS */
+
+a {
+    text-decoration: none;
+    color: #999;
+}
+
+/* Button CSS */
+
+.showMore {
+    display: inline-block;
+    background-color: #444;
+    border: none;
+    color: #999;
+    text-align: center;
+    font-size: 16px;
+    padding: 20px;
+    width: 175px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.showMore:hover {
+    cursor: pointer;
+    background-color: #111;
+}
+
+.showMore span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.showMore span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.showMore:hover span {
+    padding-right: 25px;
+}
+
+.showMore:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
 /* List CSS */
 
 /* NavBar CSS */
 
+.nav {
+    list-style-type: none;
+    background-color: #222;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    height: 46px;
+    border-bottom: 1px solid #111;
+}
+
+.nav>li {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 16px;
+}
+
+.nav>li:hover {
+    background-color: #111;
+    cursor: pointer;
+}
+
+.nav>li.search:hover {
+    cursor: auto;
+    background-color: #222;
+}
+
 /* Table CSS */
+
+#components {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#components td,
+#components th {
+    border: 1px solid #111;
+    padding: 8px;
+}
+
+#components tr:nth-child(even) {
+    background-color: #333;
+}
+
+#components tr:not(:first-child):hover {
+    background-color: #555;
+    cursor: pointer;
+}
+
+#components th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #1212;
+    color: whitesmoke;
+}
+
+#components #header tr:hover {
+    background-color: #222;
+}
 
 /* Input Form CSS */
 
-/* Responsive Design Code */
+.nav>select {
+    height: 46px;
+    font-size: 16px;
+    background-color: #222;
+    width: auto;
+    color: #999;
+    border: none;
+    border-radius: 0px;
+}
+
+.nav>select:hover {
+    background-color: #111;
+}
+
+.nav>input[type=search] {
+    float: right;
+    width: 0px;
+    color: whitesmoke;
+    box-sizing: border-box;
+    border: 2px solid #222;
+    font-size: 16px;
+    background-color: #222;
+    background-image: url('searchicon.png');
+    background-position: 20px 13px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+.nav>input[type=search]:hover {
+    width: 500px;
+}
+
+.nav>input[type=search]:focus {
+    width: 500px;
+    background-color: #333;
+    color: whitesmoke;
+}
+
+/* Content Container CSS */
+
+.content {
+    margin: 75px;
+}
+
+/* Responsive Design CSS */
+
+@font-face {
+    font-family: "San Francisco";
+    font-weight: 400;
+    src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
