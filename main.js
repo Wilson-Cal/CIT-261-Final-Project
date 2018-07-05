@@ -47,7 +47,7 @@ let rowCount = 0;
 
 function Get(url) {
     return new Promise((resolve) => {
-        var xhttp = new XMLHttpRequest();
+        let xhttp = new XMLHttpRequest();
         xhttp.onreadystatechange = function () {
             if (this.readyState == 4 && this.status == 200) {
                 resolve(this.responseText);
@@ -59,9 +59,9 @@ function Get(url) {
 }
 
 function setCategoriesDropdown() {
-    var categories = document.querySelector('[id=categories]');
+    let categories = document.querySelector('[id=categories]');
     computerComponents.forEach(component => {
-        var option = document.createElement('option');
+        let option = document.createElement('option');
         option.setAttribute('value', component.name);
         option.appendChild(document.createTextNode(component.name));
         categories.appendChild(option);
@@ -73,8 +73,8 @@ function setCategoryTitle(category = document.querySelector('select').value) {
 }
 
 function getFilteredComponents(category, q) {
-    var filteredComponents = [];
-    var i, j;
+    let filteredComponents = [];
+    let i, j;
     let partValues;
 
     // Set category to undefined if 'All Items' is selected
@@ -152,15 +152,15 @@ function getFilteredComponents(category, q) {
 }
 
 function createTable(filteredComponents) {
-    var content = document.querySelector('[class=content]');
-    var table = document.querySelector('tbody');
-    var tr = document.createElement('tr');
-    var name = document.createElement('th');
-    var category = document.createElement('th');
-    var price = document.createElement('th');
-    var btn = document.createElement('button');
-    var span = document.createElement('span');
-    var i;
+    let content = document.querySelector('[class=content]');
+    let table = document.querySelector('tbody');
+    let tr = document.createElement('tr');
+    let name = document.createElement('th');
+    let category = document.createElement('th');
+    let price = document.createElement('th');
+    let btn = document.createElement('button');
+    let span = document.createElement('span');
+    let i;
 
     if (document.querySelector('button') !== null) {
         content.removeChild(document.querySelector('button'));
@@ -181,10 +181,25 @@ function createTable(filteredComponents) {
     category.textContent = 'Category';
     price.textContent = 'Price';
 
+    name.addEventListener('click', () => {
+        sortTable(0);
+    });
+
+    category.addEventListener('click', () => {
+        sortTable(1);
+    });
+
+    price.addEventListener('click', () => {
+        sortTable(2);
+    });
+
+    name.setAttribute('class', 'sort-by');
+    category.setAttribute('class', 'sort-by');
+    price.setAttribute('class', 'sort-by');
+
     tr.appendChild(name);
     tr.appendChild(category);
     tr.appendChild(price);
-    //tr.setAttribute('id', 'header');
     table.appendChild(tr);
     if (filteredComponents.length < rowCount + 20) {
         rowCount = filteredComponents.length;
@@ -215,9 +230,85 @@ function createTable(filteredComponents) {
         tr.appendChild(category);
         tr.appendChild(price);
         tr.addEventListener('click', () => {
-            //TODO: Add the ability to open a modul to show all product detail.
+            //TODO: Add the ability to open a modal to show all product detail.
         });
         table.appendChild(tr);
+    }
+}
+
+function sortTable(n) {
+    let table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0,
+        xNum, yNum;
+    table = document.getElementById('components');
+    switching = true;
+    //Set the sorting direction to ascending:
+    dir = 'asc';
+    /*Make a loop that will continue until
+    no switching has been done:*/
+    while (switching) {
+        //start by saying: no switching is done:
+        switching = false;
+        rows = table.getElementsByTagName('TR');
+        /*Loop through all table rows (except the
+        first, which contains table headers):*/
+        for (i = 1; i < rows.length - 1; i++) {
+            //start by saying there should be no switching:
+            shouldSwitch = false;
+            /*Get the two elements you want to compare,
+            one from current row and one from the next:*/
+            x = rows[i].getElementsByTagName('TD')[n];
+            y = rows[i + 1].getElementsByTagName('TD')[n];
+            /*check if the two rows should switch place,
+            based on the direction, asc or desc:*/
+            if (dir === 'asc') {
+                if (n !== 2) {
+                    if (x.textContent.toLowerCase() > y.textContent.toLowerCase()) {
+                        //if so, mark as a switch and break the loop:
+                        shouldSwitch = true;
+                        break;
+                    }
+                } else {
+                    xNum = Number(x.textContent.substr(1));
+                    yNum = Number(y.textContent.substr(1));
+                    if (xNum > yNum) {
+                        //if so, mark as a switch and break the loop:
+                        shouldSwitch = true;
+                        break;
+                    }
+                }
+            } else if (dir === 'desc') {
+                if (n !== 2) {
+                    if (x.textContent.toLowerCase() < y.textContent.toLowerCase()) {
+                        //if so, mark as a switch and break the loop:
+                        shouldSwitch = true;
+                        break;
+                    }
+                } else {
+                    xNum = Number(x.textContent.substr(1));
+                    yNum = Number(y.textContent.substr(1));
+                    if (xNum < yNum) {
+                        //if so, mark as a switch and break the loop:
+                        shouldSwitch = true;
+                        break;
+                    }
+                }
+            }
+        }
+        if (shouldSwitch) {
+            /*If a switch has been marked, make the switch
+            and mark that a switch has been done:*/
+            rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+            switching = true;
+            //Each time a switch is done, increase this count by 1:
+            switchcount++;
+        } else {
+            /*If no switching has been done AND the direction is "asc",
+            set the direction to "desc" and run the while loop again.*/
+            if (switchcount === 0 && dir === 'asc') {
+                dir = 'desc';
+                switching = true;
+            }
+        }
     }
 }
 
