@@ -188,7 +188,7 @@ function makeModal(itemName, item) {
     });
     table.appendChild(tr);
 
-    amazonLink.setAttribute('href', `https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=${itemName}`);
+    amazonLink.setAttribute('href', `https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dcomputers&field-keywords=${itemName}`);
     amazonLink.textContent = itemName;
 
     // Finally, display the modal to the user.
@@ -274,8 +274,7 @@ function createTable(filteredComponents) {
         tr.appendChild(category);
         tr.appendChild(price);
         tr.addEventListener('click', (item) => {
-            //TODO: Add the ability to open a modal to show all product detail.
-            let itemName = item.path[1].children[0].textContent;
+            let itemName = item.target.parentNode.children[0].textContent;
             let itemIndex = filteredComponents.findIndex(component => {
                 return component.name.toLowerCase() === itemName.toLowerCase();
             });

@@ -167,10 +167,6 @@ a {
     color: whitesmoke;
 }
 
-#components #header tr:hover {
-    background-color: #222;
-}
-
 th.sort-by {
     padding-right: 18px;
     position: relative;
