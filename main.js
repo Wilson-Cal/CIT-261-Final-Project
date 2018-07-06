@@ -134,6 +134,7 @@ function getFilteredComponents(category, q) {
                                 if (partValues[j].toString().toLowerCase().includes(q)) {
                                     computerComponents[index].data[iIndex].category = component.name;
                                     filteredComponents.push(item);
+                                    break;
                                 }
                             }
                         }
