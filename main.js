@@ -95,7 +95,7 @@ function getFilteredComponents(category, q) {
     if (computerComponents[8].data.length === 0) {
         window.setTimeout(() => {
             createTable(getFilteredComponents(category, q));
-        }, 100);
+        }, 150);
     } else {
         // Get the correct items to put into the table
         if (q !== undefined && category !== undefined) {
