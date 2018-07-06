@@ -55,6 +55,14 @@ a {
     color: whitesmoke;
 }
 
+#newegg-link {
+    text-decoration: underline;
+}
+
+#newegg-link:hover {
+    color: whitesmoke;
+}
+
 /* Button CSS */
 
 .showMore {
@@ -342,6 +350,16 @@ th.sort-by:after {
 .modal-body {
     padding: 2px 16px;
     overflow-x: auto;
+}
+
+/* Footer CSS */
+
+footer {
+    text-align: center;
+}
+
+footer>ul>li {
+    list-style-type: none;
 }
 
 /* Responsive Design CSS */

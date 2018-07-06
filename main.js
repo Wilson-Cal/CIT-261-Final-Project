@@ -1,46 +1,46 @@
 let computerComponents = [{
-        name: 'All Items'
-    },
-    {
-        name: 'Cases',
-        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/cases.json',
-        data: []
-    },
-    {
-        name: 'Coolers',
-        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/coolers.json',
-        data: []
-    },
-    {
-        name: 'Graphics Cards',
-        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/GPUs.json',
-        data: []
-    },
-    {
-        name: 'Memory',
-        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/memory.json',
-        data: []
-    },
-    {
-        name: 'Motherboards',
-        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/motherboards.json',
-        data: []
-    },
-    {
-        name: 'Power Supply Units',
-        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/PSUs.json',
-        data: []
-    },
-    {
-        name: 'Processors',
-        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/CPUs.json',
-        data: []
-    },
-    {
-        name: 'Storage',
-        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/storage.json',
-        data: []
-    }
+    name: 'All Items'
+},
+{
+    name: 'Cases',
+    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/cases.json',
+    data: []
+},
+{
+    name: 'Coolers',
+    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/coolers.json',
+    data: []
+},
+{
+    name: 'Graphics Cards',
+    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/GPUs.json',
+    data: []
+},
+{
+    name: 'Memory',
+    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/memory.json',
+    data: []
+},
+{
+    name: 'Motherboards',
+    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/motherboards.json',
+    data: []
+},
+{
+    name: 'Power Supply Units',
+    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/PSUs.json',
+    data: []
+},
+{
+    name: 'Processors',
+    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/CPUs.json',
+    data: []
+},
+{
+    name: 'Storage',
+    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/storage.json',
+    data: []
+}
 ];
 
 let rowCount = 0;
@@ -154,6 +154,7 @@ function getFilteredComponents(category, q) {
 
 function makeModal(itemName, item) {
     let amazonLink = document.getElementById('amazon-link');
+    let neweggLink = document.getElementById('newegg-link');
     let table = document.getElementById('modal-table-body');
     let tr = document.createElement('tr');
     let keys = Object.keys(item);
@@ -190,6 +191,9 @@ function makeModal(itemName, item) {
 
     amazonLink.setAttribute('href', `https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dcomputers&field-keywords=${itemName}`);
     amazonLink.textContent = itemName;
+
+    neweggLink.setAttribute('href', `https://www.newegg.com/Product/ProductList.aspx?Submit=ENE&DEPA=0&Order=BESTMATCH&Description=${itemName}`);
+    neweggLink.textContent = itemName;
 
     // Finally, display the modal to the user.
     modal.style.display = 'block';
