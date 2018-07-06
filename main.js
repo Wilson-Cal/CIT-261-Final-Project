@@ -1,46 +1,46 @@
 let computerComponents = [{
-    name: 'All Items'
-},
-{
-    name: 'Cases',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/cases.json',
-    data: []
-},
-{
-    name: 'Coolers',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/coolers.json',
-    data: []
-},
-{
-    name: 'Graphics Cards',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/GPUs.json',
-    data: []
-},
-{
-    name: 'Memory',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/memory.json',
-    data: []
-},
-{
-    name: 'Motherboards',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/motherboards.json',
-    data: []
-},
-{
-    name: 'Power Supply Units',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/PSUs.json',
-    data: []
-},
-{
-    name: 'Processors',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/CPUs.json',
-    data: []
-},
-{
-    name: 'Storage',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/storage.json',
-    data: []
-}
+        name: 'All Items'
+    },
+    {
+        name: 'Cases',
+        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/cases.json',
+        data: []
+    },
+    {
+        name: 'Coolers',
+        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/coolers.json',
+        data: []
+    },
+    {
+        name: 'Graphics Cards',
+        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/GPUs.json',
+        data: []
+    },
+    {
+        name: 'Memory',
+        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/memory.json',
+        data: []
+    },
+    {
+        name: 'Motherboards',
+        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/motherboards.json',
+        data: []
+    },
+    {
+        name: 'Power Supply Units',
+        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/PSUs.json',
+        data: []
+    },
+    {
+        name: 'Processors',
+        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/CPUs.json',
+        data: []
+    },
+    {
+        name: 'Storage',
+        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/storage.json',
+        data: []
+    }
 ];
 
 let rowCount = 0;
@@ -321,6 +321,10 @@ function sortTable(n) {
                 } else {
                     xNum = Number(x.textContent.substr(1));
                     yNum = Number(y.textContent.substr(1));
+                    if (isNaN(xNum))
+                        xNum = 0;
+                    if (isNaN(yNum))
+                        yNum = 0;
                     if (xNum > yNum) {
                         //if so, mark as a switch and break the loop:
                         shouldSwitch = true;
@@ -337,6 +341,10 @@ function sortTable(n) {
                 } else {
                     xNum = Number(x.textContent.substr(1));
                     yNum = Number(y.textContent.substr(1));
+                    if (isNaN(xNum))
+                        xNum = 0;
+                    if (isNaN(yNum))
+                        yNum = 0;
                     if (xNum < yNum) {
                         //if so, mark as a switch and break the loop:
                         shouldSwitch = true;
