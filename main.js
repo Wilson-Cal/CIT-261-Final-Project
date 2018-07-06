@@ -74,9 +74,12 @@ function setCategoryTitle(category = document.querySelector('select').value) {
 }
 
 function getFilteredComponents(category, q) {
+    let categoryTitle = document.getElementById('categoryTitle');
+    let resultsMsg = document.createElement('p');
     let filteredComponents = [];
     let i, j;
     let partValues;
+
 
     // Set category to undefined if 'All Items' is selected
     if (category === 'All Items') {
@@ -148,6 +151,12 @@ function getFilteredComponents(category, q) {
                 }
             });
         }
+        if (document.getElementById('resultsMsg') !== null) {
+            categoryTitle.removeChild(document.getElementById('resultsMsg'));
+        }
+        resultsMsg.textContent = `${filteredComponents.length} results found`;
+        resultsMsg.setAttribute('id', 'resultsMsg');
+        categoryTitle.appendChild(resultsMsg);
         return filteredComponents;
     }
 }
@@ -408,6 +417,11 @@ document.querySelector('select').addEventListener('change', () => {
 });
 
 document.querySelector('input').addEventListener('keyup', () => {
+    rowCount = 0;
+    createTable(getFilteredComponents(document.querySelector('select').value, document.querySelector('input').value.toLowerCase()));
+});
+
+document.querySelector('input').addEventListener('change', () => {
     rowCount = 0;
     createTable(getFilteredComponents(document.querySelector('select').value, document.querySelector('input').value.toLowerCase()));
 });
