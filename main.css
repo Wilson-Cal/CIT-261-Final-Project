@@ -358,6 +358,10 @@ footer {
     text-align: center;
 }
 
+footer>ul {
+    padding: 0px;
+}
+
 footer>ul>li {
     list-style-type: none;
 }
