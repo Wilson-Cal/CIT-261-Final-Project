@@ -48,8 +48,7 @@ a {
 }
 
 #amazon-link {
-    color: 999;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 #amazon-link:hover {
@@ -101,8 +100,6 @@ a {
     opacity: 1;
     right: 0;
 }
-
-/* List CSS */
 
 /* NavBar CSS */
 
@@ -164,6 +161,33 @@ a {
     padding-bottom: 12px;
     text-align: left;
     background-color: #1212;
+    color: whitesmoke;
+}
+
+#modal-components {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#modal-components td,
+#modal-components th {
+    border: 1px solid #111;
+    padding: 8px;
+}
+
+#modal-components tr:nth-child(even) {
+    background-color: #333;
+}
+
+#modal-components tr:not(:first-child):hover {
+    background-color: #555;
+}
+
+#modal-components th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #222;
     color: whitesmoke;
 }
 
@@ -246,25 +270,16 @@ th.sort-by:after {
 
 .modal {
     display: none;
-    /* Hidden by default */
     position: fixed;
-    /* Stay in place */
     z-index: 1;
-    /* Sit on top */
     padding-top: 100px;
-    /* Location of the box */
     left: 0;
     top: 0;
     width: 100%;
-    /* Full width */
     height: 100%;
-    /* Full height */
     overflow: auto;
-    /* Enable scroll if needed */
     background-color: rgb(0, 0, 0);
-    /* Fallback color */
     background-color: rgba(0, 0, 0, 0.4);
-    /* Black w/ opacity */
 }
 
 .modal-content {
@@ -274,6 +289,7 @@ th.sort-by:after {
     padding: 0;
     border: 1px solid #888;
     width: 80%;
+    height: 500px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     -webkit-animation-name: animatetop;
     -webkit-animation-duration: 0.4s;
@@ -325,6 +341,25 @@ th.sort-by:after {
 
 .modal-body {
     padding: 2px 16px;
+    overflow-x: auto;
 }
 
 /* Responsive Design CSS */
+
+@media only screen and (max-width:768px) {
+    .content {
+        margin: 10px;
+    }
+    .nav>input[type=search]:hover {
+        width: 50%;
+    }
+    h1.title {
+        margin: 10px;
+    }
+    .nav>select {
+        width: 30%;
+    }
+    .nav>li {
+        width: 20%
+    }
+}
