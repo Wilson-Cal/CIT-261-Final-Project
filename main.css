@@ -372,9 +372,7 @@ footer>ul>li {
     left: 50%;
     top: 50%;
     z-index: 1;
-    width: 150px;
-    height: 150px;
-    margin: -75px 0 0 -75px;
+    margin: -35px 0 0 -35px;
     border: 10px solid #444;
     border-radius: 50%;
     border-top: 10px solid whitesmoke;
