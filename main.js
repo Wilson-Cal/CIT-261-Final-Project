@@ -75,14 +75,13 @@ function setCategoryTitle(category = document.querySelector('select').value) {
 
 function getFilteredComponents(category, q) {
     let categoryTitle = document.getElementById('categoryTitle');
-    let footer = document.getElementsByTagName('footer')[0];
     let resultsMsg = document.createElement('p');
     let loader = document.getElementById('loader');
     let filteredComponents = [];
     let i, j;
     let partValues;
 
-    
+
     // Set category to undefined if 'All Items' is selected
     if (category === 'All Items') {
         category = undefined;
@@ -95,7 +94,6 @@ function getFilteredComponents(category, q) {
 
     // Check to see if the data is there
     if (computerComponents[8].data.length === 0) {
-        footer.style.display = 'none';
         loader.style.display = 'block';
         window.setTimeout(() => {
             createTable(getFilteredComponents(category, q));
@@ -163,8 +161,6 @@ function getFilteredComponents(category, q) {
         resultsMsg.textContent = `${filteredComponents.length} results found`;
         resultsMsg.setAttribute('id', 'resultsMsg');
         categoryTitle.appendChild(resultsMsg);
-
-        footer.style.display = 'block';
         return filteredComponents;
     }
 }
@@ -218,6 +214,7 @@ function makeModal(itemName, item) {
 
 function createTable(filteredComponents) {
     let content = document.querySelector('[class=content]');
+    let footer = document.getElementsByTagName('footer')[0];
     let table = document.querySelector('tbody');
     let tr = document.createElement('tr');
     let name = document.createElement('th');
@@ -306,6 +303,7 @@ function createTable(filteredComponents) {
         });
         table.appendChild(tr);
     }
+    footer.style.display = 'block';
 }
 
 function sortTable(n) {

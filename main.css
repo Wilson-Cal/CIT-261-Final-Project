@@ -355,6 +355,7 @@ th.sort-by:after {
 
 footer {
     text-align: center;
+    display: none;
 }
 
 footer>ul {
