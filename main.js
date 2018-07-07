@@ -82,7 +82,7 @@ function getFilteredComponents(category, q) {
     let i, j;
     let partValues;
 
-
+    
     // Set category to undefined if 'All Items' is selected
     if (category === 'All Items') {
         category = undefined;
