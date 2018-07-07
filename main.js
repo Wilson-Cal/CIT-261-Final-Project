@@ -75,7 +75,9 @@ function setCategoryTitle(category = document.querySelector('select').value) {
 
 function getFilteredComponents(category, q) {
     let categoryTitle = document.getElementById('categoryTitle');
+    let footer = document.getElementsByTagName('footer')[0];
     let resultsMsg = document.createElement('p');
+    let loader = document.getElementById('loader');
     let filteredComponents = [];
     let i, j;
     let partValues;
@@ -93,11 +95,15 @@ function getFilteredComponents(category, q) {
 
     // Check to see if the data is there
     if (computerComponents[8].data.length === 0) {
+        footer.style.display = 'none';
+        loader.style.display = 'block';
         window.setTimeout(() => {
             createTable(getFilteredComponents(category, q));
         }, 150);
     } else {
         // Get the correct items to put into the table
+        loader.style.display = 'none';
+        footer.style.display = 'block';
         if (q !== undefined && category !== undefined) {
             // The user has defined a category and a search parameter
             i = computerComponents.findIndex(component => {
