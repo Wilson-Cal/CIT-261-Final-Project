@@ -103,7 +103,6 @@ function getFilteredComponents(category, q) {
     } else {
         // Get the correct items to put into the table
         loader.style.display = 'none';
-        footer.style.display = 'block';
         if (q !== undefined && category !== undefined) {
             // The user has defined a category and a search parameter
             i = computerComponents.findIndex(component => {
@@ -164,6 +163,8 @@ function getFilteredComponents(category, q) {
         resultsMsg.textContent = `${filteredComponents.length} results found`;
         resultsMsg.setAttribute('id', 'resultsMsg');
         categoryTitle.appendChild(resultsMsg);
+
+        footer.style.display = 'block';
         return filteredComponents;
     }
 }
