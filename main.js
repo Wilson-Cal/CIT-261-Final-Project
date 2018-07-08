@@ -175,7 +175,7 @@ function makeModal(itemName, item) {
     let td;
 
     // First make the modal header
-    document.getElementById('item-name').textContent = itemName;
+    document.getElementById('item-name').innerHTML = itemName;
 
     // Second, make the column headers
     while (table.firstChild) {
@@ -207,6 +207,20 @@ function makeModal(itemName, item) {
 
     neweggLink.setAttribute('href', `https://www.newegg.com/Product/ProductList.aspx?Submit=ENE&DEPA=0&Order=BESTMATCH&Description=${itemName}`);
     neweggLink.textContent = itemName;
+
+    document.getElementsByClassName('favorite')[0].addEventListener('click', () => {
+        if (document.getElementsByClassName('favorite')[0].getAttribute('data-star') === 'off') {
+            document.getElementsByClassName('favorite')[0].setAttribute('data-star', 'on');
+            document.getElementsByClassName('favorite')[0].innerHTML = '&#9733;';
+            document.getElementsByClassName('favorite')[0].removeEventListener('pointerleave', changeStar);
+            addFavorite(item);
+        } else {
+            document.getElementsByClassName('favorite')[0].setAttribute('data-star', 'off');
+            document.getElementsByClassName('favorite')[0].innerHTML = '&#9734;';
+            document.getElementsByClassName('favorite')[0].addEventListener('pointerleave', changeStar);
+            removeFavorite(item);
+        }
+    });
 
     // Finally, display the modal to the user.
     modal.style.display = 'block';
@@ -390,6 +404,31 @@ function sortTable(n) {
     }
 }
 
+function getFavorites() {
+    return JSON.parse(localStorage.getItem('favorites'));
+}
+
+function addFavorite(newFavorite) {
+    let favorites = getFavorites();
+    if (favorites === null) {
+        favorites = [];
+    }
+    favorites.push(newFavorite);
+    localStorage.setItem('favorites', JSON.stringify(favorites));
+}
+
+function removeFavorite(removedFavorite) {
+    let favorites = getFavorites();
+    favorites = favorites.filter((favorite) => {
+        return favorite.name !== removedFavorite.name;
+    });
+    localStorage.setItem('favorites', JSON.stringify(favorites));
+}
+
+function changeStar() {
+    document.getElementsByClassName('favorite')[0].innerHTML = '&#9734;';
+}
+
 
 window.addEventListener('load', () => {
     // Get the data for each component
@@ -431,3 +470,9 @@ document.querySelector('input').addEventListener('change', () => {
     rowCount = 0;
     createTable(getFilteredComponents(document.querySelector('select').value, document.querySelector('input').value.toLowerCase()));
 });
+
+document.getElementsByClassName('favorite')[0].addEventListener('pointerover', () => {
+    document.getElementsByClassName('favorite')[0].innerHTML = '&#9733;';
+});
+
+document.getElementsByClassName('favorite')[0].addEventListener('pointerleave', changeStar);

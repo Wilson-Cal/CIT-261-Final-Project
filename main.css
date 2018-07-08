@@ -304,6 +304,14 @@ th.sort-by:after {
     animation-duration: 0.4s
 }
 
+.favorite {
+    float: left;
+}
+
+.favorite:hover {
+    cursor: pointer;
+}
+
 @-webkit-keyframes animatetop {
     from {
         top: -300px;
@@ -341,7 +349,7 @@ th.sort-by:after {
 }
 
 .modal-header {
-    padding: 2px 16px;
+    padding: 0.5px 5px;
     background-color: #222;
     color: #999;
 }
