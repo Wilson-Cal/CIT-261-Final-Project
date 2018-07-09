@@ -304,6 +304,14 @@ th.sort-by:after {
     animation-duration: 0.4s
 }
 
+.favorite {
+    float: left;
+}
+
+.favorite:hover {
+    cursor: pointer;
+}
+
 @-webkit-keyframes animatetop {
     from {
         top: -300px;

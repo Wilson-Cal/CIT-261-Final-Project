@@ -169,6 +169,8 @@ function makeModal(itemName, item) {
     let amazonLink = document.getElementById('amazon-link');
     let neweggLink = document.getElementById('newegg-link');
     let table = document.getElementById('modal-table-body');
+    let favorites = getFavorites();
+    let favoriteStar = document.getElementsByClassName('favorite')[0];
     let tr = document.createElement('tr');
     let keys = Object.keys(item);
     let th;
@@ -207,6 +209,31 @@ function makeModal(itemName, item) {
 
     neweggLink.setAttribute('href', `https://www.newegg.com/Product/ProductList.aspx?Submit=ENE&DEPA=0&Order=BESTMATCH&Description=${itemName}`);
     neweggLink.textContent = itemName;
+
+    if (favorites === null) {
+        console.log(favoriteStar);
+        favoriteStar.innerHTML = '&#9734;';
+        favoriteStar.setAttribute('data-star', 'off');
+    } else if (favorites.length > 0) {
+        // Search to see if the selected item is a favorite
+        let i = favorites.findIndex(favorite => {
+            return favorite.name.toLowerCase() === itemName.toLowerCase();
+        });
+        if (i !== -1) {
+            // The item is a favorite
+            favoriteStar.innerHTML = '&#9733;';
+            favoriteStar.setAttribute('data-star', 'on');
+        } else {
+            // The item is not a favorite
+            favoriteStar.innerHTML = '&#9734;';
+            favoriteStar.setAttribute('data-star', 'off');
+        }
+    } else {
+        // The user has no favorites
+        favoriteStar.innerHTML = '&#9734;';
+        favoriteStar.setAttribute('data-star', 'off');
+    }
+
 
     // Finally, display the modal to the user.
     modal.style.display = 'block';
@@ -390,6 +417,9 @@ function sortTable(n) {
     }
 }
 
+function getFavorites() {
+    return JSON.parse(localStorage.getItem('favorites'));
+}
 
 window.addEventListener('load', () => {
     // Get the data for each component
@@ -430,4 +460,39 @@ document.querySelector('input').addEventListener('keyup', () => {
 document.querySelector('input').addEventListener('change', () => {
     rowCount = 0;
     createTable(getFilteredComponents(document.querySelector('select').value, document.querySelector('input').value.toLowerCase()));
+});
+
+document.getElementsByClassName('favorite')[0].addEventListener('click', () => {
+    let modalTable = document.getElementById('modal-table-body');
+    let itemKeys = modalTable.getElementsByTagName('th');
+    let itemValues = modalTable.getElementsByTagName('td');
+    let favoriteStar = document.getElementsByClassName('favorite')[0];
+    let favorites = getFavorites();
+    let favoriteObj = {};
+
+    if (favorites === null) {
+        favorites = [];
+    }
+    if (favoriteStar.getAttribute('data-star') === 'off') {
+        // User wants to add a favorite
+        for (let i = 0; i < itemKeys.length; i++) {
+            favoriteObj[itemKeys[i].textContent] = itemValues[i].textContent;
+        }
+        console.log('Adding Favorite');
+        favorites.push(favoriteObj);
+        localStorage.setItem('favorites', JSON.stringify(favorites));
+        console.log('Current Favorites', getFavorites());
+        favoriteStar.setAttribute('data-star', 'on');
+        favoriteStar.innerHTML = '&#9733;';
+    } else if (favoriteStar.getAttribute('data-star') === 'on') {
+        // User wants to remove a favorite
+        console.log('Removing Favorite');
+        favorites = favorites.filter(favorite => {
+            return favorite.name.toLowerCase() !== document.getElementById('item-name').textContent.toLowerCase();
+        });
+        localStorage.setItem('favorites', JSON.stringify(favorites));
+        console.log('Current Favorites', getFavorites());
+        favoriteStar.setAttribute('data-star', 'off');
+        favoriteStar.innerHTML = '&#9734;';
+    }
 });
