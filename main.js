@@ -1,46 +1,46 @@
 let computerComponents = [{
-    name: 'All Items'
-},
-{
-    name: 'Cases',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/cases.json',
-    data: []
-},
-{
-    name: 'Coolers',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/coolers.json',
-    data: []
-},
-{
-    name: 'Graphics Cards',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/GPUs.json',
-    data: []
-},
-{
-    name: 'Memory',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/memory.json',
-    data: []
-},
-{
-    name: 'Motherboards',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/motherboards.json',
-    data: []
-},
-{
-    name: 'Power Supply Units',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/PSUs.json',
-    data: []
-},
-{
-    name: 'Processors',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/CPUs.json',
-    data: []
-},
-{
-    name: 'Storage',
-    url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/storage.json',
-    data: []
-}
+        name: 'All Items'
+    },
+    {
+        name: 'Cases',
+        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/cases.json',
+        data: []
+    },
+    {
+        name: 'Coolers',
+        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/coolers.json',
+        data: []
+    },
+    {
+        name: 'Graphics Cards',
+        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/GPUs.json',
+        data: []
+    },
+    {
+        name: 'Memory',
+        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/memory.json',
+        data: []
+    },
+    {
+        name: 'Motherboards',
+        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/motherboards.json',
+        data: []
+    },
+    {
+        name: 'Power Supply Units',
+        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/PSUs.json',
+        data: []
+    },
+    {
+        name: 'Processors',
+        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/CPUs.json',
+        data: []
+    },
+    {
+        name: 'Storage',
+        url: 'https://raw.githubusercontent.com/Wilson-Cal/CIT-261-Final-Project/master/components/storage.json',
+        data: []
+    }
 ];
 
 let rowCount = 0;
@@ -332,8 +332,6 @@ function createTable(filteredComponents) {
         });
         table.appendChild(tr);
     }
-
-
     resultsMsg.textContent = `${filteredComponents.length} results found`;
     resultsMsg.setAttribute('id', 'resultsMsg');
     categoryTitle.appendChild(resultsMsg);
@@ -439,6 +437,9 @@ window.addEventListener('load', () => {
     });
     setCategoriesDropdown();
     setCategoryTitle();
+    if (localStorage.getItem('favorites') === null) {
+        localStorage.setItem('favorites', JSON.stringify([]));
+    }
     createTable(getFilteredComponents(this.value, document.querySelector('input').value.toLowerCase()));
 });
 
@@ -460,7 +461,7 @@ document.querySelector('select').addEventListener('change', () => {
         setCategoryTitle(this.value);
         document.getElementsByClassName('content')[0].setAttribute('id', 'animate-bottom');
         createTable(getFilteredComponents(document.querySelector('select').value, document.querySelector('input').value.toLowerCase()));
-    }, 10);
+    }, 25);
 
 });
 
@@ -476,11 +477,13 @@ document.querySelector('input').addEventListener('change', () => {
 
 document.getElementById('favorites').addEventListener('click', () => {
     rowCount = 0;
+    document.getElementById('categoryTitle').textContent = 'Favorites';
     document.getElementsByClassName('content')[0].setAttribute('id', 'animate');
     window.setTimeout(() => {
         document.getElementsByClassName('content')[0].setAttribute('id', 'animate-bottom');
         createTable(getFavorites());
-    }, 10);
+        document.querySelector('footer').style.display = 'none';
+    }, 25);
 });
 
 document.getElementsByClassName('favorite')[0].addEventListener('click', () => {
