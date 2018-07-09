@@ -74,8 +74,6 @@ function setCategoryTitle(category = document.querySelector('select').value) {
 }
 
 function getFilteredComponents(category, q) {
-    let categoryTitle = document.getElementById('categoryTitle');
-    let resultsMsg = document.createElement('p');
     let loader = document.getElementById('loader');
     let filteredComponents = [];
     let i, j;
@@ -93,7 +91,7 @@ function getFilteredComponents(category, q) {
     }
 
     // Check to see if the data is there
-    if (computerComponents[8].data.length === 0) {
+    if (computerComponents[8].data.length === 0 || computerComponents[4].data.length === 0) {
         loader.style.display = 'block';
         window.setTimeout(() => {
             createTable(getFilteredComponents(category, q));
@@ -155,12 +153,7 @@ function getFilteredComponents(category, q) {
                 }
             });
         }
-        if (document.getElementById('resultsMsg') !== null) {
-            categoryTitle.removeChild(document.getElementById('resultsMsg'));
-        }
-        resultsMsg.textContent = `${filteredComponents.length} results found`;
-        resultsMsg.setAttribute('id', 'resultsMsg');
-        categoryTitle.appendChild(resultsMsg);
+
         return filteredComponents;
     }
 }
@@ -249,10 +242,16 @@ function createTable(filteredComponents) {
     let price = document.createElement('th');
     let btn = document.createElement('button');
     let span = document.createElement('span');
+    let resultsMsg = document.createElement('p');
+    let categoryTitle = document.getElementById('categoryTitle');
     let i;
 
     if (document.querySelector('button') !== null) {
         content.removeChild(document.querySelector('button'));
+    }
+
+    if (document.getElementById('resultsMsg') !== null) {
+        categoryTitle.removeChild(document.getElementById('resultsMsg'));
     }
 
     // Reset the table
@@ -263,6 +262,9 @@ function createTable(filteredComponents) {
         return;
     }
     if (filteredComponents.length === 0) {
+        resultsMsg.textContent = `${filteredComponents.length} results found`;
+        resultsMsg.setAttribute('id', 'resultsMsg');
+        categoryTitle.appendChild(resultsMsg);
         return;
     }
 
@@ -330,6 +332,11 @@ function createTable(filteredComponents) {
         });
         table.appendChild(tr);
     }
+
+
+    resultsMsg.textContent = `${filteredComponents.length} results found`;
+    resultsMsg.setAttribute('id', 'resultsMsg');
+    categoryTitle.appendChild(resultsMsg);
     footer.style.display = 'block';
 }
 
@@ -447,9 +454,14 @@ document.getElementsByClassName('close')[0].onclick = () => {
 
 document.querySelector('select').addEventListener('change', () => {
     rowCount = 0;
-    document.querySelector('input').value = '';
-    setCategoryTitle(this.value);
-    createTable(getFilteredComponents(document.querySelector('select').value, document.querySelector('input').value.toLowerCase()));
+    document.getElementsByClassName('content')[0].setAttribute('id', 'animate');
+    window.setTimeout(() => {
+        document.querySelector('input').value = '';
+        setCategoryTitle(this.value);
+        document.getElementsByClassName('content')[0].setAttribute('id', 'animate-bottom');
+        createTable(getFilteredComponents(document.querySelector('select').value, document.querySelector('input').value.toLowerCase()));
+    }, 10);
+
 });
 
 document.querySelector('input').addEventListener('keyup', () => {
@@ -460,6 +472,15 @@ document.querySelector('input').addEventListener('keyup', () => {
 document.querySelector('input').addEventListener('change', () => {
     rowCount = 0;
     createTable(getFilteredComponents(document.querySelector('select').value, document.querySelector('input').value.toLowerCase()));
+});
+
+document.getElementById('favorites').addEventListener('click', () => {
+    rowCount = 0;
+    document.getElementsByClassName('content')[0].setAttribute('id', 'animate');
+    window.setTimeout(() => {
+        document.getElementsByClassName('content')[0].setAttribute('id', 'animate-bottom');
+        createTable(getFavorites());
+    }, 10);
 });
 
 document.getElementsByClassName('favorite')[0].addEventListener('click', () => {
@@ -476,7 +497,13 @@ document.getElementsByClassName('favorite')[0].addEventListener('click', () => {
     if (favoriteStar.getAttribute('data-star') === 'off') {
         // User wants to add a favorite
         for (let i = 0; i < itemKeys.length; i++) {
-            favoriteObj[itemKeys[i].textContent] = itemValues[i].textContent;
+            if (itemKeys[i].textContent === 'price') {
+                console.log('hello there');
+                favoriteObj[itemKeys[i].textContent] = itemValues[i].textContent.slice(1);
+
+            } else {
+                favoriteObj[itemKeys[i].textContent] = itemValues[i].textContent;
+            }
         }
         console.log('Adding Favorite');
         favorites.push(favoriteObj);

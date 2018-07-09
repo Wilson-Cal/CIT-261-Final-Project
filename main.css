@@ -306,10 +306,12 @@ th.sort-by:after {
 
 .favorite {
     float: left;
+    font-size: 18px;
 }
 
 .favorite:hover {
     cursor: pointer;
+    color: whitesmoke;
 }
 
 @-webkit-keyframes animatetop {
@@ -352,6 +354,10 @@ th.sort-by:after {
     padding: 0.5px 5px;
     background-color: #222;
     color: #999;
+}
+
+#item-name {
+    margin-left: 25px;
 }
 
 .modal-body {
@@ -446,15 +452,18 @@ footer>ul>li {
         margin: 10px;
     }
     .nav>input[type=search]:hover {
-        width: 50%;
+        width: 30%;
     }
     h1.title {
         margin: 10px;
     }
     .nav>select {
-        width: 30%;
+        width: 25%;
     }
     .nav>li {
-        width: 20%
+        width: 20%;
+    }
+    #favorites {
+        width: 25%;
     }
 }
