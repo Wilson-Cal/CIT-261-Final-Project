@@ -461,7 +461,7 @@ document.querySelector('select').addEventListener('change', () => {
         setCategoryTitle(this.value);
         document.getElementsByClassName('content')[0].setAttribute('id', 'animate-bottom');
         createTable(getFilteredComponents(document.querySelector('select').value, document.querySelector('input').value.toLowerCase()));
-    }, 50);
+    }, 75);
 
 });
 
@@ -483,7 +483,7 @@ document.getElementById('favorites').addEventListener('click', () => {
         document.getElementsByClassName('content')[0].setAttribute('id', 'animate-bottom');
         createTable(getFavorites());
         document.querySelector('footer').style.display = 'none';
-    }, 50);
+    }, 75);
 });
 
 document.getElementsByClassName('favorite')[0].addEventListener('click', () => {
